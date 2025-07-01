@@ -20653,6 +20653,10 @@ file = "kubejs/startup_scripts/wold_stuff.js"
 hash = "96c72a4849220ad3993d286185ad3f87b2a412421dc92b3448c0a59486837025"
 
 [[files]]
+file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
+hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "91dd190167e05be95ef648fba16048a7c253544ab394a1cb70669a567c6e63a8"
 metafile = true
@@ -20886,6 +20890,10 @@ metafile = true
 file = "mods/botanical-machinery.pw.toml"
 hash = "60571a76293005a1dbf48c24f2e1b1ab3b88d63884044b9c897ceee81dc495ff"
 metafile = true
+
+[[files]]
+file = "mods/botanicalextramachinery-1.18.2-1.0.1.jar"
+hash = "52dd3d3f65e1bc9663dad4f6433d180b262e87f1abc07046c4a1c6f9f1edee25"
 
 [[files]]
 file = "mods/botany-pots-tiers.pw.toml"
@@ -21973,6 +21981,10 @@ hash = "e858b811961f6b52644207171c3e052d885e5ba11e19b5e133f063945b4e973a"
 metafile = true
 
 [[files]]
+file = "mods/moreoverlays-1.20.12-mc1.18.2.jar"
+hash = "45ed3a9bf75d09e92c758ee529d4c9c2151969b78a77632abaa906fed38319a8"
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "56dd568fd3afba66ad216fdff9715e05b568c3269668a498a602c5663adbec24"
 metafile = true
@@ -22026,6 +22038,10 @@ metafile = true
 file = "mods/neon-craft-2-mod.pw.toml"
 hash = "621bec521a5ab0684771900513b4f0e4f97a022b66aa516693594b3edc81cf69"
 metafile = true
+
+[[files]]
+file = "mods/neoncraft2-2.2.jar"
+hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
 
 [[files]]
 file = "mods/neruina.pw.toml"
@@ -22373,6 +22389,10 @@ hash = "b073bc26ced521c8449225b45753eb27cad9eb1801c37806855890f3f4aab153"
 metafile = true
 
 [[files]]
+file = "mods/skinlayers3d-forge-1.6.5-mc1.18.2.jar"
+hash = "e32a9d2bad999b5de6a42ad16a79db2b3958150616eac2c00665541f8b26b612"
+
+[[files]]
 file = "mods/sky-guis.pw.toml"
 hash = "9b7eb2a272c9ef2144da32c3f183f4823980a2871c44f6d6bd20deab462c8a0a"
 metafile = true
@@ -22621,6 +22641,14 @@ metafile = true
 file = "mods/vault-integrations.pw.toml"
 hash = "bbfeca4edfdb2b90d0b2c08c2679efaa45e58eb1e7569b8a3fed9027fddbad26"
 metafile = true
+
+[[files]]
+file = "mods/vault_hunters_jewel_sorting-2.7.4.jar"
+hash = "ad37f97bd3deedb2b35cf507e06bc6a9df74aa5d34ed067f2b34bbeca4a6bc7e"
+
+[[files]]
+file = "mods/vault_hunters_sync_server_config-1.4.0.jar"
+hash = "24bd7e2f110c670ecd49cf0a4e7a631ca266ce5286f53ade3d55fd415cb0fb35"
 
 [[files]]
 file = "mods/vaultarhud.pw.toml"
@@ -24381,6 +24409,10 @@ hash = "c73628e279cee2729be1a409fa4940b4a88246fa260e0e605b37ca0cfe85c420"
 [[files]]
 file = "resourcepacks/Wold's Vaults Personal Touches/pack.png"
 hash = "7cffec9c760068c14eb138c08b2394fd938983074389c53592e5164854a42be2"
+
+[[files]]
+file = "resourcepacks/[Moonsu] Better GUI for Sophisticated Backpacks 1.0 1.18x.zip"
+hash = "bb96eba333768c25037a9d2c1c85c3fb47a19db11493fcc108e856349f47c472"
 
 [[files]]
 file = "resourcepacks/moonsu-better-gui-for-sophisticated-backpacks.pw.toml"
