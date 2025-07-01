@@ -22283,11 +22283,8 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "d53aa0e66179c646e8b9ad859fb28b11ef57fabb2cee800237c2b3c73676a9ce"
+hash = "e053b6720c030163d87352fefc4c5eacba947091953d860fb64804868a96e109"
 metafile = true
-[env]
-client = true
-server = false
 
 [[files]]
 file = "mods/runelic.pw.toml"
