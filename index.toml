@@ -20806,7 +20806,7 @@ metafile = true
 
 [[files]]
 file = "mods/auudio-forge.pw.toml"
-hash = "85047dd3e82f1ed70055d856c377aece5fe53c1b2af95cc31f2ee42ec8073bdc"
+hash = "111bb803bfbcf88d8574dc329e4e2bb2448c2ce7a42371d6d2777fd3122ae695"
 metafile = true
 
 [[files]]
@@ -21050,7 +21050,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "3090000d5dfd3b27200e5f8fd083c7a60897f78346f20d80bc1875ee9102a89f"
+hash = "7a54a38232c1b40b171a7fdf9ccf659622810eebd951000530fc7e49356fd82b"
 metafile = true
 
 [[files]]
@@ -21225,7 +21225,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "0eaa9e44ba1c78fb700fcc891fd3997eafc0d795cb2338f78a50b63a714ee7ab"
+hash = "ad005a5dd09d667a9600756c71f12217b904f5c54ecde7c8a2b30315edfb2937"
 metafile = true
 
 [[files]]
@@ -21280,12 +21280,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "53b3837ad681552346b76191578046b485665bf40dbd2241e47cbef71ce2e051"
+hash = "1cfab57867fcadf52da34b363e20709f1fc26a1fa5c16464f210e3afcafd3eb5"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "ac289dd0c26431b7158b1a9ca2f1d5434d952cff9a49f1ae5ff64015352fefc2"
+hash = "a6da49ebc45960f1003cead5e3bba2e28f5c2091fa861e5729741855f89a4ed7"
 metafile = true
 
 [[files]]
@@ -21320,7 +21320,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "2260609a2f31de769166bb5a972e8e142b254e91ac68cbe544de4d48a18b2633"
+hash = "614ae8dc8d2bf44ff11f8a2f5ffe50b207f9ed5b82dcbed976a82d60f9edd9c3"
 metafile = true
 
 [[files]]
@@ -21600,7 +21600,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemlocks.pw.toml"
-hash = "c00bbf7f7315d7a141b5eefe57f86ebd1158767e659c07563e19128c50bffa6a"
+hash = "ed41e9a42c44481e4adc3b09916fd8af5259822027ecb6d6649bd0bb19d4ac36"
 metafile = true
 
 [[files]]
@@ -22043,7 +22043,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "e53b9d4de22cf50f4ecd3d1ca0dd2b0cb2e887eb7a73eda4aa772fd41fafa4bb"
+hash = "e3aa914d6fc05be2622ab46b54a7ea1d9350b253ecbeef37f021f069fd4bf37d"
 metafile = true
 
 [[files]]
@@ -22073,7 +22073,7 @@ metafile = true
 
 [[files]]
 file = "mods/packmenu.pw.toml"
-hash = "fe56dc4f89b1376cd7cd8519d5d22b7dcb62c71b9b4146ae8b4029e4d51fb820"
+hash = "a66635f5da5acd25b13e6210fb8fdb39826107df12baf040e2024ad733e6e4dc"
 metafile = true
 
 [[files]]
@@ -22193,7 +22193,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "7a68bc864f07c61321b6b48b52023ef73b21bc6bed2940f974f7df02f80621f3"
+hash = "2e9ee45f89e4ed741e2fd1404bd27db0595202dc83b09bb39cfe7d0096b4fa3a"
 metafile = true
 
 [[files]]
@@ -22467,7 +22467,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "ed29c244621b259a568dd4a82254e14a3ff6b5fca8e470ff2cd5775d4d194573"
+hash = "9b20947a3fb0fe011ee56c9a7db69eb267d7073b2b96f3df5a76b5d571c4d470"
 metafile = true
 
 [[files]]
