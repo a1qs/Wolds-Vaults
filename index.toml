@@ -14,7 +14,7 @@ hash = "793f7cb2c3df92f832445b365daaf68e9663489de0d4233434589ca449136337"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "cffcd4686244b7eb91149f7876e6d44b7d39c4cc884c469e878e37b0237484c8"
+hash = "a6bb3a766c8f0e0bab802b625f288b5e7315000ffc1b95fce695a20277d97493"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -197,6 +197,10 @@ file = "config/serverconfigupdater-common.toml"
 hash = "5dbf17db55197a501dd7ba9918897e7ae8b311a80ade0d3fcc7092039b64306a"
 
 [[files]]
+file = "config/supplementaries-registry.toml"
+hash = "c086a85a8321d8cc2cc6ed06a0968b11f0d8e4d3c3b97b5c969e8a0ef4d1f8c3"
+
+[[files]]
 file = "config/the_vault/abilities.json"
 hash = "d22359cb9f264ac86074d1f58424c8f253c160891260ca2aa6299d0f392d59fe"
 
@@ -366,7 +370,7 @@ hash = "1d286e4c4c3c7bb4d9478b54cf490b82e69444749fec86ac0b84ccf05d5dc183"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "3a4c2693f3104586cef9b237c141f487e0bd71b73e5be74123b256f9018e3068"
+hash = "64e421ce611b9725b019dd9cf7da2dcac20631c05ee6b3d11dcd8dd13d39a5ff"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -478,7 +482,7 @@ hash = "5a97931fe3ec35cdcc95ee411e58515bfd884509dd67ae84009b75a99efef8c1"
 
 [[files]]
 file = "config/the_vault/etching.json"
-hash = "b25bdfd6a5ea28c473dfc8d39ecfced3679b27dbad8d754be5511e6026af3aa8"
+hash = "e144cd15db9f99a54962726c84b5976d45735b6826587acda4df6478f4fe0786"
 
 [[files]]
 file = "config/the_vault/etching_shop_pedestal.json"
@@ -3430,7 +3434,7 @@ hash = "b2e339ec6950c90f940658171b6de28b651de19a6f8280be33a7d868836bdc49"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/base_map.json"
-hash = "7cc7bbaae9b3362bdf7f90f4a47a22fccc2a775223a5b9bb327d02626915b16e"
+hash = "b9f8e64884c63a9ee58863bea3ab9d3adf70cf99cec6c6ac6aa909061571bff9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/base_objective.json"
@@ -14186,7 +14190,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/raid_actions.json"
-hash = "654cfb2a81b9b0fd8f54d29628fc0e16ee58b152787a35941708506783a7ec97"
+hash = "c7c2bce64add94a344e727a15c7f21fbbad1758a67164e37bde9adbf78083ef6"
 
 [[files]]
 file = "config/the_vault/rare_shop_pedestal.json"
@@ -14242,7 +14246,7 @@ hash = "e9294857a7162e8d606cc38928f7350f10bffda98387153e3150a2b8db906f2a"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "c838a48ac838f48868b5d991e5ed6fabfd19a553a0c97b3af893a595856bda92"
+hash = "482299a9b5ced4db8b7d08ad81c4d22e415249eba4437620a6736cd42787b095"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -14282,7 +14286,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "e30117e8cbde5c9fb44d52e9d9dcf9d7b27d9aeb8af5ef2ee0c91aae46977745"
+hash = "67662cd878e91b4f54044d306276cee76bab897eaad3c2b51378ed769edb1672"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -16078,7 +16082,7 @@ hash = "1d29d41b611163d43c0da4787e29221da09efeed34e476382958a7fc875eafc8"
 
 [[files]]
 file = "configureddefaults/config/supplementaries-registry.toml"
-hash = "06f10a764d0832cf3ea3f75a1380ecc8c8ce18fecda4407393dd4c0021133d90"
+hash = "c086a85a8321d8cc2cc6ed06a0968b11f0d8e4d3c3b97b5c969e8a0ef4d1f8c3"
 
 [[files]]
 file = "configureddefaults/config/terrablender.toml"
@@ -16178,7 +16182,7 @@ hash = "41bb61bc105b3dce08ef1bb766a94a99f5c802feedfb45b7b6a452f89c623701"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/carryon-server.toml"
-hash = "88d08fb51bd7f75eefd4619ae493839fbc723c79af217f3e5bc3d015fc90d915"
+hash = "380e3883ab0ee8c3e1f156b979da215ebcc8bd5d2581088fe5f83620fbda1d71"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/casinocraft-server.toml"
@@ -16274,7 +16278,7 @@ hash = "d2892bf8a6b45940c4ab9bad67b62e973fb8fcb398a724aa99a57acf4bae338e"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
-hash = "88d08fb51bd7f75eefd4619ae493839fbc723c79af217f3e5bc3d015fc90d915"
+hash = "380e3883ab0ee8c3e1f156b979da215ebcc8bd5d2581088fe5f83620fbda1d71"
 
 [[files]]
 file = "defaultconfigs/casinocraft-server.toml"
@@ -20361,6 +20365,10 @@ file = "kubejs/server_scripts/vh_compat/lightmans_currency/recipes.js"
 hash = "8ebfade7ba2a69c033c3bc01db5b0a0ed9e0f41fd229a62d78b871321e695523"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/lightmans_currency/tags.js"
+hash = "011b9aafe09603a4274c8c44a833cbb83e24a410648ca45701e5d8f984e9a3e1"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/little_logistics/recipes.js"
 hash = "8de3b4ac8580f6c47ea753e51807a6598ff798b5289336d31fa3d1482d40f387"
 
@@ -20804,11 +20812,6 @@ metafile = true
 [[files]]
 file = "mods/auxblocks.pw.toml"
 hash = "40109743559134882afbaea652496ad80f91610668113527369dcf1a7246acd3"
-metafile = true
-
-[[files]]
-file = "mods/bagus-lib.pw.toml"
-hash = "daf2cc0d0c46853cabd4e393e14f95f0afc1b80a30333abefe386f724148db05"
 metafile = true
 
 [[files]]
@@ -21291,11 +21294,6 @@ hash = "49ea2eace095f905b5cd4d4df7f58fb1344a0eea0c8c57a6f3f7b58cdd7cfc35"
 metafile = true
 
 [[files]]
-file = "mods/enchant-with-mob.pw.toml"
-hash = "49192737ee27d6278c3de1997dc973247ba3bd902f38f47f78ca18af8fa8b994"
-metafile = true
-
-[[files]]
 file = "mods/enercell.pw.toml"
 hash = "50914f70d0f77cafa983870e007c8c653989f5a7c7a368f8275a2ff620703e44"
 metafile = true
@@ -21772,7 +21770,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "053819bff2004c09e1761127a223382810646cbca1ee1b8e5c3c662024faaee7"
+hash = "077f4b9d5d238e77f79ca4697e40ce5f33f48cdf72b2f3b38e53559148cf953e"
 metafile = true
 
 [[files]]
@@ -22394,7 +22392,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-vault-hunters-edition.pw.toml"
-hash = "aa0995d0f308ef783139d579da7e52befa6b38f5c26b11fcf98114136a843f25"
+hash = "edc44013fe3d420fe7928636a39a2b99e81fd08e111977397c0a8776e6555325"
 metafile = true
 
 [[files]]
@@ -22559,7 +22557,7 @@ metafile = true
 
 [[files]]
 file = "mods/unobtanium-vault-hunters-fixes.pw.toml"
-hash = "54643dfbfbe95248fd6ef5d9d46fb3806e055b7566023047940e7da65636a119"
+hash = "f1e2ff1f192c4b94355d09f455c9949fc19565a0a806bb52bd39366424f72016"
 metafile = true
 
 [[files]]
@@ -22662,7 +22660,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "a4c039a4a0b76be95fc108fe5f21abb4f3d4c8820a5423c5523afead07f82ef2"
+hash = "78fc53cacff24ce284c5c506c8291494ceabd28f7baacd836cc9d70f07195df0"
 metafile = true
 
 [[files]]
@@ -24526,7 +24524,7 @@ hash = "b72aceb719108171c4ab59eeb45af7a9638309d83289eea4927fddf5460b4ba6"
 
 [[files]]
 file = "scripts/ae2.zs"
-hash = "d777dd844b28c63c1cccea33baef5b7af48344954a83b2f6028564cb25a806be"
+hash = "eb68e2a48beeb9681317527f43b046264d412e38736d8ed27b688b4695f7886f"
 
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"
