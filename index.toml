@@ -21625,7 +21625,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-bookmark-sharing.pw.toml"
-hash = "2cb82751d1ffb583efd9dc033adabd748b2b1b2fa91c263d12d87098ca5034ea"
+hash = "fbbdd074379301f7cd371f00be6a9e7ba1d48ae7f2e4c0e444e066451a8eb820"
 metafile = true
 
 [[files]]
@@ -21755,7 +21755,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "793119b3d88f284ee5ff3c4f8d6417629c95844b698923873f013b25c320d15e"
+hash = "b9db0b83a3b5e5b697e4fd6f5271eebb8ccb58d462f634f578adc087cddd8363"
 metafile = true
 
 [[files]]
@@ -22014,7 +22014,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "57bc914e48aac9e936c2fd598e1e06b1f3bcc83bf063db54484e8d729430157d"
+hash = "823362a35916c12ae4076e7b280aca4c408952d14edc28a44ed1c8b1cebe4e61"
 metafile = true
 
 [[files]]
@@ -22228,7 +22228,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforgium.pw.toml"
-hash = "86ee5de9d4f01efbc052e0892be674253e453ec6120844de35c880a4c6e26f68"
+hash = "4a4a47ed992e02f945c5ba41ce2bb2e39ea34430974be99f12ec35cecb9fe577"
 metafile = true
 
 [[files]]
