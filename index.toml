@@ -20882,11 +20882,6 @@ hash = "b68ab1923b95c0481fc6f1f63e4f70c6e353c03cc2e440210eadf8cd957ab979"
 metafile = true
 
 [[files]]
-file = "mods/botanical-machinery-extra.pw.toml"
-hash = "158184d7b0ddf2d91152d7a36dd19158610617e3a5d7aec4e8ca71b1675b530a"
-metafile = true
-
-[[files]]
 file = "mods/botanical-machinery.pw.toml"
 hash = "60571a76293005a1dbf48c24f2e1b1ab3b88d63884044b9c897ceee81dc495ff"
 metafile = true
@@ -20903,11 +20898,6 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "007b6b46d107888310f3f4a429d7f99050012016c5758ef7fbe13f8393414717"
-metafile = true
-
-[[files]]
-file = "mods/builders-delight-forge.pw.toml"
-hash = "e541ac5d23ddd1b2a108a584c2d14e1c48ab753f1169e1cfb09dbf8da6dca4c7"
 metafile = true
 
 [[files]]
@@ -21971,11 +21961,6 @@ hash = "0194235b0c9857729b2f8a86308085ac8efd6b12c590f228c7a56c2555036df6"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "dbc527928be5600f7db46cfc900cffa3e681fc0df2d83d55fdde39b1118cb4b4"
-metafile = true
-
-[[files]]
 file = "mods/more-peripherals.pw.toml"
 hash = "e858b811961f6b52644207171c3e052d885e5ba11e19b5e133f063945b4e973a"
 metafile = true
@@ -22032,11 +22017,6 @@ metafile = true
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "57bc914e48aac9e936c2fd598e1e06b1f3bcc83bf063db54484e8d729430157d"
-metafile = true
-
-[[files]]
-file = "mods/neon-craft-2-mod.pw.toml"
-hash = "621bec521a5ab0684771900513b4f0e4f97a022b66aa516693594b3edc81cf69"
 metafile = true
 
 [[files]]
@@ -22384,11 +22364,6 @@ hash = "e3f78c02c979ddc9dbc6d639eb2f5d85e685dd31c716ca8f4e67c0989192cfcc"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "b073bc26ced521c8449225b45753eb27cad9eb1801c37806855890f3f4aab153"
-metafile = true
-
-[[files]]
 file = "mods/skinlayers3d-forge-1.6.5-mc1.18.2.jar"
 hash = "e32a9d2bad999b5de6a42ad16a79db2b3958150616eac2c00665541f8b26b612"
 
@@ -22623,18 +22598,8 @@ hash = "5faa5da45c22d58fb67953732e34c41c06d42ad44bd5fd0274860ff4bb18d5b6"
 metafile = true
 
 [[files]]
-file = "mods/vault-hunters-jewel-sorting.pw.toml"
-hash = "0472f2b3f23cf1c36d1e1807359b466e270bbfa587c05104aa0607ad652b5195"
-metafile = true
-
-[[files]]
 file = "mods/vault-hunters-official-mod.pw.toml"
 hash = "ba1e93e6c826e7117d335653836c5a53d16c745fdc26cb124bf1f028cf8a8a50"
-metafile = true
-
-[[files]]
-file = "mods/vault-hunters-server-config-sync.pw.toml"
-hash = "c306de450db463ecaad4c886ee88aeebef1b70aa07c52abfd039479c0c38e2a4"
 metafile = true
 
 [[files]]
@@ -24413,11 +24378,6 @@ hash = "7cffec9c760068c14eb138c08b2394fd938983074389c53592e5164854a42be2"
 [[files]]
 file = "resourcepacks/[Moonsu] Better GUI for Sophisticated Backpacks 1.0 1.18x.zip"
 hash = "bb96eba333768c25037a9d2c1c85c3fb47a19db11493fcc108e856349f47c472"
-
-[[files]]
-file = "resourcepacks/moonsu-better-gui-for-sophisticated-backpacks.pw.toml"
-hash = "3c4c2a04988c27aeb444ad92c3f553432b18448fc5571c60ad906baba64a4856"
-metafile = true
 
 [[files]]
 file = "resourcepacks/vault-loafers.pw.toml"
