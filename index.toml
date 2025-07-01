@@ -50,7 +50,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "d837248bd291aff72a4aa8681a4351d324b3949b27f333def8873185d8353bbc"
+hash = "539260d30ff88cbd1836f65673e64e9fecce1257da48da710736c902cf966828"
 
 [[files]]
 file = ".onedev-buildspec.yml"
