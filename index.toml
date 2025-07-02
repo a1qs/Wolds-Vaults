@@ -21774,6 +21774,11 @@ hash = "077f4b9d5d238e77f79ca4697e40ce5f33f48cdf72b2f3b38e53559148cf953e"
 metafile = true
 
 [[files]]
+file = "mods/lightmans-discord-integration.pw.toml"
+hash = "465fd6be38d6b5d2399cc2a62f0dad810932fb1db997638427bf2609130ecf54"
+metafile = true
+
+[[files]]
 file = "mods/little-contraptions.pw.toml"
 hash = "b2007aadcb12f82cc94e2baaa286b87e27fb8f6b2ebdae4b13f0622db550d1c3"
 metafile = true
