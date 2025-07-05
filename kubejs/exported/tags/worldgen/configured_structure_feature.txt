@@ -126,9 +126,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #terralith:zpointer/minecraft_snowy_plains
 - terralith:zpointer/minecraft_snowy_plains
 
-#pneumaticcraft:no_oil_lakes
-- #minecraft:village
-
 #minecraft:bastion_remnant
 - minecraft:bastion_remnant
 

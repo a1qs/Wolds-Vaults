@@ -186,32 +186,6 @@ onEvent("recipes", event => {
         X: 'botania:gaia_ingot'
     })
 
-    event.shaped(Item.of('pneumaticcraft:creative_compressed_iron_block'),
-        [
-            'XVX',
-            'ECE',
-            'XBX'
-        ], {
-        C: 'pneumaticcraft:compressed_iron_block',
-        B: 'the_vault:wold_star',
-        E: 'the_vault:echo_pog',
-        V: 'the_vault:vault_diamond_block_1',
-        X: 'pneumaticcraft:plastic'
-    })
-
-    event.shaped(Item.of('pneumaticcraft:creative_compressor'),
-        [
-            'XVX',
-            'ECE',
-            'XBX'
-        ], {
-        C: 'pneumaticcraft:advanced_air_compressor',
-        B: 'the_vault:wold_star',
-        E: 'the_vault:echo_pog',
-        V: 'the_vault:vault_diamond_block_1',
-        X: 'pneumaticcraft:compressed_iron_block'
-    })
-
     event.shaped(Item.of('create:creative_fluid_tank'),
         [
             'XVX',

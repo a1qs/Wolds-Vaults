@@ -102,15 +102,6 @@ onEvent("recipes", event => {
         E: 'mysticalagriculture:lead_essence'
     })
 
-    event.shaped(Item.of('pneumaticcraft:ingot_iron_compressed', 6),
-        [
-            'EEE',
-            'E E',
-            'EEE'
-        ], {
-        E: 'mysticalagriculture:compressed_iron_essence'
-    })
-
     event.shaped(Item.of('thermal:enderium_ingot', 2),
         [
             'EEE',

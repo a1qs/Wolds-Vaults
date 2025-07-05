@@ -1,6 +1,6 @@
 {
     "name": "Movement Speed (Prefix)",
-    "icon": "pneumaticcraft:pneumatic_boots",
+    "icon": "minecraft:netherite_boots",
     "category": "patchouli:offhand_prefixes",
     "pages": [
         {

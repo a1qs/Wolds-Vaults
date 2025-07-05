@@ -412,7 +412,7 @@
 		{
 			title: "Researchers Unite"
 			icon: {
-				id: "peripherals:magnetic_card"
+				id: "ae2:memory_card"
 				Count: 1b
 				tag: { }
 			}

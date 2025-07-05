@@ -88,15 +88,6 @@
 								}
 							}
 						}
-						pneumaticcraft: {
-							0: {
-								Count: 1b
-								id: "patchouli:guide_book"
-								tag: {
-									"patchouli:book": "pneumaticcraft:book"
-								}
-							}
-						}
 						modularrouters: {
 							0: {
 								Count: 1b
@@ -116,15 +107,6 @@
 							0: {
 								Count: 1b
 								id: "cloudstorage:guide_book"
-							}
-						}
-						hexcasting: {
-							0: {
-								Count: 1b
-								id: "patchouli:guide_book"
-								tag: {
-									"patchouli:book": "hexcasting:thehexbook"
-								}
 							}
 						}
 						thermal: {
@@ -244,15 +226,6 @@
 									}
 								}
 							}
-							pneumaticcraft: {
-								0: {
-									id: "patchouli:guide_book"
-									Count: 1b
-									tag: {
-										"patchouli:book": "pneumaticcraft:book"
-									}
-								}
-							}
 							ftbquests: {
 								0: {
 									id: "ftbquests:book"
@@ -287,15 +260,6 @@
 								0: {
 									id: "cloudstorage:guide_book"
 									Count: 1b
-								}
-							}
-							hexcasting: {
-								0: {
-									id: "patchouli:guide_book"
-									Count: 1b
-									tag: {
-										"patchouli:book": "hexcasting:thehexbook"
-									}
 								}
 							}
 							thermal: {

@@ -62,9 +62,6 @@
 		mahogany = true
 		palm = true
 
-	[wood_type.hexcasting]
-		akashic = true
-
 [leaves_type]
 
 	[leaves_type.minecraft]

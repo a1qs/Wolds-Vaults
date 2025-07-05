@@ -48,18 +48,6 @@
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/iron_chests"
     },
-    "Compressed Creativity": {
-      "x": 620,
-      "y": 120,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/compressed_creativity"
-    },
-    "Advanced Peripherals": {
-      "x": 570,
-      "y": 120,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/advanced_peripherals"
-    },
     "Incorporeal": {
       "x": 670,
       "y": 120,
@@ -113,12 +101,6 @@
       "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/rftools_storage"
-    },
-    "Toms Simple Storage": {
-      "x": 10,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/simple_storage_network"
     },
     "Integrated Dynamics": {
       "x": 60,
@@ -252,12 +234,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botania"
     },
-    "PneumaticCraft": {
-      "x": 200,
-      "y": 160,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/pneumaticcraft"
-    },
     "Botania Flux Field": {
       "x": 490,
       "y": 40,
@@ -366,12 +342,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/building_gadgets"
     },
-    "ComputerCraft": {
-      "x": 60,
-      "y": 160,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/computercraft"
-    },
     "Psi": {
       "x": 10,
       "y": 310,
@@ -389,12 +359,6 @@
       "y": 310,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/digital_miner"
-    },
-    "Hexcasting": {
-      "x": 60,
-      "y": 270,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/hexcasting"
     },
     "Easy Villagers": {
       "x": 200,

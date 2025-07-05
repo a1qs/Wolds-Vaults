@@ -107,41 +107,6 @@
     },
     {
       "modIds": [
-        "compressedcreativity"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": true,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
-        }
-      },
-      "name": "Compressed Creativity",
-      "cost": 2,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "advancedperipherals",
-        "peripherals"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": true,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
-        }
-      },
-      "name": "Advanced Peripherals",
-      "cost": 2,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "incorporeal"
       ],
       "restrictions": {
@@ -449,23 +414,6 @@
         }
       },
       "name": "Cloud Storage",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "toms_storage"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
-        }
-      },
-      "name": "Toms Simple Storage",
       "cost": 1,
       "usesKnowledge": true
     },
@@ -790,23 +738,6 @@
     },
     {
       "modIds": [
-        "hexcasting"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Hexcasting",
-      "cost": 3,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "modularrouters"
       ],
       "restrictions": {
@@ -837,24 +768,6 @@
       },
       "name": "Pipez",
       "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "computercraft",
-        "cccbridge"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "ComputerCraft",
-      "cost": 3,
       "usesKnowledge": true
     },
     {
@@ -919,23 +832,6 @@
         "the_vault:gear/armor/botania/leggings",
         "the_vault:gear/armor/botania/boots"
       ]
-    },
-    {
-      "modIds": [
-        "pneumaticcraft"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "PneumaticCraft",
-      "cost": 2,
-      "usesKnowledge": true
     },
     {
       "modIds": [

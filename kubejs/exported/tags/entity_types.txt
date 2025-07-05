@@ -481,8 +481,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:illusioner
 - minecraft:witch
 
-#pneumaticcraft:vacuum_trap_blacklisted
-
 #minecraft:axolotl_hunt_targets
 - minecraft:tropical_fish
 - minecraft:pufferfish
@@ -718,9 +716,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:cat
 - minecraft:rabbit
 
-#pneumaticcraft:omnihopper_blacklisted
-- minecraft:villager
-
 #alexsmobs:froststalker_targets
 - #alexsmobs:villagers
 - #alexsmobs:passive_land_animals
@@ -732,21 +727,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:bee
 - minecraft:parrot
 - minecraft:ocelot
-
-#hexcasting:sticky_teleporters
-- create:contraption?
-- create:stationary_contraption?
-- create:gantry_contraption?
-- create:carriage_contraption?
-- minecraft:pig
-- minecraft:strider
-- minecraft:horse
-- minecraft:skeleton_horse
-- minecraft:zombie_horse
-- minecraft:mule
-- minecraft:donkey
-- minecraft:llama
-- minecraft:trader_llama
 
 #supplementaries:cage_catchable
 - minecraft:slime?
@@ -919,18 +899,3 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - alexsmobs:jerboa
 - alexsmobs:catfish
 - alexsmobs:flying_fish
-
-#hexcasting:cannot_teleport
-- create:stationary_contraption?
-- create:gantry_contraption?
-- create:carriage_contraption?
-- create:super_glue?
-- create:crafting_blueprint?
-- create:seat?
-- minecraft:wither
-- minecraft:end_crystal
-- minecraft:ender_dragon
-- minecraft:item_frame
-- minecraft:painting
-- minecraft:leash_knot
-- minecraft:marker
