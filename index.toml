@@ -14254,11 +14254,11 @@ hash = "6916ac08fa6f9b03b4aacf536ba905ab52f73ef24d1add0378521705a95fd714"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "8406a4f3653cfe92b6748350bcdd1a46bb3880f7cbe5a0630dc86b486b28365c"
+hash = "4894e4ba1bba83fc41ef8e1597994cf009e449e669b3d0753c14b9634aad092a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "1fc824fd7b830a099db288728ffe7fc81561e63d66e671ce83352eacd133c14d"
+hash = "48cce29fcfc3f37dc3e9cd2b54bbaccfb8f01e0681449d0e5461c03fc7e127e6"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
