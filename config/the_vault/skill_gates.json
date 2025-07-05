@@ -240,30 +240,6 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
-      "Advanced Peripherals": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "ComputerCraft"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Compressed Creativity": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Create"
-          },
-          {
-            "type": "constant",
-            "id": "PneumaticCraft"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
       "Applied Mekanistics": {
         "dependsOn": [
           {
@@ -661,10 +637,6 @@
           },
           {
             "type": "constant",
-            "id": "PneumaticCraft"
-          },
-          {
-            "type": "constant",
             "id": "Mob Spawners"
           },
           {
@@ -673,19 +645,11 @@
           },
           {
             "type": "constant",
-            "id": "ComputerCraft"
-          },
-          {
-            "type": "constant",
             "id": "Pipez"
           },
           {
             "type": "constant",
             "id": "Modular Routers"
-          },
-          {
-            "type": "constant",
-            "id": "Hexcasting"
           },
           {
             "type": "constant",
@@ -738,10 +702,6 @@
           {
             "type": "constant",
             "id": "Waystones"
-          },
-          {
-            "type": "constant",
-            "id": "Toms Simple Storage"
           },
           {
             "type": "constant",
@@ -806,14 +766,6 @@
           {
             "type": "constant",
             "id": "Incorporeal"
-          },
-          {
-            "type": "constant",
-            "id": "Advanced Peripherals"
-          },
-          {
-            "type": "constant",
-            "id": "Compressed Creativity"
           },
           {
             "type": "constant",

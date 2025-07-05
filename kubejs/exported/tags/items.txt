@@ -94,7 +94,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:tinted_glass
 
 #forge:gears
-- pneumaticcraft:compressed_iron_gear
 - #forge:gears/copper
 - #forge:gears/gold
 - #forge:gears/iron
@@ -657,7 +656,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:pink_stained_glass
 
 #forge:chests
-- #pneumaticcraft:chests
 - #forge:chests/ender
 - #forge:chests/trapped
 - #forge:chests/wooden
@@ -1094,10 +1092,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #forge:raw_materials/uraninite
 - powah:uraninite_raw
 
-#computercraft:monitor
-- computercraft:monitor_normal
-- computercraft:monitor_advanced
-
 #chipped:cyan_stained_glass_pane
 - minecraft:cyan_stained_glass_pane
 - chipped:cyan_stained_glass_pane_1
@@ -1192,30 +1186,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - refinedstorage:red_network_transmitter
 - refinedstorage:black_network_transmitter
 
-#hexcasting:wands
-- hexcasting:wand_akashic
-- hexcasting:wand_oak
-- hexcasting:wand_spruce
-- hexcasting:wand_birch
-- hexcasting:wand_jungle
-- hexcasting:wand_acacia
-- hexcasting:wand_dark_oak
-- hexcasting:wand_crimson
-- hexcasting:wand_warped
-
 #forge:storage_blocks/lapis
 - minecraft:lapis_block
-
-#pneumaticcraft:chests
-- pneumaticcraft:smart_chest
-- pneumaticcraft:reinforced_chest
 
 #forge:armors/helmets
 - create:copper_diving_helmet
 - create:netherite_diving_helmet
-
-#pneumaticcraft:reinforced_stone
-- pneumaticcraft:reinforced_stone
 
 #chipped:brown_concrete
 - minecraft:brown_concrete
@@ -1558,7 +1534,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_mail_box
 - everycomp:cfm/ecologics/walnut_mail_box
 - everycomp:cfm/the_vault/overgrown_wooden_mail_box
-- everycomp:cfm/hexcasting/akashic_mail_box
 - everycomp:cfm/twigs/bamboo_mail_box
 - everycomp:cfm/wildbackport/mangrove_mail_box
 - everycomp:cfm/the_vault/driftwood_mail_box
@@ -1597,7 +1572,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_kitchen_drawer
 - everycomp:cfm/ecologics/walnut_kitchen_drawer
 - everycomp:cfm/the_vault/overgrown_wooden_kitchen_drawer
-- everycomp:cfm/hexcasting/akashic_kitchen_drawer
 - everycomp:cfm/twigs/bamboo_kitchen_drawer
 - everycomp:cfm/wildbackport/mangrove_kitchen_drawer
 - everycomp:cfm/the_vault/driftwood_kitchen_drawer
@@ -1636,7 +1610,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_desk_cabinet
 - everycomp:cfm/ecologics/walnut_desk_cabinet
 - everycomp:cfm/the_vault/overgrown_wooden_desk_cabinet
-- everycomp:cfm/hexcasting/akashic_desk_cabinet
 - everycomp:cfm/twigs/bamboo_desk_cabinet
 - everycomp:cfm/wildbackport/mangrove_desk_cabinet
 - everycomp:cfm/the_vault/driftwood_desk_cabinet
@@ -1675,7 +1648,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_crate
 - everycomp:cfm/ecologics/walnut_crate
 - everycomp:cfm/the_vault/overgrown_wooden_crate
-- everycomp:cfm/hexcasting/akashic_crate
 - everycomp:cfm/twigs/bamboo_crate
 - everycomp:cfm/wildbackport/mangrove_crate
 - everycomp:cfm/the_vault/driftwood_crate
@@ -1714,7 +1686,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_cabinet
 - everycomp:cfm/ecologics/walnut_cabinet
 - everycomp:cfm/the_vault/overgrown_wooden_cabinet
-- everycomp:cfm/hexcasting/akashic_cabinet
 - everycomp:cfm/twigs/bamboo_cabinet
 - everycomp:cfm/wildbackport/mangrove_cabinet
 - everycomp:cfm/the_vault/driftwood_cabinet
@@ -1753,7 +1724,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_park_bench
 - everycomp:cfm/ecologics/walnut_park_bench
 - everycomp:cfm/the_vault/overgrown_wooden_park_bench
-- everycomp:cfm/hexcasting/akashic_park_bench
 - everycomp:cfm/twigs/bamboo_park_bench
 - everycomp:cfm/wildbackport/mangrove_park_bench
 - everycomp:cfm/the_vault/driftwood_park_bench
@@ -1792,7 +1762,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_bedside_cabinet
 - everycomp:cfm/ecologics/walnut_bedside_cabinet
 - everycomp:cfm/the_vault/overgrown_wooden_bedside_cabinet
-- everycomp:cfm/hexcasting/akashic_bedside_cabinet
 - everycomp:cfm/twigs/bamboo_bedside_cabinet
 - everycomp:cfm/wildbackport/mangrove_bedside_cabinet
 - everycomp:cfm/the_vault/driftwood_bedside_cabinet
@@ -2270,10 +2239,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:raw_iron
 - minecraft:raw_iron
 
-#computercraft:turtle
-- computercraft:turtle_normal
-- computercraft:turtle_advanced
-
 #forge:ingots/invar
 - thermal:invar_ingot
 
@@ -2439,7 +2404,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:stripped_dreamwood_wall
 - botania:stripped_livingwood_wall
 - #libx:impl_walls
-- #pneumaticcraft:walls
 - ecologics:seashell_tile_wall
 - ecologics:snow_brick_wall
 - ecologics:ice_brick_wall
@@ -2680,24 +2644,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #forge:bones/wither
 - architects_palette:withered_bone
 
-#pneumaticcraft:wall_lamps_inverted
-- pneumaticcraft:wall_lamp_inverted_white
-- pneumaticcraft:wall_lamp_inverted_orange
-- pneumaticcraft:wall_lamp_inverted_magenta
-- pneumaticcraft:wall_lamp_inverted_light_blue
-- pneumaticcraft:wall_lamp_inverted_yellow
-- pneumaticcraft:wall_lamp_inverted_lime
-- pneumaticcraft:wall_lamp_inverted_pink
-- pneumaticcraft:wall_lamp_inverted_gray
-- pneumaticcraft:wall_lamp_inverted_light_gray
-- pneumaticcraft:wall_lamp_inverted_cyan
-- pneumaticcraft:wall_lamp_inverted_purple
-- pneumaticcraft:wall_lamp_inverted_blue
-- pneumaticcraft:wall_lamp_inverted_brown
-- pneumaticcraft:wall_lamp_inverted_green
-- pneumaticcraft:wall_lamp_inverted_red
-- pneumaticcraft:wall_lamp_inverted_black
-
 #lightmanscurrency:traders/card_display
 - lightmanscurrency:card_display_oak
 - lightmanscurrency:card_display_spruce
@@ -2830,7 +2776,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #forge:gems/sulfur
 - #forge:gems/ruby
 - #forge:gems/sapphire
-- hexcasting:charged_amethyst
 - #forge:gems/fluorite
 - ae2:certus_quartz_crystal
 - ae2:charged_certus_quartz_crystal
@@ -3132,14 +3077,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - tropicraft:thatch_trapdoor
 - architects_palette:twisted_trapdoor
 - twigs:stripped_bamboo_trapdoor
-- hexcasting:akashic_trapdoor
 - quark:azalea_trapdoor
 - quark:blossom_trapdoor
 - everycomp:mct/quark/azalea_barrel_trapdoor
 - everycomp:mct/architects_palette/twisted_barrel_trapdoor
 - everycomp:mct/ecologics/walnut_barrel_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_barrel_trapdoor
-- everycomp:mct/hexcasting/akashic_barrel_trapdoor
 - everycomp:mct/wildbackport/mangrove_barrel_trapdoor
 - everycomp:mct/the_vault/driftwood_barrel_trapdoor
 - everycomp:mct/the_vault/wooden_barrel_trapdoor
@@ -3160,7 +3103,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_blossom_trapdoor
 - everycomp:mct/ecologics/walnut_blossom_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_blossom_trapdoor
-- everycomp:mct/hexcasting/akashic_blossom_trapdoor
 - everycomp:mct/wildbackport/mangrove_blossom_trapdoor
 - everycomp:mct/the_vault/driftwood_blossom_trapdoor
 - everycomp:mct/the_vault/wooden_blossom_trapdoor
@@ -3181,7 +3123,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_swamp_trapdoor
 - everycomp:mct/ecologics/walnut_swamp_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_swamp_trapdoor
-- everycomp:mct/hexcasting/akashic_swamp_trapdoor
 - everycomp:mct/wildbackport/mangrove_swamp_trapdoor
 - everycomp:mct/the_vault/driftwood_swamp_trapdoor
 - everycomp:mct/the_vault/wooden_swamp_trapdoor
@@ -3202,7 +3143,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_ranch_trapdoor
 - everycomp:mct/ecologics/walnut_ranch_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_ranch_trapdoor
-- everycomp:mct/hexcasting/akashic_ranch_trapdoor
 - everycomp:mct/twigs/bamboo_ranch_trapdoor
 - everycomp:mct/wildbackport/mangrove_ranch_trapdoor
 - everycomp:mct/the_vault/driftwood_ranch_trapdoor
@@ -3224,7 +3164,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_bamboo_trapdoor
 - everycomp:mct/ecologics/walnut_bamboo_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_bamboo_trapdoor
-- everycomp:mct/hexcasting/akashic_bamboo_trapdoor
 - everycomp:mct/twigs/bamboo_bamboo_trapdoor
 - everycomp:mct/wildbackport/mangrove_bamboo_trapdoor
 - everycomp:mct/the_vault/driftwood_bamboo_trapdoor
@@ -3246,7 +3185,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_tropical_trapdoor
 - everycomp:mct/ecologics/walnut_tropical_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_tropical_trapdoor
-- everycomp:mct/hexcasting/akashic_tropical_trapdoor
 - everycomp:mct/wildbackport/mangrove_tropical_trapdoor
 - everycomp:mct/the_vault/driftwood_tropical_trapdoor
 - everycomp:mct/the_vault/wooden_tropical_trapdoor
@@ -3267,7 +3205,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_paper_trapdoor
 - everycomp:mct/ecologics/walnut_paper_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_paper_trapdoor
-- everycomp:mct/hexcasting/akashic_paper_trapdoor
 - everycomp:mct/wildbackport/mangrove_paper_trapdoor
 - everycomp:mct/the_vault/driftwood_paper_trapdoor
 - everycomp:mct/the_vault/wooden_paper_trapdoor
@@ -3288,7 +3225,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_mystic_trapdoor
 - everycomp:mct/ecologics/walnut_mystic_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_mystic_trapdoor
-- everycomp:mct/hexcasting/akashic_mystic_trapdoor
 - everycomp:mct/wildbackport/mangrove_mystic_trapdoor
 - everycomp:mct/the_vault/driftwood_mystic_trapdoor
 - everycomp:mct/the_vault/wooden_mystic_trapdoor
@@ -3309,7 +3245,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_glass_trapdoor
 - everycomp:mct/ecologics/walnut_glass_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_glass_trapdoor
-- everycomp:mct/hexcasting/akashic_glass_trapdoor
 - everycomp:mct/wildbackport/mangrove_glass_trapdoor
 - everycomp:mct/the_vault/driftwood_glass_trapdoor
 - everycomp:mct/the_vault/wooden_glass_trapdoor
@@ -3330,7 +3265,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_four_panel_trapdoor
 - everycomp:mct/ecologics/walnut_four_panel_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_four_panel_trapdoor
-- everycomp:mct/hexcasting/akashic_four_panel_trapdoor
 - everycomp:mct/wildbackport/mangrove_four_panel_trapdoor
 - everycomp:mct/the_vault/driftwood_four_panel_trapdoor
 - everycomp:mct/the_vault/wooden_four_panel_trapdoor
@@ -3351,7 +3285,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_cottage_trapdoor
 - everycomp:mct/ecologics/walnut_cottage_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_cottage_trapdoor
-- everycomp:mct/hexcasting/akashic_cottage_trapdoor
 - everycomp:mct/wildbackport/mangrove_cottage_trapdoor
 - everycomp:mct/the_vault/driftwood_cottage_trapdoor
 - everycomp:mct/the_vault/wooden_cottage_trapdoor
@@ -3372,7 +3305,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_classic_trapdoor
 - everycomp:mct/ecologics/walnut_classic_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_classic_trapdoor
-- everycomp:mct/hexcasting/akashic_classic_trapdoor
 - everycomp:mct/wildbackport/mangrove_classic_trapdoor
 - everycomp:mct/the_vault/driftwood_classic_trapdoor
 - everycomp:mct/the_vault/wooden_classic_trapdoor
@@ -3393,7 +3325,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_beach_trapdoor
 - everycomp:mct/ecologics/walnut_beach_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_beach_trapdoor
-- everycomp:mct/hexcasting/akashic_beach_trapdoor
 - everycomp:mct/wildbackport/mangrove_beach_trapdoor
 - everycomp:mct/the_vault/driftwood_beach_trapdoor
 - everycomp:mct/the_vault/wooden_beach_trapdoor
@@ -3414,7 +3345,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_barred_trapdoor
 - everycomp:mct/ecologics/walnut_barred_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_barred_trapdoor
-- everycomp:mct/hexcasting/akashic_barred_trapdoor
 - everycomp:mct/wildbackport/mangrove_barred_trapdoor
 - everycomp:mct/the_vault/driftwood_barred_trapdoor
 - everycomp:mct/the_vault/wooden_barred_trapdoor
@@ -3435,7 +3365,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_barn_trapdoor
 - everycomp:mct/ecologics/walnut_barn_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_barn_trapdoor
-- everycomp:mct/hexcasting/akashic_barn_trapdoor
 - everycomp:mct/wildbackport/mangrove_barn_trapdoor
 - everycomp:mct/the_vault/driftwood_barn_trapdoor
 - everycomp:mct/the_vault/wooden_barn_trapdoor
@@ -3456,7 +3385,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_bark_trapdoor
 - everycomp:mct/ecologics/walnut_bark_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_bark_trapdoor
-- everycomp:mct/hexcasting/akashic_bark_trapdoor
 - everycomp:mct/twigs/bamboo_bark_trapdoor
 - everycomp:mct/wildbackport/mangrove_bark_trapdoor
 - everycomp:mct/the_vault/driftwood_bark_trapdoor
@@ -3749,10 +3677,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:black_petal
 - botania:black_mushroom
 
-#pneumaticcraft:walls
-- pneumaticcraft:reinforced_brick_wall
-- pneumaticcraft:compressed_brick_wall
-
 #forge:storage_blocks/uraninite
 - powah:uraninite_block
 
@@ -3989,14 +3913,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - mcwdoors:dark_oak_bamboo_door
 - mcwdoors:warped_bamboo_door
 - mcwdoors:crimson_bamboo_door
-- hexcasting:akashic_door
 - quark:azalea_door
 - quark:blossom_door
 - everycomp:mcd/quark/azalea_western_door
 - everycomp:mcd/architects_palette/twisted_western_door
 - everycomp:mcd/ecologics/walnut_western_door
 - everycomp:mcd/the_vault/overgrown_wooden_western_door
-- everycomp:mcd/hexcasting/akashic_western_door
 - everycomp:mcd/wildbackport/mangrove_western_door
 - everycomp:mcd/the_vault/driftwood_western_door
 - everycomp:mcd/the_vault/wooden_western_door
@@ -4017,7 +3939,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_tropical_door
 - everycomp:mcd/ecologics/walnut_tropical_door
 - everycomp:mcd/the_vault/overgrown_wooden_tropical_door
-- everycomp:mcd/hexcasting/akashic_tropical_door
 - everycomp:mcd/wildbackport/mangrove_tropical_door
 - everycomp:mcd/the_vault/driftwood_tropical_door
 - everycomp:mcd/the_vault/wooden_tropical_door
@@ -4038,7 +3959,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_stable_head_door
 - everycomp:mcd/ecologics/walnut_stable_head_door
 - everycomp:mcd/the_vault/overgrown_wooden_stable_head_door
-- everycomp:mcd/hexcasting/akashic_stable_head_door
 - everycomp:mcd/wildbackport/mangrove_stable_head_door
 - everycomp:mcd/the_vault/driftwood_stable_head_door
 - everycomp:mcd/the_vault/wooden_stable_head_door
@@ -4059,7 +3979,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_stable_door
 - everycomp:mcd/ecologics/walnut_stable_door
 - everycomp:mcd/the_vault/overgrown_wooden_stable_door
-- everycomp:mcd/hexcasting/akashic_stable_door
 - everycomp:mcd/wildbackport/mangrove_stable_door
 - everycomp:mcd/the_vault/driftwood_stable_door
 - everycomp:mcd/the_vault/wooden_stable_door
@@ -4080,7 +3999,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_japanese2_door
 - everycomp:mcd/ecologics/walnut_japanese2_door
 - everycomp:mcd/the_vault/overgrown_wooden_japanese2_door
-- everycomp:mcd/hexcasting/akashic_japanese2_door
 - everycomp:mcd/wildbackport/mangrove_japanese2_door
 - everycomp:mcd/the_vault/driftwood_japanese2_door
 - everycomp:mcd/the_vault/wooden_japanese2_door
@@ -4101,7 +4019,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_japanese_door
 - everycomp:mcd/ecologics/walnut_japanese_door
 - everycomp:mcd/the_vault/overgrown_wooden_japanese_door
-- everycomp:mcd/hexcasting/akashic_japanese_door
 - everycomp:mcd/wildbackport/mangrove_japanese_door
 - everycomp:mcd/the_vault/driftwood_japanese_door
 - everycomp:mcd/the_vault/wooden_japanese_door
@@ -4122,7 +4039,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_paper_door
 - everycomp:mcd/ecologics/walnut_paper_door
 - everycomp:mcd/the_vault/overgrown_wooden_paper_door
-- everycomp:mcd/hexcasting/akashic_paper_door
 - everycomp:mcd/wildbackport/mangrove_paper_door
 - everycomp:mcd/the_vault/driftwood_paper_door
 - everycomp:mcd/the_vault/wooden_paper_door
@@ -4143,7 +4059,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_nether_door
 - everycomp:mcd/ecologics/walnut_nether_door
 - everycomp:mcd/the_vault/overgrown_wooden_nether_door
-- everycomp:mcd/hexcasting/akashic_nether_door
 - everycomp:mcd/wildbackport/mangrove_nether_door
 - everycomp:mcd/the_vault/driftwood_nether_door
 - everycomp:mcd/the_vault/wooden_nether_door
@@ -4164,7 +4079,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_mystic_door
 - everycomp:mcd/ecologics/walnut_mystic_door
 - everycomp:mcd/the_vault/overgrown_wooden_mystic_door
-- everycomp:mcd/hexcasting/akashic_mystic_door
 - everycomp:mcd/wildbackport/mangrove_mystic_door
 - everycomp:mcd/the_vault/driftwood_mystic_door
 - everycomp:mcd/the_vault/wooden_mystic_door
@@ -4185,7 +4099,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_modern_door
 - everycomp:mcd/ecologics/walnut_modern_door
 - everycomp:mcd/the_vault/overgrown_wooden_modern_door
-- everycomp:mcd/hexcasting/akashic_modern_door
 - everycomp:mcd/wildbackport/mangrove_modern_door
 - everycomp:mcd/the_vault/driftwood_modern_door
 - everycomp:mcd/the_vault/wooden_modern_door
@@ -4206,7 +4119,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_glass_door
 - everycomp:mcd/ecologics/walnut_glass_door
 - everycomp:mcd/the_vault/overgrown_wooden_glass_door
-- everycomp:mcd/hexcasting/akashic_glass_door
 - everycomp:mcd/wildbackport/mangrove_glass_door
 - everycomp:mcd/the_vault/driftwood_glass_door
 - everycomp:mcd/the_vault/wooden_glass_door
@@ -4227,7 +4139,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_four_panel_door
 - everycomp:mcd/ecologics/walnut_four_panel_door
 - everycomp:mcd/the_vault/overgrown_wooden_four_panel_door
-- everycomp:mcd/hexcasting/akashic_four_panel_door
 - everycomp:mcd/wildbackport/mangrove_four_panel_door
 - everycomp:mcd/the_vault/driftwood_four_panel_door
 - everycomp:mcd/the_vault/wooden_four_panel_door
@@ -4248,7 +4159,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_cottage_door
 - everycomp:mcd/ecologics/walnut_cottage_door
 - everycomp:mcd/the_vault/overgrown_wooden_cottage_door
-- everycomp:mcd/hexcasting/akashic_cottage_door
 - everycomp:mcd/wildbackport/mangrove_cottage_door
 - everycomp:mcd/the_vault/driftwood_cottage_door
 - everycomp:mcd/the_vault/wooden_cottage_door
@@ -4269,7 +4179,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_classic_door
 - everycomp:mcd/ecologics/walnut_classic_door
 - everycomp:mcd/the_vault/overgrown_wooden_classic_door
-- everycomp:mcd/hexcasting/akashic_classic_door
 - everycomp:mcd/wildbackport/mangrove_classic_door
 - everycomp:mcd/the_vault/driftwood_classic_door
 - everycomp:mcd/the_vault/wooden_classic_door
@@ -4290,7 +4199,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_beach_door
 - everycomp:mcd/ecologics/walnut_beach_door
 - everycomp:mcd/the_vault/overgrown_wooden_beach_door
-- everycomp:mcd/hexcasting/akashic_beach_door
 - everycomp:mcd/wildbackport/mangrove_beach_door
 - everycomp:mcd/the_vault/driftwood_beach_door
 - everycomp:mcd/the_vault/wooden_beach_door
@@ -4311,7 +4219,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_barn_glass_door
 - everycomp:mcd/ecologics/walnut_barn_glass_door
 - everycomp:mcd/the_vault/overgrown_wooden_barn_glass_door
-- everycomp:mcd/hexcasting/akashic_barn_glass_door
 - everycomp:mcd/wildbackport/mangrove_barn_glass_door
 - everycomp:mcd/the_vault/driftwood_barn_glass_door
 - everycomp:mcd/the_vault/wooden_barn_glass_door
@@ -4332,7 +4239,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_barn_door
 - everycomp:mcd/ecologics/walnut_barn_door
 - everycomp:mcd/the_vault/overgrown_wooden_barn_door
-- everycomp:mcd/hexcasting/akashic_barn_door
 - everycomp:mcd/wildbackport/mangrove_barn_door
 - everycomp:mcd/the_vault/driftwood_barn_door
 - everycomp:mcd/the_vault/wooden_barn_door
@@ -4353,7 +4259,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mcd/architects_palette/twisted_bark_glass_door
 - everycomp:mcd/ecologics/walnut_bark_glass_door
 - everycomp:mcd/the_vault/overgrown_wooden_bark_glass_door
-- everycomp:mcd/hexcasting/akashic_bark_glass_door
 - everycomp:mcd/wildbackport/mangrove_bark_glass_door
 - everycomp:mcd/the_vault/driftwood_bark_glass_door
 - everycomp:mcd/the_vault/wooden_bark_glass_door
@@ -4601,9 +4506,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #forge:storage_blocks/ruby
 - thermal:ruby_block
-
-#forge:storage_blocks/compressed_iron
-- pneumaticcraft:compressed_iron_block
 
 #chipped:crimson_planks
 - minecraft:crimson_planks
@@ -4885,7 +4787,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:db/architects_palette/twisted_palisade
 - everycomp:db/ecologics/walnut_palisade
 - everycomp:db/the_vault/overgrown_wooden_palisade
-- everycomp:db/hexcasting/akashic_palisade
 - everycomp:db/twigs/bamboo_palisade
 - everycomp:db/wildbackport/mangrove_palisade
 - everycomp:db/the_vault/driftwood_palisade
@@ -5151,12 +5052,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:lens_warp
 - botania:lens_weight
 
-#pneumaticcraft:fluid_tanks
-- pneumaticcraft:small_tank
-- pneumaticcraft:medium_tank
-- pneumaticcraft:large_tank
-- pneumaticcraft:huge_tank
-
 #forge:ores/eudialyte
 - tropicraft:eudialyte_ore
 
@@ -5393,7 +5288,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:q/architects_palette/twisted_chest
 - everycomp:q/ecologics/walnut_chest
 - everycomp:q/the_vault/overgrown_wooden_chest
-- everycomp:q/hexcasting/akashic_chest
 - everycomp:q/twigs/bamboo_chest
 - everycomp:q/wildbackport/mangrove_chest
 - everycomp:q/the_vault/driftwood_chest
@@ -5627,8 +5521,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:mossy_stone_bricks
 - minecraft:cracked_stone_bricks
 - minecraft:chiseled_stone_bricks
-- #pneumaticcraft:reinforced_stone_bricks
-- #pneumaticcraft:compressed_stone_bricks
 
 #forge:rods/electrum
 - createaddition:electrum_rod
@@ -5773,7 +5665,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:white_pavement_slab
 - botania:yellow_pavement_slab
 - #libx:impl_slabs
-- #pneumaticcraft:slabs
 - ecologics:seashell_tile_slab
 - ecologics:snow_brick_slab
 - ecologics:ice_brick_slab
@@ -5924,7 +5815,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - create:polished_cut_veridium_slab
 - create:cut_veridium_brick_slab
 - create:small_veridium_brick_slab
-- hexcasting:akashic_slab
 - supplementaries:checker_slab
 - supplementaries:stone_tile_slab
 - supplementaries:blackstone_tile_slab
@@ -6202,7 +6092,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:stone_button
 - minecraft:polished_blackstone_button
 - #libx:impl_buttons
-- hexcasting:akashic_button
 - quark:azalea_button
 - quark:blossom_button
 - quark:gold_button
@@ -6289,12 +6178,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:turtle_egg
 - minecraft:wither_skeleton_skull
 
-#pneumaticcraft:slabs
-- pneumaticcraft:reinforced_brick_slab
-- pneumaticcraft:reinforced_stone_slab
-- pneumaticcraft:compressed_brick_slab
-- pneumaticcraft:compressed_stone_slab
-
 #forge:storage_blocks/niter
 - thermal:niter_block
 
@@ -6333,15 +6216,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - ecologics:azalea_pressure_plate
 - architects_palette:twisted_pressure_plate
 - twigs:stripped_bamboo_pressure_plate
-- hexcasting:akashic_pressure_plate
 
 #madolives_vault_coin_pouch:vbronze
 - the_vault:vault_bronze
-
-#hexcasting:grants_root_advancement
-- hexcasting:amethyst_dust
 - minecraft:amethyst_shard
-- hexcasting:charged_amethyst
 
 #ae2:smart_dense_cable
 - ae2:white_smart_dense_cable
@@ -6495,7 +6373,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:elementium_pickaxe
 - botania:terra_pick
 - botania:glass_pickaxe
-- hexcasting:jeweler_hammer
 - #ae2:quartz_pickaxe?
 - ae2:fluix_pickaxe?
 - twilightforest:ironwood_pickaxe?
@@ -7722,7 +7599,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_kitchen_sink_light
 - everycomp:cfm/ecologics/walnut_kitchen_sink_light
 - everycomp:cfm/the_vault/overgrown_wooden_kitchen_sink_light
-- everycomp:cfm/hexcasting/akashic_kitchen_sink_light
 - everycomp:cfm/twigs/bamboo_kitchen_sink_light
 - everycomp:cfm/wildbackport/mangrove_kitchen_sink_light
 - everycomp:cfm/the_vault/driftwood_kitchen_sink_light
@@ -7744,7 +7620,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/stripped_twisted_kitchen_sink_dark
 - everycomp:cfm/ecologics/stripped_walnut_kitchen_sink_dark
 - everycomp:cfm/the_vault/stripped_overgrown_wooden_kitchen_sink_dark
-- everycomp:cfm/hexcasting/stripped_akashic_kitchen_sink_dark
 - everycomp:cfm/twigs/stripped_bamboo_kitchen_sink_dark
 - everycomp:cfm/wildbackport/stripped_mangrove_kitchen_sink_dark
 - everycomp:cfm/the_vault/stripped_driftwood_kitchen_sink_dark
@@ -7766,7 +7641,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_kitchen_sink_dark
 - everycomp:cfm/ecologics/walnut_kitchen_sink_dark
 - everycomp:cfm/the_vault/overgrown_wooden_kitchen_sink_dark
-- everycomp:cfm/hexcasting/akashic_kitchen_sink_dark
 - everycomp:cfm/twigs/bamboo_kitchen_sink_dark
 - everycomp:cfm/wildbackport/mangrove_kitchen_sink_dark
 - everycomp:cfm/the_vault/driftwood_kitchen_sink_dark
@@ -7805,7 +7679,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_kitchen_drawer
 - everycomp:cfm/ecologics/walnut_kitchen_drawer
 - everycomp:cfm/the_vault/overgrown_wooden_kitchen_drawer
-- everycomp:cfm/hexcasting/akashic_kitchen_drawer
 - everycomp:cfm/twigs/bamboo_kitchen_drawer
 - everycomp:cfm/wildbackport/mangrove_kitchen_drawer
 - everycomp:cfm/the_vault/driftwood_kitchen_drawer
@@ -7844,7 +7717,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_kitchen_counter
 - everycomp:cfm/ecologics/walnut_kitchen_counter
 - everycomp:cfm/the_vault/overgrown_wooden_kitchen_counter
-- everycomp:cfm/hexcasting/akashic_kitchen_counter
 - everycomp:cfm/twigs/bamboo_kitchen_counter
 - everycomp:cfm/wildbackport/mangrove_kitchen_counter
 - everycomp:cfm/the_vault/driftwood_kitchen_counter
@@ -8434,7 +8306,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_upgraded_gate
 - everycomp:cfm/ecologics/walnut_upgraded_gate
 - everycomp:cfm/the_vault/overgrown_wooden_upgraded_gate
-- everycomp:cfm/hexcasting/akashic_upgraded_gate
 - everycomp:cfm/twigs/bamboo_upgraded_gate
 - everycomp:cfm/wildbackport/mangrove_upgraded_gate
 - everycomp:cfm/the_vault/driftwood_upgraded_gate
@@ -8540,12 +8411,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - chipped:gray_terracotta_65
 - chipped:gray_terracotta_66
 
-#hexcasting:akashic_logs
-- hexcasting:akashic_log
-- hexcasting:akashic_log_stripped
-- hexcasting:akashic_wood
-- hexcasting:akashic_wood_stripped
-
 #forge:nuggets/refined_glowstone
 - mekanism:nugget_refined_glowstone
 
@@ -8603,7 +8468,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #chipped:warped_trapdoor
 - create:train_trapdoor
 - create:framed_glass_trapdoor
-- hexcasting:akashic_trapdoor
 - supplementaries:gold_trapdoor
 - supplementaries:netherite_trapdoor
 - supplementaries:silver_trapdoor
@@ -8614,7 +8478,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_barrel_trapdoor
 - everycomp:mct/ecologics/walnut_barrel_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_barrel_trapdoor
-- everycomp:mct/hexcasting/akashic_barrel_trapdoor
 - everycomp:mct/wildbackport/mangrove_barrel_trapdoor
 - everycomp:mct/the_vault/driftwood_barrel_trapdoor
 - everycomp:mct/the_vault/wooden_barrel_trapdoor
@@ -8635,7 +8498,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_blossom_trapdoor
 - everycomp:mct/ecologics/walnut_blossom_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_blossom_trapdoor
-- everycomp:mct/hexcasting/akashic_blossom_trapdoor
 - everycomp:mct/wildbackport/mangrove_blossom_trapdoor
 - everycomp:mct/the_vault/driftwood_blossom_trapdoor
 - everycomp:mct/the_vault/wooden_blossom_trapdoor
@@ -8656,7 +8518,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_swamp_trapdoor
 - everycomp:mct/ecologics/walnut_swamp_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_swamp_trapdoor
-- everycomp:mct/hexcasting/akashic_swamp_trapdoor
 - everycomp:mct/wildbackport/mangrove_swamp_trapdoor
 - everycomp:mct/the_vault/driftwood_swamp_trapdoor
 - everycomp:mct/the_vault/wooden_swamp_trapdoor
@@ -8677,7 +8538,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_ranch_trapdoor
 - everycomp:mct/ecologics/walnut_ranch_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_ranch_trapdoor
-- everycomp:mct/hexcasting/akashic_ranch_trapdoor
 - everycomp:mct/twigs/bamboo_ranch_trapdoor
 - everycomp:mct/wildbackport/mangrove_ranch_trapdoor
 - everycomp:mct/the_vault/driftwood_ranch_trapdoor
@@ -8699,7 +8559,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_bamboo_trapdoor
 - everycomp:mct/ecologics/walnut_bamboo_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_bamboo_trapdoor
-- everycomp:mct/hexcasting/akashic_bamboo_trapdoor
 - everycomp:mct/twigs/bamboo_bamboo_trapdoor
 - everycomp:mct/wildbackport/mangrove_bamboo_trapdoor
 - everycomp:mct/the_vault/driftwood_bamboo_trapdoor
@@ -8721,7 +8580,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_tropical_trapdoor
 - everycomp:mct/ecologics/walnut_tropical_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_tropical_trapdoor
-- everycomp:mct/hexcasting/akashic_tropical_trapdoor
 - everycomp:mct/wildbackport/mangrove_tropical_trapdoor
 - everycomp:mct/the_vault/driftwood_tropical_trapdoor
 - everycomp:mct/the_vault/wooden_tropical_trapdoor
@@ -8742,7 +8600,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_paper_trapdoor
 - everycomp:mct/ecologics/walnut_paper_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_paper_trapdoor
-- everycomp:mct/hexcasting/akashic_paper_trapdoor
 - everycomp:mct/wildbackport/mangrove_paper_trapdoor
 - everycomp:mct/the_vault/driftwood_paper_trapdoor
 - everycomp:mct/the_vault/wooden_paper_trapdoor
@@ -8763,7 +8620,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_mystic_trapdoor
 - everycomp:mct/ecologics/walnut_mystic_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_mystic_trapdoor
-- everycomp:mct/hexcasting/akashic_mystic_trapdoor
 - everycomp:mct/wildbackport/mangrove_mystic_trapdoor
 - everycomp:mct/the_vault/driftwood_mystic_trapdoor
 - everycomp:mct/the_vault/wooden_mystic_trapdoor
@@ -8784,7 +8640,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_glass_trapdoor
 - everycomp:mct/ecologics/walnut_glass_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_glass_trapdoor
-- everycomp:mct/hexcasting/akashic_glass_trapdoor
 - everycomp:mct/wildbackport/mangrove_glass_trapdoor
 - everycomp:mct/the_vault/driftwood_glass_trapdoor
 - everycomp:mct/the_vault/wooden_glass_trapdoor
@@ -8805,7 +8660,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_four_panel_trapdoor
 - everycomp:mct/ecologics/walnut_four_panel_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_four_panel_trapdoor
-- everycomp:mct/hexcasting/akashic_four_panel_trapdoor
 - everycomp:mct/wildbackport/mangrove_four_panel_trapdoor
 - everycomp:mct/the_vault/driftwood_four_panel_trapdoor
 - everycomp:mct/the_vault/wooden_four_panel_trapdoor
@@ -8826,7 +8680,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_cottage_trapdoor
 - everycomp:mct/ecologics/walnut_cottage_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_cottage_trapdoor
-- everycomp:mct/hexcasting/akashic_cottage_trapdoor
 - everycomp:mct/wildbackport/mangrove_cottage_trapdoor
 - everycomp:mct/the_vault/driftwood_cottage_trapdoor
 - everycomp:mct/the_vault/wooden_cottage_trapdoor
@@ -8847,7 +8700,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_classic_trapdoor
 - everycomp:mct/ecologics/walnut_classic_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_classic_trapdoor
-- everycomp:mct/hexcasting/akashic_classic_trapdoor
 - everycomp:mct/wildbackport/mangrove_classic_trapdoor
 - everycomp:mct/the_vault/driftwood_classic_trapdoor
 - everycomp:mct/the_vault/wooden_classic_trapdoor
@@ -8868,7 +8720,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_beach_trapdoor
 - everycomp:mct/ecologics/walnut_beach_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_beach_trapdoor
-- everycomp:mct/hexcasting/akashic_beach_trapdoor
 - everycomp:mct/wildbackport/mangrove_beach_trapdoor
 - everycomp:mct/the_vault/driftwood_beach_trapdoor
 - everycomp:mct/the_vault/wooden_beach_trapdoor
@@ -8889,7 +8740,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_barred_trapdoor
 - everycomp:mct/ecologics/walnut_barred_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_barred_trapdoor
-- everycomp:mct/hexcasting/akashic_barred_trapdoor
 - everycomp:mct/wildbackport/mangrove_barred_trapdoor
 - everycomp:mct/the_vault/driftwood_barred_trapdoor
 - everycomp:mct/the_vault/wooden_barred_trapdoor
@@ -8910,7 +8760,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_barn_trapdoor
 - everycomp:mct/ecologics/walnut_barn_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_barn_trapdoor
-- everycomp:mct/hexcasting/akashic_barn_trapdoor
 - everycomp:mct/wildbackport/mangrove_barn_trapdoor
 - everycomp:mct/the_vault/driftwood_barn_trapdoor
 - everycomp:mct/the_vault/wooden_barn_trapdoor
@@ -8931,7 +8780,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:mct/architects_palette/twisted_bark_trapdoor
 - everycomp:mct/ecologics/walnut_bark_trapdoor
 - everycomp:mct/the_vault/overgrown_wooden_bark_trapdoor
-- everycomp:mct/hexcasting/akashic_bark_trapdoor
 - everycomp:mct/twigs/bamboo_bark_trapdoor
 - everycomp:mct/wildbackport/mangrove_bark_trapdoor
 - everycomp:mct/the_vault/driftwood_bark_trapdoor
@@ -9035,10 +8883,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #forge:dusts/enderium
 - thermal:enderium_dust
-
-#pneumaticcraft:stairs
-- pneumaticcraft:reinforced_brick_stairs
-- pneumaticcraft:compressed_brick_stairs
 
 #chipped:diamond_block
 - minecraft:diamond_block
@@ -9158,7 +9002,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #forge:tools/wrench
 - laserio:laser_wrench
-- pneumaticcraft:pneumatic_wrench
 - integrateddynamics:wrench
 - thermal:wrench
 - create:wrench
@@ -9220,7 +9063,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:itemfinder
 - the_vault:vault_doll
 - create:goggles
-- hexcasting:lens
 
 #forge:storage_blocks/zinc
 - create:zinc_block
@@ -9464,7 +9306,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - supplementaries:tropicraft/hanging_sign_mahogany
 - supplementaries:tropicraft/hanging_sign_palm
 - supplementaries:architects_palette/hanging_sign_twisted
-- supplementaries:hexcasting/hanging_sign_akashic
 - supplementaries:quark/hanging_sign_azalea
 - supplementaries:quark/hanging_sign_blossom
 
@@ -9643,8 +9484,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - mekanism:dirty_dust_tin
 
 #forge:stone
-- #pneumaticcraft:reinforced_stone
-- #pneumaticcraft:compressed_stone
 - architects_palette:myonite
 - minecraft:andesite
 - minecraft:diorite
@@ -9892,11 +9731,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #forge:storage_blocks/apatite
 - thermal:apatite_block
 
-#hexcasting:akashic_planks
-- hexcasting:akashic_planks
-- hexcasting:akashic_panel
-- hexcasting:akashic_tile
-
 #forge:storage_blocks/ender_pearls
 - architects_palette:ender_pearl_block
 
@@ -10054,7 +9888,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - chipped:purple_concrete_21
 
 #forge:dusts/amethyst
-- hexcasting:amethyst_dust
 
 #forge:ices/packedice
 - architects_palette:polished_packed_ice
@@ -10214,7 +10047,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_upgraded_gate
 - everycomp:cfm/ecologics/walnut_upgraded_gate
 - everycomp:cfm/the_vault/overgrown_wooden_upgraded_gate
-- everycomp:cfm/hexcasting/akashic_upgraded_gate
 - everycomp:cfm/twigs/bamboo_upgraded_gate
 - everycomp:cfm/wildbackport/mangrove_upgraded_gate
 - everycomp:cfm/the_vault/driftwood_upgraded_gate
@@ -10236,7 +10068,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_upgraded_fence
 - everycomp:cfm/ecologics/walnut_upgraded_fence
 - everycomp:cfm/the_vault/overgrown_wooden_upgraded_fence
-- everycomp:cfm/hexcasting/akashic_upgraded_fence
 - everycomp:cfm/twigs/bamboo_upgraded_fence
 - everycomp:cfm/wildbackport/mangrove_upgraded_fence
 - everycomp:cfm/the_vault/driftwood_upgraded_fence
@@ -10275,7 +10106,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_mail_box
 - everycomp:cfm/ecologics/walnut_mail_box
 - everycomp:cfm/the_vault/overgrown_wooden_mail_box
-- everycomp:cfm/hexcasting/akashic_mail_box
 - everycomp:cfm/twigs/bamboo_mail_box
 - everycomp:cfm/wildbackport/mangrove_mail_box
 - everycomp:cfm/the_vault/driftwood_mail_box
@@ -10314,7 +10144,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_park_bench
 - everycomp:cfm/ecologics/walnut_park_bench
 - everycomp:cfm/the_vault/overgrown_wooden_park_bench
-- everycomp:cfm/hexcasting/akashic_park_bench
 - everycomp:cfm/twigs/bamboo_park_bench
 - everycomp:cfm/wildbackport/mangrove_park_bench
 - everycomp:cfm/the_vault/driftwood_park_bench
@@ -10446,25 +10275,18 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:cooked_chicken
 - minecraft:cooked_mutton
 
-#forge:bread
-- pneumaticcraft:sourdough_bread
-
 #curios:belt
 - integratedterminals:terminal_storage_portable
 - botania:knockback_belt
 - botania:speed_up_belt
 - botania:super_travel_belt
 - botania:travel_belt
-- toms_storage:ts.adv_wireless_terminal
 - the_vault:magnet
 - thermal:satchel
 
 #forge:slimeballs
 - industrialforegoing:pink_slime
 - minecraft:slime_ball
-
-#pneumaticcraft:doors
-- pneumaticcraft:pneumatic_door
 
 #smallships:galleys
 - smallships:oak_galley
@@ -11293,8 +11115,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - thermal:tin_dust
 - mekanism:dust_tin
 
-#forge:dusts/flour
-- pneumaticcraft:wheat_flour
 
 #botania:special_flowers
 - #botania:misc_special_flowers
@@ -11436,7 +11256,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_desk_cabinet
 - everycomp:cfm/ecologics/walnut_desk_cabinet
 - everycomp:cfm/the_vault/overgrown_wooden_desk_cabinet
-- everycomp:cfm/hexcasting/akashic_desk_cabinet
 - everycomp:cfm/twigs/bamboo_desk_cabinet
 - everycomp:cfm/wildbackport/mangrove_desk_cabinet
 - everycomp:cfm/the_vault/driftwood_desk_cabinet
@@ -11475,7 +11294,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_desk
 - everycomp:cfm/ecologics/walnut_desk
 - everycomp:cfm/the_vault/overgrown_wooden_desk
-- everycomp:cfm/hexcasting/akashic_desk
 - everycomp:cfm/twigs/bamboo_desk
 - everycomp:cfm/wildbackport/mangrove_desk
 - everycomp:cfm/the_vault/driftwood_desk
@@ -11514,7 +11332,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_blinds
 - everycomp:cfm/ecologics/walnut_blinds
 - everycomp:cfm/the_vault/overgrown_wooden_blinds
-- everycomp:cfm/hexcasting/akashic_blinds
 - everycomp:cfm/twigs/bamboo_blinds
 - everycomp:cfm/wildbackport/mangrove_blinds
 - everycomp:cfm/the_vault/driftwood_blinds
@@ -11553,7 +11370,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_bedside_cabinet
 - everycomp:cfm/ecologics/walnut_bedside_cabinet
 - everycomp:cfm/the_vault/overgrown_wooden_bedside_cabinet
-- everycomp:cfm/hexcasting/akashic_bedside_cabinet
 - everycomp:cfm/twigs/bamboo_bedside_cabinet
 - everycomp:cfm/wildbackport/mangrove_bedside_cabinet
 - everycomp:cfm/the_vault/driftwood_bedside_cabinet
@@ -11613,9 +11429,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - chipped:blue_carpet_18
 - chipped:blue_carpet_19
 - chipped:blue_carpet_20
-
-#pneumaticcraft:plastic_sheets
-- pneumaticcraft:plastic
 
 #refinedstorage:parts/items
 - #refinedstorage:parts/items/256k
@@ -11905,7 +11718,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:cosmetic_tiny_potato_mask
 - botania:cosmetic_questgiver_mark
 - botania:cosmetic_thinking_hand
-- pneumaticcraft:memory_stick
 - supplementaries:key
 - refinedstorage:wireless_grid
 - refinedstorage:creative_wireless_grid
@@ -11991,14 +11803,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:leather_helmet
 - minecraft:leather_horse_armor
 - botania:ice_pendant
-- pneumaticcraft:compressed_iron_helmet
-- pneumaticcraft:compressed_iron_chestplate
-- pneumaticcraft:compressed_iron_leggings
-- pneumaticcraft:compressed_iron_boots
-- pneumaticcraft:pneumatic_helmet
-- pneumaticcraft:pneumatic_chestplate
-- pneumaticcraft:pneumatic_leggings
-- pneumaticcraft:pneumatic_boots
 - mekanism:mekasuit_helmet
 - mekanism:mekasuit_bodyarmor
 - mekanism:mekasuit_pants
@@ -12264,24 +12068,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #mekanism:clumps/tin
 - mekanism:clump_tin
-
-#pneumaticcraft:smooth_plastic_bricks
-- pneumaticcraft:smooth_plastic_brick_white
-- pneumaticcraft:smooth_plastic_brick_orange
-- pneumaticcraft:smooth_plastic_brick_magenta
-- pneumaticcraft:smooth_plastic_brick_light_blue
-- pneumaticcraft:smooth_plastic_brick_yellow
-- pneumaticcraft:smooth_plastic_brick_lime
-- pneumaticcraft:smooth_plastic_brick_pink
-- pneumaticcraft:smooth_plastic_brick_gray
-- pneumaticcraft:smooth_plastic_brick_light_gray
-- pneumaticcraft:smooth_plastic_brick_cyan
-- pneumaticcraft:smooth_plastic_brick_purple
-- pneumaticcraft:smooth_plastic_brick_blue
-- pneumaticcraft:smooth_plastic_brick_brown
-- pneumaticcraft:smooth_plastic_brick_green
-- pneumaticcraft:smooth_plastic_brick_red
-- pneumaticcraft:smooth_plastic_brick_black
 
 #forge:rods/gold
 - createaddition:gold_rod
@@ -13212,24 +12998,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - supplementaries:flag_light_gray?
 - supplementaries:flag_brown?
 
-#pneumaticcraft:wall_lamps
-- pneumaticcraft:wall_lamp_white
-- pneumaticcraft:wall_lamp_orange
-- pneumaticcraft:wall_lamp_magenta
-- pneumaticcraft:wall_lamp_light_blue
-- pneumaticcraft:wall_lamp_yellow
-- pneumaticcraft:wall_lamp_lime
-- pneumaticcraft:wall_lamp_pink
-- pneumaticcraft:wall_lamp_gray
-- pneumaticcraft:wall_lamp_light_gray
-- pneumaticcraft:wall_lamp_cyan
-- pneumaticcraft:wall_lamp_purple
-- pneumaticcraft:wall_lamp_blue
-- pneumaticcraft:wall_lamp_brown
-- pneumaticcraft:wall_lamp_green
-- pneumaticcraft:wall_lamp_red
-- pneumaticcraft:wall_lamp_black
-
 #forge:fiber
 - supplementaries:flax
 
@@ -13251,7 +13019,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:q/architects_palette/twisted_trapped_chest
 - everycomp:q/ecologics/walnut_trapped_chest
 - everycomp:q/the_vault/overgrown_wooden_trapped_chest
-- everycomp:q/hexcasting/akashic_trapped_chest
 - everycomp:q/twigs/bamboo_trapped_chest
 - everycomp:q/wildbackport/mangrove_trapped_chest
 - everycomp:q/the_vault/driftwood_trapped_chest
@@ -13315,9 +13082,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #forge:glass_panes/colorless
 - minecraft:glass_pane
-
-#pneumaticcraft:compressed_stone_bricks
-- pneumaticcraft:compressed_bricks
 
 #lightmanscurrency:ticket_material
 - minecraft:paper
@@ -13408,7 +13172,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:cobbled_deepslate
 - minecraft:tuff
 
-#hexcasting:phial_base
 - minecraft:glass_bottle
 
 #alexsmobs:crow_foodstuffs
@@ -13432,7 +13195,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:db/architects_palette/twisted_seat
 - everycomp:db/ecologics/walnut_seat
 - everycomp:db/the_vault/overgrown_wooden_seat
-- everycomp:db/hexcasting/akashic_seat
 - everycomp:db/twigs/bamboo_seat
 - everycomp:db/wildbackport/mangrove_seat
 - everycomp:db/the_vault/driftwood_seat
@@ -13709,7 +13471,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #minecraft:wooden_doors
 - minecraft:iron_door
 - #libx:impl_doors
-- #pneumaticcraft:doors
 - integrateddynamics:menril_door
 - #minecraft:wooden_doors
 - minecraft:iron_door
@@ -13734,7 +13495,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - create:copper_door
 - create:train_door
 - create:framed_glass_door
-- hexcasting:akashic_door
 - supplementaries:gold_door
 - supplementaries:netherite_door
 - supplementaries:silver_door
@@ -13789,9 +13549,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - thermal:bronze_dust
 - mekanism:dust_bronze
 
-#toms_storage:trims
-- toms_storage:ts.trim
-- toms_storage:ts.painted_trim
 
 #industrialforegoing:machine_frame/advanced
 - industrialforegoing:machine_frame_advanced
@@ -14161,7 +13918,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:db/architects_palette/twisted_support
 - everycomp:db/ecologics/walnut_support
 - everycomp:db/the_vault/overgrown_wooden_support
-- everycomp:db/hexcasting/akashic_support
 - everycomp:db/twigs/bamboo_support
 - everycomp:db/wildbackport/mangrove_support
 - everycomp:db/the_vault/driftwood_support
@@ -14397,7 +14153,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:stripped_dreamwood?
 - forbidden_arcanus:stripped_cherrywood?
 - forbidden_arcanus:stripped_mysterywood?
-- hexcasting:akashic_wood_stripped?
 - integrateddynamics:menril_wood_stripped?
 - byg:stripped_aspen_wood?
 - byg:stripped_baobab_wood?
@@ -15287,7 +15042,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:white_pavement_stairs
 - botania:yellow_pavement_stairs
 - #libx:impl_stairs
-- #pneumaticcraft:stairs
 - ecologics:seashell_tile_stairs
 - ecologics:snow_brick_stairs
 - ecologics:ice_brick_stairs
@@ -15526,10 +15280,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - tropicraft:black_mangrove_wood
 - tropicraft:stripped_mangrove_log
 - tropicraft:stripped_mangrove_wood
-- hexcasting:akashic_log
-- hexcasting:akashic_log_stripped
-- hexcasting:akashic_wood
-- hexcasting:akashic_wood_stripped
 - quark:azalea_log
 - quark:stripped_azalea_log
 - quark:azalea_wood
@@ -16872,7 +16622,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - tropicraft:thatch_button
 - architects_palette:twisted_button
 - twigs:stripped_bamboo_button
-- hexcasting:akashic_button
 - quark:azalea_button
 - quark:blossom_button
 
@@ -17028,10 +16777,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #mekanism:enriched/gold
 - #mekanism:enriched/tin
 
-#computercraft:wired_modem
-- computercraft:wired_modem
-- computercraft:wired_modem_full
-
 #forge:dyes/lime
 - minecraft:lime_dye
 
@@ -17144,7 +16889,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - botania:stripped_dreamwood_log?
 - forbidden_arcanus:stripped_cherrywood_log?
 - forbidden_arcanus:stripped_mysterywood_log?
-- hexcasting:akashic_log_stripped?
 - integrateddynamics:menril_log_stripped?
 - byg:stripped_aspen_log?
 - byg:stripped_baobab_log?
@@ -17384,9 +17128,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #forge:furnaces/emerald
 - ironfurnaces:emerald_furnace
 
-#pneumaticcraft:compressed_stone
-- pneumaticcraft:compressed_stone
-
 #refinedstorage:storage_blocks/fluids/16384k
 - extrastorage:block_16384k_fluid
 
@@ -17527,12 +17268,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #forge:gears/constantan
 - thermal:constantan_gear
-
-#pneumaticcraft:basic_drones
-- pneumaticcraft:logistics_drone
-- pneumaticcraft:guard_drone
-- pneumaticcraft:harvesting_drone
-- pneumaticcraft:collector_drone
 
 #minecraft:soul_fire_base_blocks
 - minecraft:soul_sand
@@ -17979,7 +17714,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - supplementaries:quark/sign_post_azalea
 - supplementaries:architects_palette/sign_post_twisted
 - supplementaries:the_vault/sign_post_overgrown_wooden
-- supplementaries:hexcasting/sign_post_akashic
 - supplementaries:twigs/sign_post_bamboo
 - supplementaries:sign_post_birch
 - supplementaries:sign_post_jungle
@@ -18077,7 +17811,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:q/architects_palette/twisted_ladder
 - everycomp:q/ecologics/walnut_ladder
 - everycomp:q/the_vault/overgrown_wooden_ladder
-- everycomp:q/hexcasting/akashic_ladder
 - everycomp:q/twigs/bamboo_ladder
 - everycomp:q/wildbackport/mangrove_ladder
 - everycomp:q/the_vault/driftwood_ladder
@@ -18368,9 +18101,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #the_vault:altar_requirements/resource/10
 - #the_vault:altar_requirements/farmable/10
 - #the_vault:altar_requirements/misc/10
-
-#forge:gears/compressed_iron
-- pneumaticcraft:compressed_iron_gear
 
 #forge:storage_blocks/tin
 - thermal:tin_block
@@ -18969,24 +18699,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #forge:ingots/manasteel
 - #botania:manasteel_ingots
 
-#pneumaticcraft:plastic_bricks
-- pneumaticcraft:plastic_brick_white
-- pneumaticcraft:plastic_brick_orange
-- pneumaticcraft:plastic_brick_magenta
-- pneumaticcraft:plastic_brick_light_blue
-- pneumaticcraft:plastic_brick_yellow
-- pneumaticcraft:plastic_brick_lime
-- pneumaticcraft:plastic_brick_pink
-- pneumaticcraft:plastic_brick_gray
-- pneumaticcraft:plastic_brick_light_gray
-- pneumaticcraft:plastic_brick_cyan
-- pneumaticcraft:plastic_brick_purple
-- pneumaticcraft:plastic_brick_blue
-- pneumaticcraft:plastic_brick_brown
-- pneumaticcraft:plastic_brick_green
-- pneumaticcraft:plastic_brick_red
-- pneumaticcraft:plastic_brick_black
-
 #refinedstorage:parts
 - #refinedstorage:parts/items
 - #refinedstorage:parts/fluids
@@ -19184,7 +18896,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:tw/architects_palette/twisted_table
 - everycomp:tw/ecologics/walnut_table
 - everycomp:tw/the_vault/overgrown_wooden_table
-- everycomp:tw/hexcasting/akashic_table
 - everycomp:tw/wildbackport/mangrove_table
 - everycomp:tw/the_vault/driftwood_table
 - everycomp:tw/the_vault/wooden_table
@@ -19256,9 +18967,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #chipped:oak_leaves
 - #chipped:spruce_leaves
 - #chipped:dark_oak_leaves
-- hexcasting:akashic_leaves1
-- hexcasting:akashic_leaves2
-- hexcasting:akashic_leaves3
 - quark:blue_blossom_leaves
 - quark:lavender_blossom_leaves
 - quark:orange_blossom_leaves
@@ -19349,7 +19057,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_table
 - everycomp:cfm/ecologics/walnut_table
 - everycomp:cfm/the_vault/overgrown_wooden_table
-- everycomp:cfm/hexcasting/akashic_table
 - everycomp:cfm/twigs/bamboo_table
 - everycomp:cfm/wildbackport/mangrove_table
 - everycomp:cfm/the_vault/driftwood_table
@@ -19404,7 +19111,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_coffee_table
 - everycomp:cfm/ecologics/walnut_coffee_table
 - everycomp:cfm/the_vault/overgrown_wooden_coffee_table
-- everycomp:cfm/hexcasting/akashic_coffee_table
 - everycomp:cfm/twigs/bamboo_coffee_table
 - everycomp:cfm/wildbackport/mangrove_coffee_table
 - everycomp:cfm/the_vault/driftwood_coffee_table
@@ -19443,7 +19149,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_chair
 - everycomp:cfm/ecologics/walnut_chair
 - everycomp:cfm/the_vault/overgrown_wooden_chair
-- everycomp:cfm/hexcasting/akashic_chair
 - everycomp:cfm/twigs/bamboo_chair
 - everycomp:cfm/wildbackport/mangrove_chair
 - everycomp:cfm/the_vault/driftwood_chair
@@ -19655,11 +19360,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - lightmanscurrency:coin_gold
 - lightmanscurrency:coinpile_gold
 - lightmanscurrency:coinblock_gold
-- computercraft:computer_advanced
-- computercraft:turtle_advanced
-- computercraft:wireless_modem_advanced
-- computercraft:pocket_computer_advanced
-- computercraft:monitor_advanced
 - create:golden_sheet
 - create:crushed_raw_gold
 - supplementaries:hourglass
@@ -19837,10 +19537,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - tropicraft:stripped_mangrove_log
 - tropicraft:stripped_mangrove_wood
 - #architects_palette:twisted_logs
-- hexcasting:akashic_log
-- hexcasting:akashic_log_stripped
-- hexcasting:akashic_wood
-- hexcasting:akashic_wood_stripped
 - quark:azalea_log
 - quark:stripped_azalea_log
 - quark:azalea_wood
@@ -20117,13 +19813,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - tropicraft:mangrove_slab
 - architects_palette:twisted_slab
 - twigs:stripped_bamboo_slab
-- hexcasting:akashic_slab
 - quark:azalea_planks_slab
 - quark:blossom_planks_slab
-
-#pneumaticcraft:upgrade_components
-- pneumaticcraft:upgrade_matrix
-- minecraft:lapis_lazuli
 
 #forge:dyes/white
 - minecraft:white_dye
@@ -20308,7 +19999,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:cfm/architects_palette/twisted_upgraded_fence
 - everycomp:cfm/ecologics/walnut_upgraded_fence
 - everycomp:cfm/the_vault/overgrown_wooden_upgraded_fence
-- everycomp:cfm/hexcasting/akashic_upgraded_fence
 - everycomp:cfm/twigs/bamboo_upgraded_fence
 - everycomp:cfm/wildbackport/mangrove_upgraded_fence
 - everycomp:cfm/the_vault/driftwood_upgraded_fence
@@ -20601,11 +20291,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #forge:gears/signalum
 - thermal:signalum_gear
-
-#computercraft:computer
-- computercraft:computer_normal
-- computercraft:computer_advanced
-- computercraft:computer_command
 
 #the_vault:altar_requirements/75
 - #the_vault:altar_requirements/mob/75
@@ -21131,9 +20816,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - chipped:mushroom_stem_6
 - chipped:mushroom_stem_7
 
-#forge:ingots/compressed_iron
-- pneumaticcraft:ingot_iron_compressed
-
 #forge:helmets
 - minecraft:leather_helmet
 - minecraft:chainmail_helmet
@@ -21378,9 +21060,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - refinedstorage:green_controller
 - refinedstorage:red_controller
 - refinedstorage:black_controller
-
-#pneumaticcraft:reinforced_stone_bricks
-- pneumaticcraft:reinforced_bricks
 
 #the_vault:altar_requirements/20
 - #the_vault:altar_requirements/mob/20
@@ -21980,9 +21659,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #chipped:dark_oak_planks
 - #chipped:warped_planks
 - #chipped:crimson_planks
-- hexcasting:akashic_planks
-- hexcasting:akashic_panel
-- hexcasting:akashic_tile
 - quark:azalea_planks
 - quark:blossom_planks
 
@@ -22152,7 +21828,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - everycomp:db/architects_palette/twisted_beam
 - everycomp:db/ecologics/walnut_beam
 - everycomp:db/the_vault/overgrown_wooden_beam
-- everycomp:db/hexcasting/akashic_beam
 - everycomp:db/twigs/bamboo_beam
 - everycomp:db/wildbackport/mangrove_beam
 - everycomp:db/the_vault/driftwood_beam

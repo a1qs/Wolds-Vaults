@@ -53,7 +53,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - createaddition:bioethanol
 
 #forge:biodiesel
-- pneumaticcraft:biodiesel
 - createdieselgenerators:biodiesel
 - createdieselgenerators:flowing_biodiesel
 
@@ -153,7 +152,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #forge:experience
 - industrialforegoing:essence
-- pneumaticcraft:memory_essence
 - sophisticatedcore:xp_still
 - cofh_core:experience
 
@@ -169,7 +167,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - mekanism:flowing_lithium
 
 #forge:diesel
-- pneumaticcraft:diesel
 - createdieselgenerators:diesel
 - createdieselgenerators:flowing_diesel
 
@@ -178,15 +175,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #create:fan_processing_catalysts/splashing
 - minecraft:water
 - minecraft:flowing_water
-
-#pneumaticcraft:plastic
-- pneumaticcraft:plastic
-
-#pneumaticcraft:etching_acid
-- pneumaticcraft:etching_acid
-
-#forge:kerosene
-- pneumaticcraft:kerosene
 
 #forge:bioethanol
 - mekanismgenerators:bioethanol
@@ -202,9 +190,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - mekanism:heavy_water
 - mekanism:flowing_heavy_water
 
-#forge:lpg
-- pneumaticcraft:lpg
-
 #forge:ink
 - create_enchantment_industry:flowing_ink
 - create_enchantment_industry:ink
@@ -215,11 +200,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - createdieselgenerators:flowing_biodiesel
 - createdieselgenerators:flowing_diesel
 
-#forge:lubricant
-- pneumaticcraft:lubricant
-
 #forge:crude_oil
-- pneumaticcraft:oil
 - createdieselgenerators:crude_oil
 - thermal:crude_oil
 
@@ -235,11 +216,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - createaddition:flowing_bioethanol
 - createaddition:bioethanol
 
-#pneumaticcraft:seismic_sensor_interesting
-- #forge:crude_oil
-
 #forge:plantoil
-- pneumaticcraft:vegetable_oil
 - createdieselgenerators:plant_oil
 - createdieselgenerators:flowing_plant_oil
 - createaddition:flowing_seed_oil
@@ -261,7 +238,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #forge:ink
 
 #forge:ethanol
-- pneumaticcraft:ethanol
 - createdieselgenerators:ethanol
 - createdieselgenerators:flowing_ethanol
 
@@ -296,7 +272,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - mekanism:flowing_sulfuric_acid
 
 #forge:gasoline
-- pneumaticcraft:gasoline
 - createdieselgenerators:gasoline
 - createdieselgenerators:flowing_gasoline
 
@@ -323,9 +298,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #forge:deuterium
 - mekanismgenerators:deuterium
 - mekanismgenerators:flowing_deuterium
-
-#pneumaticcraft:yeast_culture
-- pneumaticcraft:yeast_culture
 
 #forge:hydrofluoric_acid
 - mekanism:hydrofluoric_acid

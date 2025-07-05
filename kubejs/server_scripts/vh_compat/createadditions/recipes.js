@@ -139,22 +139,6 @@ onEvent("recipes", event => {
         }
     )
 
-    event.custom(
-        {
-            "type": "createaddition:charging",
-            "input": {
-                "item": "minecraft:amethyst_shard",
-                "count": 1
-            },
-            "result": {
-                "item": "hexcasting:charged_amethyst",
-                "count": 1
-            },
-            "energy": 10000,
-            "maxChargeRate": 1000
-        }
-    )
-
     //event.shapeless('create:experience_nugget', ['4x minecraft:experience_bottle'])
     event.shapeless('4x minecraft:experience_bottle', ['create:experience_nugget'])
 

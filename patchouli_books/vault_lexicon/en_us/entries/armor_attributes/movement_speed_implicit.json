@@ -1,6 +1,6 @@
 {
     "name": "Movement Speed (Implicit)",
-    "icon": "pneumaticcraft:pneumatic_boots",
+    "icon": "minecraft:netherite_boots",
     "category": "patchouli:armor_implicits",
     "pages": [
         {

@@ -39,8 +39,6 @@
         "Botanical Machinery",
         "Cable Tiers",
         "Incorporeal",
-        "Advanced Peripherals",
-        "Compressed Creativity",
         "Misc Bag Upgrades"
       ],
       "globalCostIncrease": 0.0,
@@ -51,7 +49,6 @@
     "Logistics": {
       "title": "Logistics",
       "research": [
-        "Toms Simple Storage",
         "Refined Storage",
         "Applied Energistics",
         "Integrated Dynamics"
@@ -83,7 +80,6 @@
         "Digital Miner",
         "Building Gadgets",
         "Create Ore Excavation",
-        "Hexcasting",
         "Psi"
       ],
       "globalCostIncrease": 0.0,
@@ -115,7 +111,6 @@
         "Mekanism",
         "Thermal Expansion",
         "Botania",
-        "PneumaticCraft",
         "Industrial Foregoing",
         "Immersive Engineering",
         "Occultism",
@@ -185,8 +180,7 @@
         "LaserIO",
         "Super Factory Manager",
         "Entangled",
-        "Little Logistics",
-        "ComputerCraft"
+        "Little Logistics"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

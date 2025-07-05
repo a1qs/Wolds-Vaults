@@ -620,7 +620,7 @@
         "color": "yellow"
       },
       {
-        "text": "addon for Create!\n\nThis mod adds new blocks and items used to dig up oil from the ground using Pumpjacks. Useful for getting oil for PneumaticCraft or getting kinetic energy in a more interesting way!"
+        "text": "addon for Create!\n\nThis mod adds new blocks and items used to dig up oil from the ground using Pumpjacks. Useful for getting kinetic energy in a more interesting way!"
       }
     ],
     "Better Wallets": [
@@ -1056,31 +1056,6 @@
       },
       {
         "text": " in Vault Hunters when it comes to player enhancing items, all of which we have disabled."
-      },
-      {
-        "text": "\n\nAdds rewards to "
-      },
-      {
-        "text": "Mod Boxes",
-        "color": "aqua"
-      },
-      {
-        "text": "!"
-      }
-    ],
-    "PneumaticCraft": [
-      {
-        "text": "Unlocks the "
-      },
-      {
-        "text": "PneumaticCraft ",
-        "color": "yellow"
-      },
-      {
-        "text": "mod!\n\nPneumaticCraft is a tech mod that is based around air pressure and heat. You can use PneumaticCraft as your mob farm system, plant harvesting, item transferring, and more! "
-      },
-      {
-        "text": "\n\nIt also has some useful tools and armor, although some of the modules have been disabled! "
       },
       {
         "text": "\n\nAdds rewards to "
@@ -1674,42 +1649,6 @@
         "text": "mods\n\nThese mods provides you with some fun and useful furniture as well as Bamboo Spikes that can be very useful in mob farms."
       }
     ],
-    "Compressed Creativity": [
-      {
-        "text": "Unlocks the"
-      },
-      {
-        "text": " Compressed Creativity ",
-        "color": "yellow"
-      },
-      {
-        "text": "addon for Create and PneumaticCraft\n\nThis mod adds some new blocks and items that add better integration between Create and PneumaticCraft, such as letting you convert air pressure into SU/RPM."
-      }
-    ],
-    "Advanced Peripherals": [
-      {
-        "text": "Unlocks the"
-      },
-      {
-        "text": " Advanced Peripherals ",
-        "color": "yellow"
-      },
-      {
-        "text": "addon for ComputerCraft\n\nThis mod adds lots of new blocks that integrate with ComputerCraft such as the Chat Box and Environmental Scanner, among many more! Take your computing to the next level."
-      }
-    ],
-    "ComputerCraft": [
-      {
-        "text": "Unlocks the"
-      },
-      {
-        "text": " ComputerCraft ",
-        "color": "yellow"
-      },
-      {
-        "text": "mod\n\nThis mod provides you with the amazing power of computing! Conquer the world and improve your automation with this Lua-based machine!... or just have some fun messing around!"
-      }
-    ],
     "Decorator": [
       {
         "text": "Unlocks "
@@ -2005,21 +1944,6 @@
       },
       {
         "text": "mod!\n\nThis mod doesnt provide much on it's own, but is required to make the machine cases for all other RFTools Mods."
-      }
-    ],
-    "Hexcasting": [
-      {
-        "text": "\n"
-      },
-      {
-        "text": "Unlocks the "
-      },
-      {
-        "text": "Hexcasting ",
-        "color": "yellow"
-      },
-      {
-        "text": "mod!\n\nThis mod adds stack-based programmable spellcasting. Complicated mod, but you can do some cool stuff with it!"
       }
     ],
     "LaserIO": [
@@ -15987,28 +15911,6 @@
       {
         "text": "+300%",
         "color": "#C23627"
-      }
-    ],
-    "Toms Simple Storage": [
-      {
-        "text": "Unlocks "
-      },
-      {
-        "text": "Tom's Simple Storage",
-        "color": "yellow"
-      },
-      {
-        "text": " Network mod.\n\nTom's Simple Storage, is a mod that lets you connect up several inventories and browse their content from a central interface digitally, with a search function.\n\n"
-      },
-      {
-        "text": "Replaces"
-      },
-      {
-        "text": " Simple Storage Network ",
-        "color": "yellow"
-      },
-      {
-        "text": "mod!"
       }
     ],
     "Potions": [

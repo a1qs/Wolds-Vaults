@@ -101,31 +101,6 @@
       ]
     },
     {
-      "id": "woldsvaults:pneumaticcraft",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "woldsvaults:targeted_mod_box",
-        "NBT": "{research:\"PneumaticCraft\"}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:mod_box",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:mystical_powder",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:vault_essence",
-          "NBT": "{}"
-        }
-      ]
-    },
-    {
       "id": "woldsvaults:rftoolsstorage",
       "output": {
         "AMOUNT": 1,
@@ -171,31 +146,6 @@
         {
           "AMOUNT": 4,
           "ITEM": "the_vault:chromatic_steel_ingot",
-          "NBT": "{}"
-        }
-      ]
-    },
-    {
-      "id": "woldsvaults:tomssimplestorage",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "woldsvaults:targeted_mod_box",
-        "NBT": "{research:\"Toms Simple Storage\"}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:mod_box",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:mystical_powder",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 32,
-          "ITEM": "the_vault:driftwood",
           "NBT": "{}"
         }
       ]
