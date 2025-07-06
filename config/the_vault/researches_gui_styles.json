@@ -18,12 +18,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/angel"
     },
-    "Ars Nouveau": {
-      "x": 200,
-      "y": 200,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/ars_nouveau"
-    },
     "Misc Bag Upgrades": {
       "x": 620,
       "y": 80,
@@ -276,12 +270,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/occultism"
     },
-    "Waystones": {
-      "x": 390,
-      "y": 120,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/waystones"
-    },
     "Torch Master": {
       "x": 440,
       "y": 120,
@@ -318,12 +306,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create_ore_excavation"
     },
-    "Create Diesel Generators": {
-      "x": 670,
-      "y": 40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/create_diesel_generators"
-    },
     "RFTools Utility": {
       "x": 390,
       "y": 200,
@@ -347,12 +329,6 @@
       "y": 310,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/psi"
-    },
-    "Mining Gadgets": {
-      "x": 110,
-      "y": 270,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/mining_gadgets"
     },
     "Digital Miner": {
       "x": 60,

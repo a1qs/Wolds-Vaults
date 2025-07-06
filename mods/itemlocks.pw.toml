@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5148636
 project-id = 304487
+
+[option]
+optional = true
+description = "Gives the ability to lock inventory slots"

@@ -1,6 +1,6 @@
 name = "VaultarHUD"
 filename = "VaultarHUD-1.2.0-1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5724227
 project-id = 1011085
+
+[option]
+optional = true
+description = "Displays required ingredients for the Vault Altar on the side of the screen"

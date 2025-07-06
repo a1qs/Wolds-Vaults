@@ -1,6 +1,6 @@
 name = "Draggable Bookmarks"
 filename = "draggablebookmarks-jei10-1.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5864568
 project-id = 1094441
+
+[option]
+optional = true
+description = "Gives the ability to drag bookmarks in the JEI Menu around!"

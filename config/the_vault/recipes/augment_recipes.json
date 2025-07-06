@@ -255,7 +255,7 @@
                 },
                 {
                     "AMOUNT": 16,
-                    "ITEM": "dyenamics:lavender_dye",
+                    "ITEM": "minecraft:purple_dye",
                     "NBT": "{}"
                 },
                 {
@@ -285,7 +285,7 @@
                 },
                 {
                     "AMOUNT": 16,
-                    "ITEM": "dyenamics:bubblegum_dye",
+                    "ITEM": "minecraft:pink_dye",
                     "NBT": "{}"
                 },
                 {

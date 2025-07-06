@@ -429,7 +429,7 @@ onEvent("recipes", event => {
             ' X ',
             'WWW'
         ], {
-        W: '#railways:internal/plates/iron_plates',
+        W: '#forge:plates/iron',
         X: 'the_vault:perfect_larimar'
 
     }).id('immersiveengineering:crafting/fluid_pipe')

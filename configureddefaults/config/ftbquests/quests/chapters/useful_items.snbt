@@ -128,36 +128,6 @@
 			}]
 		}
 		{
-			title: "Immersive Aircraft"
-			x: -9.5d
-			y: -8.0d
-			subtitle: "Soar Through The Skies!"
-			description: [
-				"In counterpart to the Small Ships mod, this one adds various different planes and flying machines for navigating through the air. Fun alternative to an elytra!"
-				""
-			]
-			id: "58B465B5FB38CD30"
-			tasks: [{
-				id: "6379D5A3E82C3BAB"
-				type: "item"
-				title: "Immersive Aircraft Items"
-				item: {
-					id: "itemfilters:mod"
-					Count: 1b
-					tag: {
-						value: "immersive_aircraft"
-					}
-				}
-				consume_items: false
-			}]
-			rewards: [{
-				id: "446FBBEA3AC9CF8A"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 16
-			}]
-		}
-		{
 			title: "SNAD!"
 			x: -16.5d
 			y: -6.5d
@@ -236,28 +206,6 @@
 			}]
 		}
 		{
-			title: "Joy of Painting"
-			x: -12.5d
-			y: -6.5d
-			subtitle: "A Happy Little Tree"
-			description: ["Another fun, but not useful mod. This one adds easels and canvas you can draw pictures on! Envision Microsoft Paint but in Minecraft."]
-			id: "1CFDFE1E3E8A7953"
-			tasks: [{
-				id: "3F9E6862826256FC"
-				type: "item"
-				title: "Easel"
-				icon: "xercapaint:item_easel"
-				item: "xercapaint:item_easel"
-				consume_items: false
-			}]
-			rewards: [{
-				id: "24EF7E8985C00688"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 10
-			}]
-		}
-		{
 			title: "Morph-o-Tool"
 			x: -13.5d
 			y: -5.0d
@@ -295,25 +243,6 @@
 				type: "item"
 				item: "the_vault:knowledge_star_shard"
 				count: 3
-			}]
-		}
-		{
-			title: "Immersive Paintings"
-			x: -11.5d
-			y: -5.0d
-			subtitle: "Art display!"
-			description: ["This mod adds 2 new blocks, an improved version of the vanilla Painting and Graffiti. Paintings are for display art with a background, and graffiti is those for transparency. You can load custom images and display them in the world!"]
-			id: "49EE6B2600FD06CD"
-			tasks: [{
-				id: "1947DC23217AB765"
-				type: "item"
-				item: "immersive_paintings:painting"
-			}]
-			rewards: [{
-				id: "0D31F503CA1EE58F"
-				type: "item"
-				item: "minecraft:purple_dye"
-				count: 16
 			}]
 		}
 		{

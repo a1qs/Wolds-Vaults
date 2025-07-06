@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4376751
 project-id = 317269
+
+[option]
+optional = true
+description = "Gives the ability to play with a controller!"

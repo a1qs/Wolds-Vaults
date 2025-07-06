@@ -1,6 +1,6 @@
 {
     "name": "Effect Duration (Suffix)",
-    "icon": "ars_nouveau:glyph_duration_down",
+    "icon": "minecraft:potion",
     "category": "patchouli:armor_suffixes",
     "pages": [
         {

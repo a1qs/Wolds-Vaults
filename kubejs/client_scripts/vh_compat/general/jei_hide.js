@@ -72,11 +72,6 @@ onEvent('jei.hide.items', event => {
     event.hide('angelring:resonant_angel_ring')
     event.hide(/davespotioneering:.*_umbrella/)
     event.hide('woldsvaults:capstone_vendoors')
-    event.hide('ars_nouveau:mundane_belt')
-    event.hide('ars_nouveau:belt_of_unstable_gifts')
-    event.hide('ars_nouveau:belt_of_levitation')
-    event.hide('ars_nouveau:wixie_charm')
-    event.hide('ars_nouveau:enchanters_shield')
     //Blocks with rendering/crashing issues
     event.hide('blockcarpentry:frame_sign')
     event.hide('blockcarpentry:illusion_sign')
