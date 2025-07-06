@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4747651
 project-id = 910506
+
+[option]
+optional = true
+description = "Changes the layout of the sodium options screen"

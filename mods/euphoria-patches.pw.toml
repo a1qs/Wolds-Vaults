@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5407439
 project-id = 915902
+
+[option]
+optional = true
+description = "Installs a expanded-upon Complementary Shader pack"

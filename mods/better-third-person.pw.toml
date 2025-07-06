@@ -1,6 +1,6 @@
 name = "Better Third Person"
 filename = "BetterThirdPerson-Forge-1.18.2-1.9.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4177087
 project-id = 435044
+
+[option]
+optional = true
+description = "Changes the way third person functions"

@@ -1,6 +1,6 @@
 name = "Skin Fighters - Vault Hunters 3 addon"
 filename = "skinfighters-2.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
