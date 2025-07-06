@@ -675,10 +675,6 @@
           },
           {
             "type": "constant",
-            "id": "Waystones"
-          },
-          {
-            "type": "constant",
             "id": "Cloud Storage"
           },
           {

@@ -270,12 +270,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/occultism"
     },
-    "Waystones": {
-      "x": 390,
-      "y": 120,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/waystones"
-    },
     "Torch Master": {
       "x": 440,
       "y": 120,
