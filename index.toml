@@ -20659,6 +20659,16 @@ hash = "067add22d2002eaa2e75b76a8c2957827a201c0c01c6d54250c74943a78716f6"
 metafile = true
 
 [[files]]
+file = "mods/dyenamics.pw.toml"
+hash = "ba70680f0263699dd809b974e1c24680785cdd7933a2fb5cab0c22af94815777"
+metafile = true
+
+[[files]]
+file = "mods/dyenamicsandfriends.pw.toml"
+hash = "f96783c980fa85d87807c91207cf6e289e2775fc8590760d08f953e4c63f822d"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "dd96a0ad1bdccbd0324b513606170a65e3fa8714a1bb0e67cee32b3f572bc712"
 metafile = true
@@ -21359,6 +21369,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "bb0f47460d4c9bac2b8d816975d64d35bdb7f6463207aace11172be93c9dae81"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "dbc9592c03dd955811a85f3c8dd848fc063dfcb38db9031a273e787070685c16"
 metafile = true
 
 [[files]]
