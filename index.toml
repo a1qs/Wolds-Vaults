@@ -20824,6 +20824,11 @@ hash = "d6c00a2f966bd60f234ef2fc7a560e08d15c29cf8a0aeee81bedd9f0598134f2"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "3f4b49c88972efe68d7ce29c437dc895f555ea599195278dc79f63cf24160d97"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "0d2e1d62987f3e6fe9a9edd31c6b59b6603b26a92f8452545d1535358cabf91a"
 metafile = true
@@ -20831,6 +20836,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "4658fc0a3dceca066165e2a58e6a135875bf4fd5b28fa50b102e30b8e8349bd5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "62176699108fcb0b0516e33ea51ea9331a1a0626f98616ef757184aa0efe5bda"
 metafile = true
 
 [[files]]
