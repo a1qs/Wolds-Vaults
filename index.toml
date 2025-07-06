@@ -430,7 +430,7 @@ hash = "f893ba0e18a85407f42416f4b5d09f33ea35a8fba311bd6f3bae1704d83f76b4"
 
 [[files]]
 file = "config/the_vault/custom_entity_spawner.json"
-hash = "8b2da3c66f1699f368b5314631fee650c56ed52777475354c0f14cf3fb02571c"
+hash = "4157d72fafbc06f0cb2a4db909c259568b8a34db4f8093f7ffce19f6f6f3a345"
 
 [[files]]
 file = "config/the_vault/custom_vault_recycler.json"
