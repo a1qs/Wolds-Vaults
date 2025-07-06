@@ -194,13 +194,6 @@
               "randomMotion": true
             },
             "weight": 2
-          },
-          {
-            "value": {
-              "type": "archers_paradox:spore_arrow",
-              "randomMotion": true
-            },
-            "weight": 4
           }
         ]
       }
@@ -252,14 +245,7 @@
               "randomMotion": true
             },
             "weight": 2
-          },
-          {
-            "value": {
-              "type": "archers_paradox:frost_arrow",
-              "randomMotion": true
-            },
-            "weight": 2
-          },
+          }
           {
             "value": {
               "type": "the_vault:winter_wolf",

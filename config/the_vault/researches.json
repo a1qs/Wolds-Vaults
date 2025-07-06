@@ -19,23 +19,6 @@
     },
     {
       "modIds": [
-        "ars_nouveau"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Ars Nouveau",
-      "cost": 6,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "occultism"
       ],
       "restrictions": {
@@ -72,7 +55,6 @@
       "modIds": [
         "immersiveengineering",
         "controlengineering",
-        "more_immersive_wires",
         "immersivepetroleum"
       ],
       "restrictions": {
@@ -259,23 +241,6 @@
       },
       "name": "Time in a Bottle",
       "cost": 4,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "createdieselgenerators"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": true,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
-        }
-      },
-      "name": "Create Diesel Generators",
-      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -506,23 +471,6 @@
     },
     {
       "modIds": [
-        "mininggadgets"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Mining Gadgets",
-      "cost": 3,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "sophisticatedstorage"
       ],
       "restrictions": {
@@ -593,8 +541,7 @@
     },
     {
       "modIds": [
-        "refinedstorage",
-        "refinedcooking"
+        "refinedstorage"
       ],
       "restrictions": {
         "restricts": {
@@ -638,7 +585,6 @@
     {
       "modIds": [
         "ae2",
-        "appliedcooking",
         "merequester",
         "ae2additions"
       ],

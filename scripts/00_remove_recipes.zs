@@ -678,31 +678,6 @@ brewing.removeRecipeByOutputPotion(<potion:minecraft:regeneration>);
 brewing.removeRecipeByOutputPotion(<potion:minecraft:turtle_master>);
 craftingTable.removeByName("minecraft:suspicious_stew");
 
-// Mining Gadgets
-craftingTable.remove(<item:mininggadgets:mininggadget>);
-craftingTable.remove(<item:mininggadgets:mininggadget_simple>);
-craftingTable.remove(<item:mininggadgets:mininggadget_fancy>);
-craftingTable.remove(<item:mininggadgets:modificationtable>);
-craftingTable.remove(<item:mininggadgets:upgrade_empty>); 
-craftingTable.remove(<item:mininggadgets:upgrade_efficiency_1>);
-craftingTable.remove(<item:mininggadgets:upgrade_efficiency_2>);
-craftingTable.remove(<item:mininggadgets:upgrade_efficiency_3>);
-craftingTable.remove(<item:mininggadgets:upgrade_efficiency_4>);
-craftingTable.remove(<item:mininggadgets:upgrade_efficiency_5>);
-craftingTable.remove(<item:mininggadgets:upgrade_void_junk>);
-craftingTable.remove(<item:mininggadgets:upgrade_magnet>);
-craftingTable.remove(<item:mininggadgets:upgrade_three_by_three>);
-craftingTable.remove(<item:mininggadgets:upgrade_fortune_1>);
-craftingTable.remove(<item:mininggadgets:upgrade_fortune_2>);
-craftingTable.remove(<item:mininggadgets:upgrade_fortune_3>);
-craftingTable.remove(<item:mininggadgets:upgrade_range_1>);
-craftingTable.remove(<item:mininggadgets:upgrade_range_2>);
-craftingTable.remove(<item:mininggadgets:upgrade_range_3>);
-craftingTable.remove(<item:mininggadgets:upgrade_battery_1>);
-craftingTable.remove(<item:mininggadgets:upgrade_battery_2>);
-craftingTable.remove(<item:mininggadgets:upgrade_battery_3>);
-craftingTable.remove(<item:mininggadgets:upgrade_silk>);
-
 // Building Gadgets
 craftingTable.remove(<item:buildinggadgets:gadget_destruction>);
 craftingTable.remove(<item:buildinggadgets:gadget_building>);

@@ -5,7 +5,6 @@ let removedOutputsCCAE = [
     'createaddition:redstone_relay',
     'createaddition:capacitor',
     'createaddition:spool',
-    'bobberdetector:bobber_detector'
 ];
 onEvent("recipes", event => {
     removedOutputsCCAE.forEach(id => {
@@ -61,20 +60,6 @@ onEvent("recipes", event => {
     event.shapeless('2x createaddition:connector', ['createaddition:copper_rod', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_diamond'])
     event.shapeless('createaddition:large_connector', ['createaddition:gold_rod', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_diamond'])
     event.shapeless('createaddition:large_connector', ['createaddition:electrum_rod', 'create:andesite_alloy', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_essence'])
-
-
-    event.shaped(Item.of('bobberdetector:bobber_detector'),
-        [
-            'APA',
-            'RTR',
-            'AMA'
-        ], {
-        A: 'create:andesite_alloy_block',
-        R: 'the_vault:extraordinary_larimar',
-        M: 'the_vault:vault_meat_block',
-        P: 'minecraft:fishing_rod',
-        T: 'create:content_observer'
-    })
 
     event.shaped(Item.of('createaddition:redstone_relay'),
         [

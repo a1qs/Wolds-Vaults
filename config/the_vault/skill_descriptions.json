@@ -1,20 +1,5 @@
 {
   "descriptions": {
-    "Ars Nouveau": [
-      {
-        "text": "Unlocks the "
-      },
-      {
-        "text": "Ars Nouveau",
-        "color": "yellow"
-      },
-      {
-        "text": " mod!\n\nArs Nouveau is a magic mod inspired by Ars Magicka that allows players to craft their own spells, create magical artifacts, perform rituals, and much more.\n"
-      },
-      {
-        "text": "Documentation is provided entirely in-game by Patchouli. To get started with this mod, craft the Worn Notebook using a book and 1 Lapis Lazuli."
-      }
-    ],
     "Occultism": [
       {
         "text": "Unlocks the "
@@ -560,18 +545,6 @@
         "text": "!\n\nAlso unlocks a Player Tracking Compass for finding your friend in the vault!"
       }
     ],
-    "Archers Paradox": [
-      {
-        "text": "Unlocks the "
-      },
-      {
-        "text": "Archers Paradox ",
-        "color": "yellow"
-      },
-      {
-        "text": "mod!\n\nThis mod adds lots of new arrows such as explosive, piercing, homing, and more!"
-      }
-    ],
     "Functional Storage": [
       {
         "text": "Unlocks the "
@@ -609,18 +582,6 @@
       },
       {
         "text": "mod for Create!\n\nThis mod adds drilling machines for fluids and ores, search for the randomly generated ore veins and generate ores to your hearts content!"
-      }
-    ],
-    "Create Diesel Generators": [
-      {
-        "text": "Unlocks the "
-      },
-      {
-        "text": "Diesel Generators ",
-        "color": "yellow"
-      },
-      {
-        "text": "addon for Create!\n\nThis mod adds new blocks and items used to dig up oil from the ground using Pumpjacks. Useful for getting kinetic energy in a more interesting way!"
       }
     ],
     "Better Wallets": [
@@ -842,36 +803,6 @@
       },
       {
         "text": " and watch it dig out all your treasures!"
-      }
-    ],
-    "Mining Gadgets": [
-      {
-        "text": ""
-      },
-      {
-        "text": "\u26a0 ",
-        "color": "red"
-      },
-      {
-        "text": "Disabled In Vaults!\n",
-        "color": "dark_red"
-      },
-      {
-        "text": "Unlocks the "
-      },
-      {
-        "text": "Mining Gadgets",
-        "color": "yellow"
-      },
-      {
-        "text": " mod!\n\nEver wanted to mine super quick using a laser rifle? If the answer is yes, then this mod is for you. Break blocks faster and at a further distance than you thought was possible with this "
-      },
-      {
-        "text": "Forge Energy (FE)",
-        "color": "aqua"
-      },
-      {
-        "text": " powered mod."
       }
     ],
     "Building Gadgets": [
@@ -3623,9 +3554,6 @@
     },
     "Super Builder": {
       "text": "Unlocks the Building Gadgets Mod!"
-    },
-    "Super Miner": {
-      "text": "Unlocks the Mining Gadgets Mod!"
     },
     "Storage Noob": {
       "text": "Unlocks the Iron chests and Metal barrels Mods."

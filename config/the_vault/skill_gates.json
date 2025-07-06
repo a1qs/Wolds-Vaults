@@ -321,10 +321,6 @@
           {
             "type": "constant",
             "id": "Create Ore Excavation"
-          },
-          {
-            "type": "constant",
-            "id": "Mining Gadgets"
           }
         ],
         "ignoreArrow": true,
@@ -335,20 +331,6 @@
           {
             "type": "constant",
             "id": "Create"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Create Diesel Generators": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Create"
-          },
-          {
-            "type": "constant",
-            "id": "Create Crafts and Additions"
           }
         ],
         "ignoreArrow": true,
@@ -545,10 +527,6 @@
           },
           {
             "type": "constant",
-            "id": "Ars Nouveau"
-          },
-          {
-            "type": "constant",
             "id": "Easy Villagers"
           },
           {
@@ -685,10 +663,6 @@
           },
           {
             "type": "constant",
-            "id": "Mining Gadgets"
-          },
-          {
-            "type": "constant",
             "id": "Building Gadgets"
           },
           {
@@ -734,10 +708,6 @@
           {
             "type": "constant",
             "id": "Create Crafts and Additions"
-          },
-          {
-            "type": "constant",
-            "id": "Create Diesel Generators"
           },
           {
             "type": "constant",

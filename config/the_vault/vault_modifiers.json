@@ -5700,20 +5700,6 @@
             },
             {
               "value": {
-                "type": "archers_paradox:frost_arrow",
-                "randomMotion": false
-              },
-              "weight": 6
-            },
-            {
-              "value": {
-                "type": "archers_paradox:blaze_arrow",
-                "randomMotion": false
-              },
-              "weight": 6
-            },
-            {
-              "value": {
                 "type": "the_vault:t3_husk",
                 "randomMotion": false
               },
@@ -6363,7 +6349,7 @@
           "entities": [
             {
               "value": {
-                "type": "archers_paradox:spore_arrow",
+                "type": "thermal:ice_grenade",
                 "randomMotion": false
               },
               "weight": 2
@@ -6371,10 +6357,10 @@
           ]
         },
         "display": {
-          "name": "Spore Infested Mobs",
+          "name": "Ice Infested Mobs",
           "color": "#BBDEFB",
-          "description": "Mobs sometimes drop spore arrows on death.",
-          "icon": "the_vault:gui/modifiers/slime_grenade"
+          "description": "Mobs sometimes drop Ice Grenades on death",
+          "icon": "the_vault:gui/modifiers/ice_grenade"
         }
       }
     },

@@ -52,9 +52,6 @@
 	[wood_type.integrateddynamics]
 		menril = true
 
-	[wood_type.createdieselgenerators]
-		chip_wood = true
-
 	[wood_type.wildbackport]
 		mangrove = true
 

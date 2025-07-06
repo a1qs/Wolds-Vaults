@@ -239,10 +239,10 @@
       "type": "weighted_target",
       "target": "minecraft:oak_leaves",
       "output": {
-        "ars_nouveau:blue_archwood_leaves": 4,
-        "ars_nouveau:purple_archwood_leaves": 3,
-        "ars_nouveau:red_archwood_leaves": 2,
-        "ars_nouveau:green_archwood_leaves": 1
+        "quark:blue_blossom_leaves": 4,
+        "quark:lavender_blossom_leaves": 3,
+        "quark:red_blossom_leaves": 2,
+        "chipped:oak_leaves_5": 1
       }
     },
     {

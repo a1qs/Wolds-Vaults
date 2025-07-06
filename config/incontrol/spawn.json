@@ -12,10 +12,6 @@
         "result": "deny"
     },
     {
-        "mod": "ars_nouveau",
-        "result": "deny"
-    },
-    {
         "mod": "grimoireofgaia",
         "result": "deny"
     },

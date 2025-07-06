@@ -35,7 +35,6 @@
         "Mega Cells",
         "Extra Storage",
         "Create Crafts and Additions",
-        "Create Diesel Generators",
         "Botanical Machinery",
         "Cable Tiers",
         "Incorporeal",
@@ -76,7 +75,6 @@
     "BigToys": {
       "title": "Big Toys",
       "research": [
-        "Mining Gadgets",
         "Digital Miner",
         "Building Gadgets",
         "Create Ore Excavation",
