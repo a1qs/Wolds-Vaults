@@ -16174,11 +16174,11 @@ hash = "251f0ef1974ff96a59f79aabe721ff5954ae823f907375b652021ffbf05d0cd3"
 
 [[files]]
 file = "configureddefaults/keys.txt"
-hash = "bbe5a9f620f1481794c61706f4516ada65b9784047f0c6befe0d0c3b0bb0f23b"
+hash = "3e671cfe973180eaf6b73d3b550fb5381f51cd6ccd9a894d2829b40c10fccd8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "3be521cce40e1fe4d8f494bb12f4e426a1d37a97d473a4a313aa2a564c4931dc"
+hash = "f81b88840c931a5167578d88176da72bf5b6e840db73f7be54700dbe4ce169e6"
 
 [[files]]
 file = "configureddefaults/servers.dat"
