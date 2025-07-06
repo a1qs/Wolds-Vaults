@@ -11,3 +11,4 @@ hash = "0c95eaa302444eeab21239d25d2836bf4d424c427a806a68237b4fe8e2e679a3"
 [versions]
 forge = "40.2.21"
 minecraft = "1.18.2"
+unsup = "1.0.2"
