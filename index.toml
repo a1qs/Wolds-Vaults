@@ -20200,11 +20200,6 @@ hash = "af75a75b01c6887ca828ba2c25b1e7e0229dc7eaf2a97a8fb3de0f8d4354f513"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "5acefeae0860cb0dbb4671aa76904ffc6ebfd7acd259e381ff87b3c26c5128f7"
-metafile = true
-
-[[files]]
 file = "mods/angel-ring.pw.toml"
 hash = "7dbda136d1c1db15175e70a5717c990b88f0f79f8d4242c4ec89de48cfdd6342"
 metafile = true
