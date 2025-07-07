@@ -14246,15 +14246,15 @@ hash = "c5c65ddf5bb5acff7bee118822d477df34cce069dbde063a657201c0929c8c71"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "b9f14c1b852434a9ee7b13832438bc5e23deb7643e4ae36712cd249409019424"
+hash = "fe7616be97393a8873e14fc30da54e03e82da38b664ddf4a542fac6ac8571180"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "4894e4ba1bba83fc41ef8e1597994cf009e449e669b3d0753c14b9634aad092a"
+hash = "fe7616be97393a8873e14fc30da54e03e82da38b664ddf4a542fac6ac8571180"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "3585d06cd3c66d6e48ecbbbfad68a6574944c3fa1edc42c47ab4839733152ff5"
+hash = "f563c13f04c4721d98968c2aab0e21dc3e9884cdb26aeacf712b2b6e8518ce3b"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
