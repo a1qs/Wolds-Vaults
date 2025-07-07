@@ -122,7 +122,6 @@
     "Power": {
       "title": "Power",
       "research": [
-        "Flux Networks",
         "Powah",
         "Mekanism Generators",
         "Thermal Dynamos",
@@ -170,14 +169,15 @@
     "Handling": {
       "title": "Handling",
       "research": [
-        "Xnet",
+        "Flux Networks",
         "Modular Routers",
         "Pipez",
         "Dark Utilities",
         "LaserIO",
         "Super Factory Manager",
         "Entangled",
-        "Little Logistics"
+        "Little Logistics",
+        "Xnet"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
