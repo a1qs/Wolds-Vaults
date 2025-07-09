@@ -123,23 +123,6 @@
     },
     {
       "modIds": [
-        "cabletiers"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": true,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
-        }
-      },
-      "name": "Cable Tiers",
-      "cost": 3,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "entangled"
       ],
       "restrictions": {
@@ -295,23 +278,6 @@
       },
       "name": "Botanical Machinery",
       "cost": 6,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "extrastorage"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Extra Storage",
-      "cost": 8,
       "usesKnowledge": true
     },
     {
@@ -524,29 +490,6 @@
     },
     {
       "modIds": [
-        "refinedstorage"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Refined Storage",
-      "cost": 2,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/arcade/helmet",
-        "the_vault:gear/armor/arcade/chestplate",
-        "the_vault:gear/armor/arcade/leggings",
-        "the_vault:gear/armor/arcade/boots"
-      ]
-    },
-    {
-      "modIds": [
         "integratednbt",
         "integrateddynamics",
         "integratedterminals",
@@ -563,7 +506,13 @@
       },
       "name": "Integrated Dynamics",
       "cost": 2,
-      "usesKnowledge": true
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/armor/arcade/helmet",
+        "the_vault:gear/armor/arcade/chestplate",
+        "the_vault:gear/armor/arcade/leggings",
+        "the_vault:gear/armor/arcade/boots"
+      ]
     },
     {
       "modIds": [

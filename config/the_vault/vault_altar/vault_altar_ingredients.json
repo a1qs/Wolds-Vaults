@@ -6536,24 +6536,6 @@
           "value": {
             "items": [
               {
-                "item": "refinedstorage:silicon"
-              },
-              {
-                "item": "ae2:silicon"
-              }
-            ],
-            "amount": {
-              "min": 2,
-              "max": 4
-            },
-            "scale": 0.8
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "items": [
-              {
                 "item": "ae2:certus_quartz_dust"
               }
             ],
@@ -9726,24 +9708,6 @@
           "value": {
             "items": [
               {
-                "item": "refinedstorage:silicon"
-              },
-              {
-                "item": "ae2:silicon"
-              }
-            ],
-            "amount": {
-              "min": 2,
-              "max": 4
-            },
-            "scale": 0.8
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "items": [
-              {
                 "item": "ae2:certus_quartz_dust"
               }
             ],
@@ -12909,24 +12873,6 @@
               "max": 5
             },
             "scale": 0.7
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "refinedstorage:silicon"
-              },
-              {
-                "item": "ae2:silicon"
-              }
-            ],
-            "amount": {
-              "min": 2,
-              "max": 4
-            },
-            "scale": 0.8
           },
           "weight": 8
         },

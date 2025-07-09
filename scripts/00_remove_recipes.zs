@@ -509,55 +509,6 @@ craftingTable.remove(<item:mekanism:dimensional_stabilizer>);
 // Enercell
 craftingTable.remove(<item:enercell:enercell>);
 
-// Refined Storage
-furnace.remove(<item:refinedstorage:basic_processor>);
-furnace.remove(<item:refinedstorage:raw_improved_processor>);
-furnace.remove(<item:refinedstorage:raw_advanced_processor>);
-craftingTable.remove(<item:refinedstorage:network_receiver>);
-craftingTable.remove(<item:refinedstorage:network_transmitter>);
-craftingTable.remove(<item:refinedstorage:network_card>);
-craftingTable.remove(<item:refinedstorage:storage_housing>);
-craftingTable.remove(<item:refinedstorage:1k_storage_part>);
-craftingTable.remove(<item:refinedstorage:1k_storage_disk>);
-craftingTable.remove(<item:refinedstorage:4k_storage_part>);
-craftingTable.remove(<item:refinedstorage:4k_storage_disk>);
-craftingTable.remove(<item:refinedstorage:16k_storage_part>);
-craftingTable.remove(<item:refinedstorage:16k_storage_disk>);
-craftingTable.remove(<item:refinedstorage:64k_storage_part>);
-craftingTable.remove(<item:refinedstorage:64k_storage_disk>);
-craftingTable.remove(<item:refinedstorage:64k_fluid_storage_disk>);
-craftingTable.remove(<item:refinedstorage:256k_fluid_storage_disk>);
-craftingTable.remove(<item:refinedstorage:1024k_fluid_storage_disk>);
-craftingTable.remove(<item:refinedstorage:4096k_fluid_storage_disk>);
-craftingTable.remove(<item:refinedstorage:processor_binding>);
-craftingTable.remove(<item:refinedstorage:raw_basic_processor>);
-craftingTable.remove(<item:refinedstorage:basic_processor>);
-craftingTable.remove(<item:refinedstorage:raw_improved_processor>);
-craftingTable.remove(<item:refinedstorage:raw_advanced_processor>);
-craftingTable.remove(<item:refinedstorage:destruction_core>);
-craftingTable.remove(<item:refinedstorage:construction_core>);
-craftingTable.remove(<item:refinedstorage:machine_casing>);
-craftingTable.remove(<item:refinedstorage:disk_drive>);
-craftingTable.remove(<tag:items:refinedstorage:grid>);
-craftingTable.remove(<tag:items:refinedstorage:crafting_grid>);
-craftingTable.remove(<tag:items:refinedstorage:detector>);
-craftingTable.remove(<item:refinedstorage:wireless_transmitter>);
-craftingTable.remove(<item:refinedstorage:external_storage>);
-craftingTable.remove(<item:refinedstorage:speed_upgrade>);
-craftingTable.remove(<item:refinedstorage:crafting_upgrade>);
-craftingTable.remove(<item:refinedstorage:stack_upgrade>);
-craftingTable.remove(<item:refinedstorage:wireless_grid>);
-craftingTable.remove(<item:refinedstorageaddons:wireless_crafting_grid>);
-craftingTable.remove(<tag:items:refinedstorage:controller>);
-craftingTable.remove(<item:refinedstorage:crafter>);
-craftingTable.remove(<item:refinedstorage:crafter_manager>);
-craftingTable.remove(<item:refinedstorage:pattern>);
-craftingTable.remove(<tag:items:refinedstorage:pattern_grid>);
-craftingTable.remove(<item:refinedstorage:security_card>);
-craftingTable.remove(<item:refinedstorage:wireless_fluid_grid>);
-craftingTable.remove(<item:refinedstorage:portable_grid>);
-
-
 // Iron Generators/Furnaces
 craftingTable.removeByModid("irongenerators");
 craftingTable.remove(<item:ironfurnaces:heater>);
@@ -904,13 +855,6 @@ JEI.hideMod("framedblocks");
 // Backpacks
 JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_magnet_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:magnet_upgrade>);
-
-// Refined
-JEI.hideIngredient(<item:refinedstorage:raw_basic_processor>);
-JEI.hideIngredient(<item:refinedstorage:processor_binding>);
-JEI.hideIngredient(<item:refinedstorage:raw_improved_processor>);
-JEI.hideIngredient(<item:refinedstorage:raw_advanced_processor>);
-JEI.hideIngredient(<item:refinedstorage:portable_grid>);
 
 // Botania
 JEI.hideIngredient(<item:botania:manasteel_helmet>);

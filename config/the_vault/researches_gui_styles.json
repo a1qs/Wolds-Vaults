@@ -54,12 +54,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/little_logistics"
     },
-    "Cable Tiers": {
-      "x": 670,
-      "y": 80,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/cable_tiers"
-    },
     "Entangled": {
       "x": 60,
       "y": 200,
@@ -101,12 +95,6 @@
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/integrated_dynamics"
-    },
-    "Refined Storage": {
-      "x": 60,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/refined_storage"
     },
     "Applied Energistics": {
       "x": 110,
@@ -155,12 +143,6 @@
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mega_cells"
-    },
-    "Extra Storage": {
-      "x": 570,
-      "y": 40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/extrastorage"
     },
     "Create Crafts and Additions": {
       "x": 620,

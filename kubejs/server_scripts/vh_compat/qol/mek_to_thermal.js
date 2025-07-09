@@ -3,10 +3,6 @@ let removedOutputsQOLTM = [
     'ae2:cell_component_4k',
     'ae2:cell_component_16k',
     'ae2:cell_component_64k',
-    'refinedstorage:1k_storage_part',
-    'refinedstorage:4k_storage_part',
-    'refinedstorage:16k_storage_part',
-    'refinedstorage:64k_storage_part'
 ];
 onEvent("recipes", event => {
     removedOutputsQOLTM.forEach(id => {

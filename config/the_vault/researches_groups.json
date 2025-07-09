@@ -33,10 +33,8 @@
         "Mekanism QIO",
         "Applied Compatability",
         "Mega Cells",
-        "Extra Storage",
         "Create Crafts and Additions",
         "Botanical Machinery",
-        "Cable Tiers",
         "Incorporeal",
         "Misc Bag Upgrades"
       ],
@@ -48,7 +46,6 @@
     "Logistics": {
       "title": "Logistics",
       "research": [
-        "Refined Storage",
         "Applied Energistics",
         "Integrated Dynamics"
       ],

@@ -201,31 +201,6 @@
       ]
     },
     {
-      "id": "woldsvaults:refinedstorage",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "woldsvaults:targeted_mod_box",
-        "NBT": "{research:\"Refined Storage\"}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:mod_box",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:mystical_powder",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:gem_pog",
-          "NBT": "{}"
-        }
-      ]
-    },
-    {
       "id": "woldsvaults:appliedenergistics",
       "output": {
         "AMOUNT": 1,

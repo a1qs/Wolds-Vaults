@@ -356,26 +356,6 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
-      "Extra Storage": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Refined Storage"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Cable Tiers": {
-        "dependsOn": [
-          {
-            "type": "constant",
-            "id": "Refined Storage"
-          }
-        ],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
       "Mega Cells": {
         "dependsOn": [
           {
@@ -691,10 +671,6 @@
           },
           {
             "type": "constant",
-            "id": "Extra Storage"
-          },
-          {
-            "type": "constant",
             "id": "Botanical Machinery"
           },
           {
@@ -723,10 +699,6 @@
           },
           {
             "type": "constant",
-            "id": "Cable Tiers"
-          },
-          {
-            "type": "constant",
             "id": "Little Logistics"
           },
           {
@@ -748,10 +720,6 @@
           {
             "type": "constant",
             "id": "Integrated Dynamics"
-          },
-          {
-            "type": "constant",
-            "id": "Refined Storage"
           },
           {
             "type": "constant",
@@ -788,17 +756,8 @@
       "Altar Automation": {
         "dependsOn": [
           {
-            "type": "either",
-            "gates": [
-              {
-                "type": "constant",
-                "id": "Refined Storage"
-              },
-              {
-                "type": "constant",
-                "id": "Applied Energistics"
-              }
-            ]
+            "type": "constant",
+            "id": "Applied Energistics"
           }
         ],
         "ignoreArrow": true,

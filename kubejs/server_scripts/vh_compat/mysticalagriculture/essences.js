@@ -23,14 +23,6 @@ onEvent("recipes", event => {
         E: 'mysticalagriculture:silicon_essence'
     })
 
-    event.shaped(Item.of('refinedstorage:silicon', 8),
-        [
-            'EE ',
-            'E  '
-        ], {
-        E: 'mysticalagriculture:silicon_essence'
-    })
-
     event.shaped(Item.of('thermal:sulfur', 8),
         [
             'EE ',
