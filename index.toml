@@ -18174,7 +18174,7 @@ hash = "b769f64576ac62da230eedc272b6031c3d481bfee7bf4db4c8e8b99d465d42bb"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "c004322424b512627ebf9ab836003abbfaf131a81b9d7797f7de4d838cf9b836"
+hash = "8db0f0bc0d5e9f89a1fce7413d6c18309664415029bf561c13ea5510b9380c6a"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -19647,6 +19647,10 @@ hash = "058c91a44f9f4c079069775e15aea88454aee80420815cf5af51dedf01187d24"
 [[files]]
 file = "kubejs/server_scripts/colored_unobtainium/script.js"
 hash = "d6bb0f76f761fe14d14facd1120eb0c7627fa67edbf2cba69d8ab9ab7d4e7ed8"
+
+[[files]]
+file = "kubejs/server_scripts/sadness.js"
+hash = "5e17a2f6ffcf44325684a4bce666fec5fdadee4878187d0a645a378657248cd7"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2/recipes.js"
@@ -21466,6 +21470,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "aa265ae4a6c94a761da1c47970eec6e0c8ac9c6e4c31cc1298c0f9e6b7fcf0a1"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "8259e337361b2d18af7efb0c7da3867509ac60f72193fbf3a8ae8299575137a1"
 metafile = true
 
 [[files]]
