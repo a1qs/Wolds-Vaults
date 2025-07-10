@@ -16,7 +16,7 @@
     },
     {
       "type": "weighted_target",
-      "target": "immersivepetroleum:asphalt",
+      "target": "auxiliaryblocks:asphalt",
       "output": {
         "the_vault:tenos_dark_smooth_brick": 1
       }

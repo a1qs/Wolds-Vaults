@@ -342,18 +342,6 @@ onEvent("recipes", event => {
         S: 'the_vault:chromatic_steel_ingot'
     }).id('immersiveengineering:crafting/steel_scaffolding_standard')
 
-    event.shaped(Item.of('immersivepetroleum:gas_generator', 1),
-        [
-            'PPP',
-            'XGE',
-            'PPP'
-        ], {
-        P: '#forge:plates/iron',
-        G: 'immersiveengineering:generator',
-        E: 'immersiveengineering:capacitor_lv',
-        X: 'the_vault:gem_pog'
-    }).id('immersivepetroleum:gas_generator')
-
     event.shaped(Item.of('immersiveengineering:connector_lv', 4),
         [
             ' X ',
