@@ -30,7 +30,6 @@
     "Addons": {
       "title": "Addons",
       "research": [
-        "Mekanism QIO",
         "Applied Compatability",
         "Mega Cells",
         "Create Crafts and Additions",
@@ -43,17 +42,6 @@
         "Addons": 1
       }
     },
-    "Logistics": {
-      "title": "Logistics",
-      "research": [
-        "Applied Energistics",
-        "Integrated Dynamics"
-      ],
-      "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Logistics": 2
-      }
-    },
     "Storage": {
       "title": "Storage",
       "research": [
@@ -62,7 +50,10 @@
         "Drawers",
         "Cloud Storage",
         "RFTools Storage",
-        "Functional Storage"
+        "Functional Storage",
+        "Applied Energistics",
+        "Integrated Dynamics",
+        "Mekanism QIO"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

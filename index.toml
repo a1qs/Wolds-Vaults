@@ -14246,15 +14246,15 @@ hash = "f55bd53f28ef2f77de5dfbbdac7fc6475b7defaef00dfcbfb6a861c945b307e4"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "b9e6848b82ec67636a6ca595faa7667a27187b1889d34bfb3874a0e539a639f4"
+hash = "3ca6fe21a3730de39828455de26c6f61e09d09c2fefeada7d5de091993587aba"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "f1ae9e124dc5130a3d912fa45cc566cd5a647fb7d7738cc53a3586651c1da258"
+hash = "bcedaa44f2e270115039492e830216914e23e0a96b4099b64c4ba0944ed7320d"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "6f71b1295ad168006549638e68e9c27d8672ad73bf8bbf844c347954375c0da3"
+hash = "a6b7624ad085e58be09e777623df2955b521a9cdccd929984cd208ad353572e5"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -19650,7 +19650,7 @@ hash = "d6bb0f76f761fe14d14facd1120eb0c7627fa67edbf2cba69d8ab9ab7d4e7ed8"
 
 [[files]]
 file = "kubejs/server_scripts/sadness.js"
-hash = "5e17a2f6ffcf44325684a4bce666fec5fdadee4878187d0a645a378657248cd7"
+hash = "d5ed74d585c342d3cb4d2c8bf29214e618786e6d4efcabab031f2d18d4e6c48e"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2/recipes.js"
