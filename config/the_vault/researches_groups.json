@@ -30,31 +30,16 @@
     "Addons": {
       "title": "Addons",
       "research": [
-        "Mekanism QIO",
         "Applied Compatability",
         "Mega Cells",
-        "Extra Storage",
         "Create Crafts and Additions",
         "Botanical Machinery",
-        "Cable Tiers",
         "Incorporeal",
         "Misc Bag Upgrades"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
         "Addons": 1
-      }
-    },
-    "Logistics": {
-      "title": "Logistics",
-      "research": [
-        "Refined Storage",
-        "Applied Energistics",
-        "Integrated Dynamics"
-      ],
-      "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Logistics": 2
       }
     },
     "Storage": {
@@ -65,7 +50,10 @@
         "Drawers",
         "Cloud Storage",
         "RFTools Storage",
-        "Functional Storage"
+        "Functional Storage",
+        "Applied Energistics",
+        "Integrated Dynamics",
+        "Mekanism QIO"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -176,7 +164,6 @@
         "LaserIO",
         "Super Factory Manager",
         "Entangled",
-        "Little Logistics",
         "Xnet"
       ],
       "globalCostIncrease": 0.0,

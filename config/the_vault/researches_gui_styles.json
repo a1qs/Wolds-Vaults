@@ -19,8 +19,8 @@
       "icon": "the_vault:gui/researches/angel"
     },
     "Misc Bag Upgrades": {
-      "x": 620,
-      "y": 80,
+      "x": 570,
+      "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/misc_bag_upgrades"
     },
@@ -48,18 +48,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/incorporeal"
     },
-    "Little Logistics": {
-      "x": 10,
-      "y": 160,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/little_logistics"
-    },
-    "Cable Tiers": {
-      "x": 670,
-      "y": 80,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/cable_tiers"
-    },
     "Entangled": {
       "x": 60,
       "y": 200,
@@ -79,62 +67,56 @@
       "icon": "the_vault:gui/researches/mystical_agriculture"
     },
     "Colossal Chests": {
-      "x": -130,
+      "x": 60,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/colossal_chest"
     },
     "Cloud Storage": {
-      "x": -70,
+      "x": 110,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/cloud_storage"
     },
     "RFTools Storage": {
-      "x": -70,
-      "y": 40,
+      "x": 110,
+      "y": -40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/rftools_storage"
     },
     "Integrated Dynamics": {
-      "x": 10,
-      "y": 0,
+      "x": 60,
+      "y": -40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/integrated_dynamics"
     },
-    "Refined Storage": {
-      "x": 60,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/refined_storage"
-    },
     "Applied Energistics": {
-      "x": 110,
-      "y": 0,
+      "x": 10,
+      "y": -40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/applied_energistics"
     },
     "Sophisticated Storage": {
-      "x": -190,
+      "x": 10,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/sophisticated_storage"
     },
     "Drawers": {
-      "x": -190,
+      "x": 10,
       "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/drawers"
     },
     "Functional Storage": {
-      "x": -130,
+      "x": 60,
       "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/functional_storage"
     },
     "Mekanism QIO": {
-      "x": 570,
-      "y": 0,
+      "x": 110,
+      "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mekanism_qio"
     },
@@ -146,7 +128,7 @@
     },
     "Botanical Machinery": {
       "x": 570,
-      "y": 80,
+      "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botanical_machinery"
     },
@@ -155,12 +137,6 @@
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mega_cells"
-    },
-    "Extra Storage": {
-      "x": 570,
-      "y": 40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/extrastorage"
     },
     "Create Crafts and Additions": {
       "x": 620,
@@ -397,8 +373,8 @@
       "icon": "the_vault:gui/researches/dark_utilities"
     },
     "Flux Networks": {
-      "x": 110,
-      "y": 200,
+      "x": 10,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/flux_networks"
     },

@@ -818,7 +818,6 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:vault_altar_modded>.add(<item:mekanism:ingot_steel>);
 <tag:items:the_vault:vault_altar_modded>.add(<item:immersiveengineering:ingot_steel>);
 <tag:items:the_vault:vault_altar_modded>.add(<item:integrateddynamics:crystalized_menril_chunk>);
-<tag:items:the_vault:vault_altar_modded>.add(<item:refinedstorage:silicon>);
 <tag:items:the_vault:vault_altar_modded>.add(<item:ae2:silicon>);
 <tag:items:the_vault:vault_altar_modded>.add(<item:ae2:certus_quartz_dust>);
 <tag:items:the_vault:vault_altar_modded>.add(<item:powah:uraninite>);

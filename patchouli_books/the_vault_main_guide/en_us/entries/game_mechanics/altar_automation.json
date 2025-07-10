@@ -8,7 +8,7 @@
 
     {
       "type": "patchouli:text",
-      "text": "Automating the process of completing the $(l:getting_started/vault_crystal)$(t:Vault Altar)$(l)Vault Altar$() is locked behind $(l:skills/researches)$(l)Research$().$(br2)After crafting an $(l)Altar Conduit$(), it can be placed onto a $(l)Controller$() of $(l)Refined Storage$() or $(l)Applied Energistics$() to connect it.$(br2)Per player, only $(l)one$() Altar Conduit is functional."
+      "text": "Automating the process of completing the $(l:getting_started/vault_crystal)$(t:Vault Altar)$(l)Vault Altar$() is locked behind $(l:skills/researches)$(l)Research$().$(br2)After crafting an $(l)Altar Conduit$(), it can be placed onto a $(l)Controller$() of $(l)Applied Energistics$() to connect it.$(br2)Per player, only $(l)one$() Altar Conduit is functional."
     },
 
     {

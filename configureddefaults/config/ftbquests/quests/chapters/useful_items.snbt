@@ -101,33 +101,6 @@
 			]
 		}
 		{
-			title: "Small Ships"
-			x: -11.5d
-			y: -8.0d
-			subtitle: "Sail the Seven Seas"
-			description: ["Check out the Small Ships mod that is included! It adds much larger boats than vanilla that can hold items, useful for traversing the ocean!"]
-			id: "5586404E9C51AB99"
-			tasks: [{
-				id: "6DC36757E2E0D1AA"
-				type: "item"
-				title: "Small Ships Items"
-				item: {
-					id: "itemfilters:mod"
-					Count: 1b
-					tag: {
-						value: "smallships"
-					}
-				}
-				consume_items: false
-			}]
-			rewards: [{
-				id: "767D7475BF391783"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 16
-			}]
-		}
-		{
 			title: "SNAD!"
 			x: -16.5d
 			y: -6.5d

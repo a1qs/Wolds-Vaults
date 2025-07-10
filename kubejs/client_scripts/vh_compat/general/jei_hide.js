@@ -80,6 +80,7 @@ onEvent('jei.hide.items', event => {
     event.hide(/tropicraft:.*_sign/)
     event.hide(/twigs:.*_sign/)
     event.hide(/dungeons_mobs:.*/)
+    event.hide(/refinedstorage:.*/)
 })
 
 

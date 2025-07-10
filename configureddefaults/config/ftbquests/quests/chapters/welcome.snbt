@@ -232,15 +232,6 @@
 									Count: 1b
 								}
 							}
-							littlelogistics: {
-								0: {
-									id: "patchouli:guide_book"
-									Count: 1b
-									tag: {
-										"patchouli:book": "littlelogistics:guide"
-									}
-								}
-							}
 							modularrouters: {
 								0: {
 									id: "patchouli:guide_book"
