@@ -50,7 +50,7 @@
 		inventorySlotCount = 108
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
-		upgradeSlotCount = 5
+		upgradeSlotCount = 6
 
 	#Netherite Backpack Settings
 	[server.netheriteBackpack]
@@ -59,7 +59,7 @@
 		inventorySlotCount = 120
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
-		upgradeSlotCount = 7
+		upgradeSlotCount = 8
 
 	#Compacting Upgrade Settings
 	[server.compactingUpgrade]

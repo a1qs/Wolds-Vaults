@@ -14262,7 +14262,7 @@ hash = "7ca6d5d38549cdde8cf81056f63ccd4394c6369e718892897b1aa070e5bc8db9"
 
 [[files]]
 file = "config/the_vault/scavenger.json"
-hash = "9ec355d26849cb3dd3a5cb2eec243d34cb800f4804e72afc6397ab400adcb6b4"
+hash = "1d36b8e11d3f0371887819258d482cb8c87b733bf3f565490dd4aa38e91ea1d4"
 
 [[files]]
 file = "config/the_vault/scavenger_hunt.json"
@@ -16166,7 +16166,7 @@ hash = "210d924c172647345b3a3d3448e450e08163c27dafa19571baca32f5e8ea6904"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "ef4da1596b8d98b1a932a39377bf63a7c8d302bdb95e468f33f0b3ea32c19c13"
+hash = "581f3256dda5f45bb1e849fa1eb5f330d7afcf09816ff4bdb1bbd50366d76647"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/sophisticatedcore-server.toml"
@@ -16246,7 +16246,7 @@ hash = "476c899ad952b04ae70236c100bb715649017fcac6c13f9d35e0cd4770a5030a"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "ef4da1596b8d98b1a932a39377bf63a7c8d302bdb95e468f33f0b3ea32c19c13"
+hash = "581f3256dda5f45bb1e849fa1eb5f330d7afcf09816ff4bdb1bbd50366d76647"
 
 [[files]]
 file = "defaultconfigs/sophisticatedcore-server.toml"
