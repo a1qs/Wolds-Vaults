@@ -48,12 +48,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/incorporeal"
     },
-    "Little Logistics": {
-      "x": 10,
-      "y": 160,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/little_logistics"
-    },
     "Entangled": {
       "x": 60,
       "y": 200,
