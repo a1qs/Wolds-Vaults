@@ -258,12 +258,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/trashcans"
     },
-    "Elevators": {
-      "x": 390,
-      "y": 160,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/elevators"
-    },
     "Time in a Bottle": {
       "x": 390,
       "y": 120,

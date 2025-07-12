@@ -601,9 +601,6 @@ craftingTable.remove(<item:torchmaster:feral_flare_lantern>);
 craftingTable.remove(<item:torchmaster:dreadlamp>);
 craftingTable.remove(<item:torchmaster:megatorch>);
 
-// Elevators
-craftingTable.remove(<tag:items:elevatorid:elevators>);
-
 // Architects pallete
 craftingTable.remove(<item:architects_palette:charcoal_block>);
 furnace.remove(<item:architects_palette:charcoal_block>);

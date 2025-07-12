@@ -1961,28 +1961,6 @@
         "text": "mod!\n\nThis mod provides you with easy to use trashcans, where you can void not just items, but excess fluids and energy (FE) as well."
       }
     ],
-    "Elevators": [
-      {
-        "text": "Unlocks the "
-      },
-      {
-        "text": "Elevators ",
-        "color": "yellow"
-      },
-      {
-        "text": "mod!\n\nThis mod provides you with ways of travelling vertically. The basic Elevators, when placed vertically from one another within a certain distance gives you the ability to SHIFT / JUMP on them to go DOWN / UP."
-      },
-      {
-        "text": "\n\nAlso unlocks the "
-      },
-      {
-        "text": "Travel Anchors",
-        "color": "yellow"
-      },
-      {
-        "text": " mod! That adds a Travel Staff and Travel Anchors that let you travel to any Travel Anchor you are looking at! Note, the Teleportation Enchantment is disabled in vaults should you find a way of accessing it..."
-      }
-    ],
     "RFTools Utility": [
       {
         "text": "Unlocks the "

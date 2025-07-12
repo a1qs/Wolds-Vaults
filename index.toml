@@ -14242,11 +14242,11 @@ hash = "e9294857a7162e8d606cc38928f7350f10bffda98387153e3150a2b8db906f2a"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "f55bd53f28ef2f77de5dfbbdac7fc6475b7defaef00dfcbfb6a861c945b307e4"
+hash = "90c1bcd104b33ce97e25c706c2689c1f728da915a8c7370a0c2f0233fe21865d"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "3ca6fe21a3730de39828455de26c6f61e09d09c2fefeada7d5de091993587aba"
+hash = "1c77b87c6d337637bdce35462c0963699346453311c44b8d662856a55c590578"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -14254,7 +14254,7 @@ hash = "bcedaa44f2e270115039492e830216914e23e0a96b4099b64c4ba0944ed7320d"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "a6b7624ad085e58be09e777623df2955b521a9cdccd929984cd208ad353572e5"
+hash = "fe1a606e039df7626b105bb0b7274d4e19a8dd4da0eb0f55912cf68cf6432f0b"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -14262,7 +14262,7 @@ hash = "7ca6d5d38549cdde8cf81056f63ccd4394c6369e718892897b1aa070e5bc8db9"
 
 [[files]]
 file = "config/the_vault/scavenger.json"
-hash = "1d36b8e11d3f0371887819258d482cb8c87b733bf3f565490dd4aa38e91ea1d4"
+hash = "61baed9f26f28eade37fba2600040d274938d41cb9e965f80def21dc0986e39a"
 
 [[files]]
 file = "config/the_vault/scavenger_hunt.json"
@@ -14282,11 +14282,11 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "ccbbb7031f1acb34f031eee8fb7a09698163ce5d91ef94a9d63a8ef14b8c6826"
+hash = "f6b9902a4d18a2aa249dbba53a3fa5d5267e6aba513b033d323303f3199bed0a"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "0dc2cfed27486d6d4f9c88c16166b568577fae8b5bb8646b112d90d7d34c1710"
+hash = "bc387055dce87fe3e2dc3773aff188595aaf818f7898f0100370b10b9bdca654"
 
 [[files]]
 file = "config/the_vault/skill_gates_original.json"
@@ -23599,7 +23599,7 @@ metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "096e548b6fc2054a9813c5aa00aede39e1781bda9d6bbbe085bf281b19fa7d41"
+hash = "29704d4e58beecde2e9111ce576f8eccf1c5ab2d4d091e3bb4e9e803bf66b9f3"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -23644,10 +23644,6 @@ hash = "7fdf6dea7f5318eac5f0e6cdae8096565687c1538a9a499f995d3dc2b30f2c1b"
 [[files]]
 file = "scripts/Drawers.zs"
 hash = "630ad2318d1be70ef0d7da89a1415203e022a24af50a1d24dafd1d191f2290ef"
-
-[[files]]
-file = "scripts/Elevatorid.zs"
-hash = "05df3cf123e6ff305c48fbb5b82952aba359b40a11a4833d534c2268a75840fe"
 
 [[files]]
 file = "scripts/ExtraTags.zs"
