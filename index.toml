@@ -1218,7 +1218,7 @@ hash = "e120d0782022e9d44cdb8b5ad968f9cdba1c55efda8c5d46a6169ac2d69f6b7b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate.json"
-hash = "7f8400300e256a6d00d264dee4edde26ac3754fbed20988586eb1545b91f9f64"
+hash = "77e09ee9cc904e1a0096e965db0dadbd5941af7c72888f51f12d8c9aab52be3d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_0.json"
