@@ -6,7 +6,7 @@
       "levels": [
         {
           "level": 0,
-          "probability": 0.2,
+          "probability": 0.4,
           "success": {
             "the_vault:modifier_discovery": 0,
             "the_vault:enhancement_altar": 0,
@@ -18,7 +18,7 @@
         },
         {
           "level": 50,
-          "probability": 0.25,
+          "probability": 0.5,
           "success": {
             "the_vault:modifier_discovery": 8,
             "the_vault:enhancement_altar": 0,
@@ -30,7 +30,7 @@
         },
         {
           "level": 75,
-          "probability": 0.25,
+          "probability": 0.5,
           "success": {
             "the_vault:modifier_discovery": 8,
             "the_vault:enhancement_altar": 0,
