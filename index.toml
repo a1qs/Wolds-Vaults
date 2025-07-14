@@ -1162,7 +1162,7 @@ hash = "289f3c09be765f6801de9d7d65d97872ef7960d861c68461b504d7b22e252259"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living.json"
-hash = "d484eb579755f1cf4dd1706a8e71cdc4f4a02f0703e7693b31ed843fa78c5a99"
+hash = "90052476c7112151bed5bcc7e7da0f684e1ac8a19d7330f1eadf9e549c83f51a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_40.json"
@@ -1218,7 +1218,7 @@ hash = "e120d0782022e9d44cdb8b5ad968f9cdba1c55efda8c5d46a6169ac2d69f6b7b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate.json"
-hash = "77e09ee9cc904e1a0096e965db0dadbd5941af7c72888f51f12d8c9aab52be3d"
+hash = "b66aa404b25afd360789e90c17c59b69c0da5c3ca61a1b004b5648c6ecac0c2f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_0.json"
@@ -19654,7 +19654,7 @@ hash = "d6bb0f76f761fe14d14facd1120eb0c7627fa67edbf2cba69d8ab9ab7d4e7ed8"
 
 [[files]]
 file = "kubejs/server_scripts/sadness.js"
-hash = "d5ed74d585c342d3cb4d2c8bf29214e618786e6d4efcabab031f2d18d4e6c48e"
+hash = "f89e5038ea9690558c2f5b3f376a4332a96ec0759f8361d195fcc0381fb2ce4f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2/recipes.js"
