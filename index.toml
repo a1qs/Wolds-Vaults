@@ -193,6 +193,10 @@ file = "config/serverconfigupdater-common.toml"
 hash = "5dbf17db55197a501dd7ba9918897e7ae8b311a80ade0d3fcc7092039b64306a"
 
 [[files]]
+file = "config/storagedrawers-common.toml"
+hash = "412575c99b352589f2a651c636d811aa19c1a6418dd17954c6455477647a0557"
+
+[[files]]
 file = "config/supplementaries-registry.toml"
 hash = "c086a85a8321d8cc2cc6ed06a0968b11f0d8e4d3c3b97b5c969e8a0ef4d1f8c3"
 
@@ -1134,7 +1138,7 @@ hash = "6c4f6e04b5334d6dfdf83de72d8f243055dbce23c4d8cdeeb5ed12eef4434834"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded.json"
-hash = "36f6557bf920961ab2bb9a484dc4aa5ea3c65ffa0dca75531cd6ef71250c6401"
+hash = "8bb7ea9ddb7d6b9e5f537f50a7b015203e026bca97a3175ed9d381be25a63ce7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_0.json"
@@ -1158,7 +1162,7 @@ hash = "289f3c09be765f6801de9d7d65d97872ef7960d861c68461b504d7b22e252259"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living.json"
-hash = "c2bcc36a1c321b013e1c065413a0900bda451e3b58cb71660c7e0661a9e837f9"
+hash = "d484eb579755f1cf4dd1706a8e71cdc4f4a02f0703e7693b31ed843fa78c5a99"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_40.json"
@@ -1214,7 +1218,7 @@ hash = "e120d0782022e9d44cdb8b5ad968f9cdba1c55efda8c5d46a6169ac2d69f6b7b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate.json"
-hash = "ec29975308a58f00efd0ee43f9e84dcc14d005ec24a95ed748b4d4b7373b091b"
+hash = "7f8400300e256a6d00d264dee4edde26ac3754fbed20988586eb1545b91f9f64"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_0.json"
@@ -1978,15 +1982,15 @@ hash = "6b3d2bf354c0f0719e79809116fc40339737ec36e3c4824720870ed312278852"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_large.json"
-hash = "4bea624e67e2681f410e3b234acf05c1e879aa2c10ed04b178095e1a1b594bd3"
+hash = "ed949ce795ade8699d4ff7306144bb11161892728563c53fcb1e1930d7a172a8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_medium.json"
-hash = "7390de11e170c12e9d3dfdb46a7e0bf516af83ffcc1b5c0189a044e3caad8dfb"
+hash = "0997a5d86a440c4428d6cf25ef31d5b93381f66677d26e4c8a73b6bdd26581d2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_small.json"
-hash = "c02cc5f816123ad6e0c267b42eae8677e162deea877f809a7692433965b2681a"
+hash = "af534060308d7a3aafb7fdcb6c6648096a2b2bbdf2046fc8dccabe7e9ad40f0d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_rooms.json"
@@ -2098,7 +2102,7 @@ hash = "e35eb6737702ac1648d0f09ddf43e59eb0417e360a06ece04414068124abd6e5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_discoverable_placeholder.json"
-hash = "e5017bd456b62c19b02a87a2e43c64e0e09d9c36396c312a7fc4a926bc41a536"
+hash = "b596b2ec832df259a7204fdcc373bc33840d10dab89bcc1318422d90b79cd504"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_discoverable_remove.json"
@@ -2106,15 +2110,15 @@ hash = "5f66791280aba432b86694f5420d5e677660cb83c47bb23ec8b435e9f22f1aaa"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_door_placeholder.json"
-hash = "6965deab45e6354a0c95dc7e1b27d65f3face9e6f17be88510e2a9c62893020a"
+hash = "873acc0d45cbc0fe133902709bc9241682754eac0290c12ed3fc8769986db941"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_door_placeholder_comet.json"
-hash = "19788c711203b5c617c08ce461fbeb3453124cabbe912efc69a47549413f494a"
+hash = "0a7119cedc832ef862538b237a84b8ec4c7dd64f54d8cce4a0b6356142353f91"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_door_placeholder_labyrinth.json"
-hash = "0ced5aa8d4d4e686f2bc5136ee4703538c7bdde3289287ba92d5284fb7000090"
+hash = "b83786fbdb648a3d08bd94d1f70f27f1b8dcc0ee83a043d35cb03610a623c44f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/festive_common_elite_spawners.json"
@@ -23715,7 +23719,7 @@ hash = "4a6c28a278610447ddda93f1c1a52767250c1e791ae9ad0dfdc4f8d78edbda3b"
 
 [[files]]
 file = "scripts/VaultStuff.zs"
-hash = "1c24478dae091661b242f05170fd9216ee92a01b41eca8c6e6f39ab2024ee791"
+hash = "e42fd075403195b1d4b18e777e2117ed7f2056f2fe308044f4d2fcb35db3ea16"
 
 [[files]]
 file = "scripts/Waystones.zs"
