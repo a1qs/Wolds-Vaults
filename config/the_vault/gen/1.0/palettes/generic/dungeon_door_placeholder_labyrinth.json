@@ -33,6 +33,16 @@
           "failure": {
             "minecraft:obsidian": 1
           }
+        },
+        {
+          "level": 65,
+          "probability": 0.3,
+          "success": {
+            "the_vault:dungeon_door": 1
+          },
+          "failure": {
+            "minecraft:obsidian": 1
+          }
         }
       ]
     },
