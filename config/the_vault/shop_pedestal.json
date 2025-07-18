@@ -1933,17 +1933,6 @@
         {
           "value": {
             "OFFER": {
-              "item": "sophisticatedbackpacks:iron_backpack"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 12
-          },
-          "weight": 40
-        },
-        {
-          "value": {
-            "OFFER": {
               "item": "sophisticatedbackpacks:gold_backpack"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -2362,17 +2351,6 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:gem_box"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 50
-        },
-        {
-          "value": {
-            "OFFER": {
               "item": "the_vault:waning_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -2446,28 +2424,6 @@
             "MAX_COST": 111
           },
           "weight": 4
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:mod_box"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 6,
-            "MAX_COST": 12
-          },
-          "weight": 100
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:supply_box"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 12,
-            "MAX_COST": 24
-          },
-          "weight": 50
         },
         {
           "value": {

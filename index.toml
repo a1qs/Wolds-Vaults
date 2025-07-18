@@ -14278,7 +14278,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "a82bace7e854a0cb3464bf6edcd73227ddde193833fbe303da3004eeeaf0f90c"
+hash = "522c52ccc0ed37cbecfe69c271a1ee0dbaebc0c9226aeb41743af05244702151"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -14498,7 +14498,7 @@ hash = "794e159dde922556b4ab41ae60f1559708cbc75dc21c162157b0cba97b2701d5"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
-hash = "6a418c6853a57ebaaf83ccb1cb52baa384a0d994b79e9151153b94cec0aded5d"
+hash = "78303e4f7e61f42b216d98b4598414afb492dd7581007c0ddbc5ff3bc37eefb3"
 
 [[files]]
 file = "config/the_vault/vault_entities.json"
