@@ -510,7 +510,7 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "78156d9826819c8050e33cf428307f0216f1eea262e8b4d0254f278c220dd8e1"
+hash = "588124f53f8a410099ea1b7aff059db8e67a51df9cf2f93672445a24e2a6d214"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
@@ -1506,15 +1506,15 @@ hash = "8b92a27785859f54c45e52181f26b8404fab4ee29cd1b31f3fd2af6a54e3a07f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_0.json"
-hash = "cc07b1ff4b7163ffaeff7e35a3213df5b03fb1f6e4a9b8003645fdb9dcd19c5b"
+hash = "4997690a2876d2ef2790a179a0832572f1a3b5d49ecbb7176ee88962694c3655"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_20.json"
-hash = "9b5faf4b7392af1d73616c6e26283c2cc505acda5973234143d5170a33378269"
+hash = "efe456bd7e00d5a8ef1be56fb664c671753f0af2df87de55e634886aab3152d5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_30.json"
-hash = "9b5faf4b7392af1d73616c6e26283c2cc505acda5973234143d5170a33378269"
+hash = "efe456bd7e00d5a8ef1be56fb664c671753f0af2df87de55e634886aab3152d5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_map.json"
