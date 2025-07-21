@@ -326,7 +326,7 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "318c3335bc6ee86e393374e7694fe99da09c02ca46c989045b1df4339461f6c8"
+hash = "0dd8b0ef87c2f5b7bdd36192f5bfd4e0e3faa37e7bbecf3e31c5709ae78a6977"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -23655,7 +23655,7 @@ hash = "1b369e5b3055310babc930f5036ea8121b344898c319490590c68e10e5210f42"
 
 [[files]]
 file = "scripts/Flux.zs"
-hash = "eab7abe6394438168ed72fd60d164f3a7aef889315e487caf393db7a201384ba"
+hash = "c1701361504f8fb6c33d44040e48aa39e6d8128123c5781a7e413d056df3e4a7"
 
 [[files]]
 file = "scripts/GodTags.zs"
