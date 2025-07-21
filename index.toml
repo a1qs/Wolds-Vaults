@@ -19706,7 +19706,7 @@ hash = "9fed106bd8cb95c45641a48b6d311a56ad9c58c0c77a7b7154b54038011f63f3"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/botanypottiers/recipes.js"
-hash = "01d27c1d571782148edd00412f7b3ae82931402611c705403bd3fe5d5e551c6a"
+hash = "1d753de150d8a28df9a4ad21b7f11c8077354059a65a7a7b8f6acf415154dfee"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/chipped/recipes.js"
@@ -23615,7 +23615,7 @@ hash = "fa7e881e070ee414694bfe64117ab8a105d18884d392357e6211b5fe26bc8613"
 
 [[files]]
 file = "scripts/Botany_Pots.zs"
-hash = "67ce597a100aca33bbaed8ac98a522d3e185e1b459d32424a1a22668e62b6f42"
+hash = "b09c098dc7ac33f09e8d79ca27d29c9a6173589b4c08a488f9328a7ad2a62e19"
 
 [[files]]
 file = "scripts/BuildingGadgets.zs"

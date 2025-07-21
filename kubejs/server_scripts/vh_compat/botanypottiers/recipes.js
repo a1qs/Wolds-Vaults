@@ -28,7 +28,7 @@ onEvent("recipes", event => {
                 P: `botanypots:${color}_${type}_botany_pot`,
                 G: 'the_vault:pog_prism',
                 I: 'the_vault:black_chromatic_steel_ingot',
-                X: 'the_vault:packed_vault_meat_block'
+                X: 'the_vault:vault_meat_block'
             })
 
             event.shaped(Item.of(`botanypotstiers:ultra_${color}_${type}_botany_pot`),
@@ -66,7 +66,7 @@ onEvent("recipes", event => {
                 P: `botanypots:${color}_${type}_hopper_botany_pot`,
                 G: 'the_vault:pog_prism',
                 I: 'the_vault:black_chromatic_steel_ingot',
-                X: 'the_vault:packed_vault_meat_block'
+                X: 'the_vault:vault_meat_block'
             })
 
             event.shaped(Item.of(`botanypotstiers:ultra_${color}_${type}_hopper_botany_pot`),
@@ -117,7 +117,7 @@ onEvent("recipes", event => {
         P: 'botanypots:terracotta_hopper_botany_pot',
         G: 'the_vault:pog_prism',
         I: 'the_vault:black_chromatic_steel_ingot',
-        X: 'the_vault:packed_vault_meat_block'
+        X: 'the_vault:vault_meat_block'
     })
 
     event.shaped(Item.of('botanypotstiers:ultra_terracotta_botany_pot'),
@@ -154,7 +154,7 @@ onEvent("recipes", event => {
         P: 'botanypots:terracotta_hopper_botany_pot',
         G: 'the_vault:pog_prism',
         I: 'the_vault:black_chromatic_steel_ingot',
-        X: 'the_vault:packed_vault_meat_block'
+        X: 'the_vault:vault_meat_block'
     })
 
     event.shaped(Item.of('botanypotstiers:ultra_terracotta_hopper_botany_pot'),

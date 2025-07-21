@@ -68,7 +68,7 @@ craftingTable.addShaped("botanypots_" + materialName + "_hopper_botany_pot", <it
 
 craftingTable.addShaped("botanypots_" + materialName + "_botany_pot", <item:botanypots:${materialId}_botany_pot>, [
     [<item:minecraft:${materialId}>, <item:woldsvaults:chroma_core>, <item:minecraft:${materialId}>],
-    [<item:minecraft:${materialId}>, <item:the_vault:packed_vault_meat_block>, <item:minecraft:${materialId}>],
+    [<item:minecraft:${materialId}>, <item:the_vault:vault_meat_block>, <item:minecraft:${materialId}>],
     [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
 ]);
 }
