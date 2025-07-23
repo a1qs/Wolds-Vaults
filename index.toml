@@ -390,7 +390,7 @@ hash = "338a279c009e8b95be992892d41a1e44c43b6ddb78562704a73d3123d591639b"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "fe6213cfd5725f40f1e90843e9a44bc92ab57786b35976c87fb4af06edcfbf60"
+hash = "41ee1a963ef799652b65396fb093b19547da3d91f6472dfba4b565939af4062b"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
@@ -1446,7 +1446,7 @@ hash = "2835ffcdadb999d05e99d00fef845fcc22e5576128e7a3385ea52800e02687b0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/rune_loot_lvl50.json"
-hash = "52b21fb3b628644fa1cc2e38e0b438b2bdfdf35f3641c0e424ed68a671c61ca7"
+hash = "76879344a6f04b49893fc56b55cdb7615d983c84402df6d845da6182417ac700"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/test_table.json"
@@ -12290,11 +12290,11 @@ hash = "e14fbb86c08c957fb2e9caadc0963f86fe96bc7293f8b002e6c54ea554d93c0f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/mush_room.json"
-hash = "6f19de16f383d7f983d8e7558b17018e22952f4726f80dc1226d24c5c9c32ded"
+hash = "930fab5e45fec4678ea2efb27c65c53d47f735e4badc6602b27b49239aad7f4a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/mush_room_map.json"
-hash = "e2f07b0385d92f5e018f70f75dce47be0e6ac12fd55fddeb58aa9f8b56b32f76"
+hash = "2870c0ccd9c971a76fc303b09e7265546f544464dc2189afea3865a3ef388473"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/painting.json"
@@ -14034,7 +14034,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "ab24b88417b75aa287454d1a61e2cb967e232e238a420d5029e4a5d5f3603411"
+hash = "7ea116a7ea30a48c3b8462bedc70618bd6b00852360bf5c090607446caaedef9"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -14126,7 +14126,7 @@ hash = "f6a1d0b68c76875c229ecfdd56c7516b3c2c9bbdefb2c3ee2138b480a21807a8"
 
 [[files]]
 file = "config/the_vault/omega_box.json"
-hash = "0c41180a109687fa02b705a408c2221a4408877875b0afd0df09f11af240f403"
+hash = "3182f8fd0faec6273c9643c684690e23595232be86406b3e049cc6040f66910f"
 
 [[files]]
 file = "config/the_vault/omega_shop_pedestal.json"
@@ -14258,7 +14258,7 @@ hash = "bcedaa44f2e270115039492e830216914e23e0a96b4099b64c4ba0944ed7320d"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "fe1a606e039df7626b105bb0b7274d4e19a8dd4da0eb0f55912cf68cf6432f0b"
+hash = "5eb905dbbee137491372f4b3d65b21d0546c507247dd88bcee64d9b766d04e3f"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -14278,7 +14278,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "522c52ccc0ed37cbecfe69c271a1ee0dbaebc0c9226aeb41743af05244702151"
+hash = "d49eac0a41bbd5c30412fbbd555cbb806e665409f776d7fb1b033f23e4de6dc5"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"

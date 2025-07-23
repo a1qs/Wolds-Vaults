@@ -7,14 +7,5 @@
         "the_vault:mush_room/base"
       ]
     }
-  },
-  {
-    "weight": 1,
-    "value": {
-      "template": "the_vault:vault/rooms/omega/mush_room2",
-      "palettes": [
-        "the_vault:mush_room/base"
-      ]
-    }
   }
 ]
