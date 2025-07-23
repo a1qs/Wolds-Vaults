@@ -159,7 +159,7 @@ craftingTable.addShaped("ae2_charger", <item:ae2:charger>, [
 ]);
 
 craftingTable.addShapeless("ae2_cable_anchor", <item:ae2:cable_anchor> *3, [
-<item:the_vault:chromatic_iron_ingot>, <tag:items:ae2:knife>.asIIngredient().anyDamage().transformDamage(10)
+<item:the_vault:chromatic_iron_ingot>, <tag:items:ae2:knife>.asIIngredient().anyDamage().transformDamage(1)
 ]);
 
 craftingTable.addShaped("ae2_basic_card", <item:ae2:basic_card>, [
