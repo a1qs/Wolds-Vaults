@@ -402,7 +402,7 @@ hash = "9d95e3aa48fb8737a9fd353c217c40456b2c17fd5e87cd544a20ed432d69d936"
 
 [[files]]
 file = "config/the_vault/champions.json"
-hash = "2d6c954f9d677832b2f8eb95d68a6ebef68d3da6ec86a5d25afa5f6e0bb94efb"
+hash = "b776bd3043ca0c9f8e77123b4515950c126d81d8b5f3b6e296035bd2ad2f5458"
 
 [[files]]
 file = "config/the_vault/charm.json"
