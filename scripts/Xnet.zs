@@ -49,7 +49,7 @@ craftingTable.addShaped("xnet_routing_cable", <item:xnet:netcable_routing> *8, [
 
 craftingTable.addShaped("xnet_connector_cable", <item:xnet:connector_routing>, [
     [<item:the_vault:magic_silk>, <item:the_vault:perfect_larimar>, <item:the_vault:magic_silk>],
-    [<item:minecraft:redstone>, <item:xnet:netcable_routing>, <item:minecraft:redston>],
+    [<item:minecraft:redstone>, <item:xnet:netcable_routing>, <item:minecraft:redstone>],
     [<item:the_vault:magic_silk>, <item:minecraft:redstone>, <item:the_vault:magic_silk>]
 ]);
 
