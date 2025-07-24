@@ -23727,11 +23727,11 @@ hash = "c9a962abad5f1b659a3cab85a38247cff73db71ea535af10686a810cb3136f1d"
 
 [[files]]
 file = "scripts/Xnet.zs"
-hash = "b72aceb719108171c4ab59eeb45af7a9638309d83289eea4927fddf5460b4ba6"
+hash = "36f4f4e8c35560828ea9307be70111a6c95712d9ef65d8d225d14c3f2a48dc46"
 
 [[files]]
 file = "scripts/ae2.zs"
-hash = "eb68e2a48beeb9681317527f43b046264d412e38736d8ed27b688b4695f7886f"
+hash = "c1b4015df13f9cff69f627c99a2f2482b254be8ce4682da8ebdbd32bbb5da83c"
 
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"
