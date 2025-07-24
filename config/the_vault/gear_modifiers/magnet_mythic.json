@@ -105,23 +105,6 @@
         ]
       },
       {
-        "attribute": "the_vault:velocity",
-        "group": "BaseVelocity",
-        "identifier": "the_vault:base_velocity",
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.24,
-              "max": 0.3,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
         "attribute": "the_vault:endergized",
         "group": "BaseEndergized",
         "identifier": "the_vault:base_endergized",
@@ -130,7 +113,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 75,
+            "weight": 100,
             "value": {
               "flag": true
             }
@@ -146,7 +129,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 25,
+            "weight": 0,
             "value": {
               "flag": false
             }
