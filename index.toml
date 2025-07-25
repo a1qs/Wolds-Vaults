@@ -682,7 +682,7 @@ hash = "98acf2e802bfabe065a81d9717efd335bea0f0da1801fada894d492fcb03728f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
-hash = "3fba61d62c94d36bde9c6699baa21ac4ede680c2349254bffcc7b769e105f35e"
+hash = "406b0d878e876363292f6257d222969cbe0023311a6ef50f128454368dd107a4"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet_mythic.json"
@@ -766,7 +766,7 @@ hash = "705e332dc821131a2b42f51017e06ca41969770b72bf62375bc34921812f0e0d"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/void_stone.json"
-hash = "cf4be02f2c76894be1366d2d6b3478512f731e1668744210c139e55bb3cc23be"
+hash = "984d17145b748189bae41dd948081c018c9b362ab94ac707c78724d97e83899d"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -830,7 +830,7 @@ hash = "bfaadd3af6e94415995ed1477a8b32ae51ff8401bfb4374f075014f4166dd206"
 
 [[files]]
 file = "config/the_vault/gear_workbench/magnet.json"
-hash = "ba2ca1bd8277c6e15de7a2e260a6c23777996f261315de1b9de0f01602f9bbed"
+hash = "5ec5db9342dfa29c1983214743cd7286edb8b74df31dc63a90d57c43fae56615"
 
 [[files]]
 file = "config/the_vault/gear_workbench/plushie.json"
