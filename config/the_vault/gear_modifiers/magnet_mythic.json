@@ -105,23 +105,6 @@
         ]
       },
       {
-        "attribute": "the_vault:velocity",
-        "group": "BaseVelocity",
-        "identifier": "the_vault:base_velocity",
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.24,
-              "max": 0.3,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
         "attribute": "the_vault:endergized",
         "group": "BaseEndergized",
         "identifier": "the_vault:base_endergized",
@@ -130,25 +113,9 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 75,
+            "weight": 100,
             "value": {
               "flag": true
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:endergized",
-        "group": "BaseEndergized",
-        "identifier": "the_vault:base_no_endergized",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 25,
-            "value": {
-              "flag": false
             }
           }
         ]
@@ -231,86 +198,6 @@
               "min": 13.1,
               "max": 18.0,
               "step": 0.1
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:velocity",
-        "group": "ModVelocity",
-        "identifier": "the_vault:mod_velocity",
-        "tags": [
-          "focusMagnetVelocity"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.18,
-              "max": 0.23,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.24,
-              "max": 0.26,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.27,
-              "max": 0.32,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:reach",
-        "group": "ModReach",
-        "identifier": "the_vault:mod_reach",
-        "tags": [
-          "focusReach"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 1.4,
-              "max": 1.8,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 1.81,
-              "max": 2.0,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 2.01,
-              "max": 2.5,
-              "step": 0.01
             }
           }
         ]
