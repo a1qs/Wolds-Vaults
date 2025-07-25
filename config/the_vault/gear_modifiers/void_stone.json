@@ -104,7 +104,7 @@
         "group": "VoidRoll",
         "identifier": "the_vault:mod_ability_power_percent",
         "tags": [
-          "focusDamage"
+          "focusAbilityDamage"
         ],
         "tiers": [
           {
@@ -282,52 +282,6 @@
             "value": {
               "min": 0.09,
               "max": 0.1,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      { "attribute": "the_vault:velocity",
-        "group": "VoidRoll",
-        "identifier": "the_vault:base_velocity",
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.05,
-              "max": 0.08,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 30,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.09,
-              "max": 0.12,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 50,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.13,
-              "max": 0.16,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.17,
-              "max": 0.2,
               "step": 0.01
             }
           }
