@@ -36,7 +36,7 @@
     "maxExp": 40000
   },
   "VAULT_DOLL": {
-    "lootPercentageMin": 0.1,
+    "lootPercentageMin": 0.4,
     "lootPercentageMax": 0.7,
     "xpPercentageMin": 0.4,
     "xpPercentageMax": 0.8,

@@ -367,18 +367,6 @@
           "value": {
             "OFFER": {
               "item": "the_vault:card_deck",
-              "nbt": "{id:\"champion\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 12,
-            "MAX_COST": 24
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:card_deck",
               "nbt": "{id:\"bishop\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
