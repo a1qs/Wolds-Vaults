@@ -386,7 +386,7 @@ hash = "aff7b81d79152800045cbfe2bb7bbd651df647d57a34ed942d1a7f744f7391e6"
 
 [[files]]
 file = "config/the_vault/card_shop_pedestal.json"
-hash = "338a279c009e8b95be992892d41a1e44c43b6ddb78562704a73d3123d591639b"
+hash = "c2ba9aa0823991cd552380a28da619b7e3f1d262cd5f6ccfe09f86d156a297e9"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
@@ -662,11 +662,11 @@ hash = "4e1e00a734fc5f6998f95d496b9709819f12d157f14d5bce59d77e76ccdb16cd"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
-hash = "61c49e8dbdfef3e0af4d44bfc3cd75f8249fd1f4ede01fd122cc5268b9324dd1"
+hash = "7d565ed3d2896657ab512c7d0720601edf5a0766dbf33d6815ff97a175182132"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet_mythic.json"
-hash = "026ddbb5942f0eec955584d5922a9b5b91dacfcf73b3720e7a1d8affc40bf34f"
+hash = "068d52783ecdf007ca283e6ea044a0cf56e0c416641045d1ff1cbb904d62f00a"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map.json"
@@ -14234,7 +14234,7 @@ hash = "99cafa0fa056a13e1d84b65bcd9f2e44928e089a2886bb592302b2efd33cb1d9"
 
 [[files]]
 file = "config/the_vault/recipes/trinket_recipes.json"
-hash = "c15e6cce203309f51a75d98e5841bf67756b25ee8b85986e3bc7f1bbbf662533"
+hash = "e673baa39a813462680da434abcd4da7855cb1e4a8f1792414748a220cf157f6"
 
 [[files]]
 file = "config/the_vault/recipes/void_stone_recipes.json"
@@ -14402,7 +14402,7 @@ hash = "4c0ceb37bc10a5d167502f6027e58231273d47cb46f06d392033535ae520e4ca"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "e7702d15ce63d130359a979ab2b4705c3a4cc9ade387c2da6718d23db559ce38"
+hash = "b94097d15154c9663e9f95c86118c8a366768d81c9f46a7341ee368f76696270"
 
 [[files]]
 file = "config/the_vault/trinket_old.json"
@@ -14526,7 +14526,7 @@ hash = "0d270069a51a9ccd2827c26e4c59bdb7c135465163df55b8e7a45551fc7af399"
 
 [[files]]
 file = "config/the_vault/vault_items.json"
-hash = "2254901240c8dd368d4706b30adaf503e6378446c9b96a4fe1e447e2f0f6f97c"
+hash = "acfeedf37f781171176d2fe6aa1ba1253ce217aeb0cdf286bd370c5f4cb5244b"
 
 [[files]]
 file = "config/the_vault/vault_jewel_cutting.json"
