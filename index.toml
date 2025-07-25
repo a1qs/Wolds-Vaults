@@ -1278,7 +1278,7 @@ hash = "ba779164e0ed777523fbd026485805e0ab2a6f4179ea76e6747adb9dd7be9f80"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_50.json"
-hash = "5e29d777c0cb5bcd2266ab5a9ac9b0208ff27982dc34199a15a87e3bc14b34cd"
+hash = "8066dd0c5bbac756e220d2f09586adbfa1eaa3d9abf1bbec7a9a87206f5990b0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_raw.json"
@@ -14278,7 +14278,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "d49eac0a41bbd5c30412fbbd555cbb806e665409f776d7fb1b033f23e4de6dc5"
+hash = "1c87a1b2fb9346e3d6a3399af553cabc318a663449a97ff50b32cde21a53a6e4"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -21879,8 +21879,8 @@ hash = "acc6c7c0126af8a08c4324c71371dbcff84024f7b0c408e07aba1d48d2c36b9f"
 metafile = true
 
 [[files]]
-file = "mods/wolds-vaults-official-mod-0.19.4-slim.jar"
-hash = "dc37e9c2644f24558b7ba579c5072dfbbc68a16945d7751babbb74bdd1f4d3dd"
+file = "mods/wolds-vaults-official-mod-0.19.5-slim.jar"
+hash = "babc5a4d7d1ca47401bca1b4492226e9bcd63f7969d4831576d4b47c4f82997f"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"

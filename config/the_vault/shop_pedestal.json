@@ -3159,10 +3159,10 @@
               "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 36,
-            "MAX_COST": 96
+            "MIN_COST": 12,
+            "MAX_COST": 48
           },
-          "weight": 4000
+          "weight": 40
         },
         {
           "value": {
@@ -3173,7 +3173,7 @@
             "MIN_COST": 1758,
             "MAX_COST": 1759
           },
-          "weight": 30
+          "weight": 5
         },
         {
           "value": {
