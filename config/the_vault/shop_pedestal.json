@@ -3192,7 +3192,7 @@
               "item": "the_vault:wold_star_chunk"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 99998,
+            "MIN_COST": 99999,
             "MAX_COST": 99999
           },
           "weight": 1
