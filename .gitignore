@@ -8,3 +8,6 @@
 # Package Files
 *.jar
 /*.zip
+
+# Other
+.commit
