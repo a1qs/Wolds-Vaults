@@ -682,7 +682,7 @@ hash = "98acf2e802bfabe065a81d9717efd335bea0f0da1801fada894d492fcb03728f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
-hash = "406b0d878e876363292f6257d222969cbe0023311a6ef50f128454368dd107a4"
+hash = "5a882931b7f23c5311d4da9bd2f48e8214742c5cf46e8aa9eb27c8f8f4d786d3"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet_mythic.json"
