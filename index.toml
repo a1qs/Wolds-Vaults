@@ -14550,7 +14550,7 @@ hash = "99cafa0fa056a13e1d84b65bcd9f2e44928e089a2886bb592302b2efd33cb1d9"
 
 [[files]]
 file = "config/the_vault/recipes/trinket_recipes.json"
-hash = "ca1eed41c93287391ae90d0db20a36bd56346acdb3d6508df34cedbbe8bf3ee6"
+hash = "2abbd27c51b4f07a32f59c9d2c581f9e96858811fe89fe0acf8afbbf5d0e035c"
 
 [[files]]
 file = "config/the_vault/recipes/void_stone_recipes.json"

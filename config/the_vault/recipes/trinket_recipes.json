@@ -898,7 +898,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:shadow_cloak",
+    {
+      "trinket": "the_vault:shadow_cloak",
       "id": "the_vault:shadow_cloak",
       "output": {
         "AMOUNT": 1,
@@ -927,7 +928,9 @@
           "NBT": "{}"
         }
       ]
-          { "trinket": "the_vault:swift_amulet",
+    },
+    {
+      "trinket": "the_vault:swift_amulet",
       "id": "the_vault:shadow_cloak",
       "output": {
         "AMOUNT": 1,
@@ -956,7 +959,8 @@
           "NBT": "{}"
         }
       ]
-          { "trinket": "the_vault:chromatic_diffuser",
+    },
+    { "trinket": "the_vault:chromatic_diffuser",
       "id": "the_vault:shadow_cloak",
       "output": {
         "AMOUNT": 1,
