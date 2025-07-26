@@ -10,7 +10,7 @@ hash = "793f7cb2c3df92f832445b365daaf68e9663489de0d4233434589ca449136337"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8c65fd763bd196610d6a8e3c41f9c6a0fe3a746f62e4522655f6233853d2ff05"
+hash = "bd0711bc35cf35f4b5082db3665f4ca29ed38ca07f8da29437cf30862a601e7b"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -14486,7 +14486,7 @@ hash = "4cb75dd1785c07fa7c42427f3244f45996694883a729d9629c8704c0a85e030a"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "8791c1224ba1af23f20c13c74b68ba38544bca03a2ded1f923df697f84bd16e6"
+hash = "c179e5b77dd3158226eeedacbf1c347603654007856cab3ece34b322bed0b73d"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
@@ -14874,7 +14874,7 @@ hash = "bad62cf50ad8c82edddceb22a26bdb4eb6d3eeab405a8a4009515fc8f4e57b6b"
 
 [[files]]
 file = "config/the_vault/vault_levels.json"
-hash = "da6798d62be2de299e79ca1870966be94822e9d2d51e42efac6dfe47034a7433"
+hash = "2db88df7fe497a3799dd0b278a3ed93fbae05db1b4099f9d242cf8651f0cf2e0"
 
 [[files]]
 file = "config/the_vault/vault_map_icons.json"
@@ -14894,7 +14894,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "076ce7712db42329c88d07fa60714520ec9ecf2d66cc207336ff06da1b2b0a53"
+hash = "eace93730e1d01ad2426759b2ee68e4f95698fe13be2585d38d571e5c14103c6"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -21233,7 +21233,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-vh.pw.toml"
-hash = "687e761907a1beaefd7c4aa434d3d0cf62bdabfbb1319919d7a991dea34e8f22"
+hash = "2c7ac4484c9f8aae429483dd882cc5ce3efa1dacd2a40e83d4390c72c50a8b58"
 metafile = true
 
 [[files]]
@@ -22020,7 +22020,7 @@ metafile = true
 
 [[files]]
 file = "mods/unobtanium-vault-hunters-fixes.pw.toml"
-hash = "a812bbb8a19ebc8bd8814e498d319a122d4863f54c718ca1927e85bce6c631c1"
+hash = "769fd0e49fe24188baa92b318bc26a6372171695439a48a67d640431836469e6"
 metafile = true
 
 [[files]]
