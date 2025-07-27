@@ -426,6 +426,12 @@
         "item": "woldsvaults:unique_title_scroll"
       },
       "cost": 128
+    },
+    {
+      "stack": {
+        "item": "the_vault:wold_star_chunk"
+      },
+      "cost": 1024
     }
   ]
 }
