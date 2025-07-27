@@ -420,6 +420,12 @@
         "nbt": "{Affix:\"SUFFIX\",TitleId:\"clearsuffix\", display:{Name:\u0027{\"text\":\"Clear Suffix\"}\u0027}}"
       },
       "cost": 0
+    },
+    {
+      "stack": {
+        "item": "woldsvaults:unique_title_scroll"
+      },
+      "cost": 128
     }
   ]
 }
