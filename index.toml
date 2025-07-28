@@ -326,7 +326,7 @@ hash = "32665e4392236f9ff5eae2b7cdde3e747e3ece2892462421e14899634683ee01"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "0dd8b0ef87c2f5b7bdd36192f5bfd4e0e3faa37e7bbecf3e31c5709ae78a6977"
+hash = "e0a13d841b2d91e86bcaf2ffdf5a82024522160bf427905862338897f0050461"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -390,7 +390,7 @@ hash = "c2ba9aa0823991cd552380a28da619b7e3f1d262cd5f6ccfe09f86d156a297e9"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "41ee1a963ef799652b65396fb093b19547da3d91f6472dfba4b565939af4062b"
+hash = "22a70bec035a499fd5e8fa89fc3bb38559a22a7f3b8988f49f8de7b177ef6e83"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
