@@ -14654,7 +14654,7 @@ hash = "6eed91a0deee89d382d973b584abcd0201c2db813abbf76aebae537f1f949fa1"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "81a372f98c035c364ed52c720a46f9ab36518eda593bf3ab08956ea990b51112"
+hash = "83a42dc868ff266e26ade814e3e554dd44a83e15b60b35e53dbf07ef505ed9d8"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
