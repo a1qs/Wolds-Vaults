@@ -10,7 +10,7 @@ hash = "793f7cb2c3df92f832445b365daaf68e9663489de0d4233434589ca449136337"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d2a306fbc4203911e43abb5b986d762ecaae9dff63dfaabf95028d1a0f57e6bd"
+hash = "3398693371be3b86e323d47d03ce3e2bc15a8fc8ed43b740542c2838f94546e9"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -22060,7 +22060,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-official-mod.pw.toml"
-hash = "ec12c3ce059ba4953559a7472ff03a02947986afd25deb4f3a9ecdef36504efc"
+hash = "ea58608f6ae774c1a26f2e5c0880ecf41fc64e9f1750baeb4d83bb28da183484"
 metafile = true
 
 [[files]]
