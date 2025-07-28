@@ -646,6 +646,223 @@
         ]
       }
     ],
+    "the_vault:bounty": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "model": 6,
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:extended",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:xp_gain",
+                "the_vault:challenge_stack"
+              ],
+              "model": 7
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:wooden_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 1
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:gilded_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 2
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:living_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 3
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:ornate_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 4
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:coin_cascade",
+                "the_vault:challenge_stack"
+              ],
+              "model": 5
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:plentiful",
+                "the_vault:challenge_stack"
+              ],
+              "model": 8
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:soul_boost",
+                "the_vault:challenge_stack"
+              ],
+              "model": 9
+            },
+            "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "model": 10,
+              "modifiers": [
+                "the_vault:gilded",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "model": 11,
+              "modifiers": [
+                "the_vault:living",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "model": 12,
+              "modifiers": [
+                "the_vault:ornate",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "model": 13,
+              "modifiers": [
+                "the_vault:coin_pile",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 10,
+                "type": "uniform"
+              },
+              "model": 14,
+              "modifiers": [
+                "the_vault:phoenix",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 14.0
+          }
+        ]
+      }
+    ],
     "the_vault:black_market": [
       {
         "level": 0,

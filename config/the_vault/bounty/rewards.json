@@ -1175,7 +1175,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -1500,7 +1500,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -1835,7 +1835,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -2170,7 +2170,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -3359,7 +3359,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -3724,7 +3724,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -4099,7 +4099,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -4454,7 +4454,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -4998,7 +4998,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -5436,7 +5436,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -5885,7 +5885,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -6333,7 +6333,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+                  "nbt": "{\"pool\":\"the_vault:bounty\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
