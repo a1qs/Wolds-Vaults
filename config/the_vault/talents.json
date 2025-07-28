@@ -5743,7 +5743,7 @@
         "type": "tiered",
         "id": "Hunters_Instinct",
         "name": "Hunter's Instinct",
-        "maxLearnableTier": 1,
+        "maxLearnableTier": 4,
         "tiers": [
           {
             "type": "cast_on_kill",
@@ -5752,61 +5752,6 @@
             ],
             "ability": "Hunter_Base",
             "probability": 0.005,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.0055,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.006,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.0065,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.007,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.00725,
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -5828,62 +5773,18 @@
               "{}"
             ],
             "ability": "Hunter_Base",
-            "probability": 0.00775,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.008,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.0085,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.009,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
-            "probability": 0.0095,
-            "learnPointCost": 2,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "cast_on_kill",
-            "filter": [
-              "{}"
-            ],
-            "ability": "Hunter_Base",
             "probability": 0.01,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.0125,
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -5905,7 +5806,106 @@
               "{}"
             ],
             "ability": "Hunter_Base",
+            "probability": 0.0175,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
             "probability": 0.02,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.0225,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.025,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.0275,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.03,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.0325,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.035,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.0375,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.04,
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0
