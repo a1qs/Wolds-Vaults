@@ -241,6 +241,10 @@ file = "config/the_vault/achievements/achievements.json"
 hash = "e9f979ca1f76e81801e089b625196b11d569c48bce7e4178c551a607f97381d5"
 
 [[files]]
+file = "config/the_vault/alchemy_objective.json"
+hash = "c17c7ebeba32fd721aa4a524089876f444e03687134ebc9b91356f7036e671c7"
+
+[[files]]
 file = "config/the_vault/alchemy_table.json"
 hash = "21d45f48e5a165ab0ccfbf06fea053517316a8ec31e01f4e7c96d9dfae243fb5"
 
@@ -14826,7 +14830,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "11fb66bd28075c67f1de677ad644d3138d2ab471757a2d69b4567a29a909b06c"
+hash = "763be14a8f11376d48f2eb0d636550c0e1a12ad9f3c09c08297cfde73e0e6f8c"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -14894,7 +14898,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "eace93730e1d01ad2426759b2ee68e4f95698fe13be2585d38d571e5c14103c6"
+hash = "f4b50389b048b96549ca3b5676a7443efd70ab626caf8188944ddf73a13aab3f"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -20242,7 +20246,7 @@ hash = "c79612133696695b564b58f33e9fbb8865612f1214ee31aa55bfb01aa3ee99f9"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
-hash = "cec98c913cfab54599de84715e8dc1086cfb8029805e1f65589e7e8d8e27366e"
+hash = "bf98d7ed80f683ed8548aee2b1e11a13394d2dd092ac2b08706f19fac6f12787"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
