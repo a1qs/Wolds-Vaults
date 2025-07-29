@@ -326,7 +326,7 @@ hash = "32665e4392236f9ff5eae2b7cdde3e747e3ece2892462421e14899634683ee01"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "e0a13d841b2d91e86bcaf2ffdf5a82024522160bf427905862338897f0050461"
+hash = "bf66b4ac3a0703d368e65ac8c237d82b7be37f6dca847edde57da6f383471dec"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
