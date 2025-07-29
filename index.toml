@@ -16194,7 +16194,7 @@ hash = "e0ac8f89c90b767ff445d0594bce8b049dde9f0ee2c61e0031579af0ed83a51b"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/all.json"
-hash = "659d2b3ce50c3dde1feceb834836729ca255045a1f1edcf59a5cb514b7875f47"
+hash = "836c5b9bb4afd7fbd173a349b9dd52aa58691ab612e21dd456d6103ec4536d96"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/all_forSirPeter.json"

@@ -235,6 +235,17 @@
         "the_vault:scavenger_enderman_eye",
         "the_vault:scavenger_ender_artifact",
         "the_vault:scavenger_ender_crystal",
-        "the_vault:jewel_pouch"
+        "the_vault:jewel_pouch",
+        "woldsvaults:rotten_heart",
+        "woldsvaults:rotten_apple",
+        "woldsvaults:verdant_globule",
+        "woldsvaults:erratic_ember",
+        "woldsvaults:refined_powder",
+        "woldsvaults:auric_crystal",
+        "woldsvaults:catalyst_stability",
+        "woldsvaults:catalyst_amplifying",
+        "woldsvaults:catalyst_focusing",
+        "woldsvaults:catalyst_temporal",
+        "woldsvaults:catalyst_unstable"
     ]
 }
