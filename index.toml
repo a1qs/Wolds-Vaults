@@ -242,7 +242,7 @@ hash = "e9f979ca1f76e81801e089b625196b11d569c48bce7e4178c551a607f97381d5"
 
 [[files]]
 file = "config/the_vault/alchemy_objective.json"
-hash = "c17c7ebeba32fd721aa4a524089876f444e03687134ebc9b91356f7036e671c7"
+hash = "f836316ebabdb53ace29cfdfb633d13e55bed33c81d1e2c68c3f3e6fafca99bc"
 
 [[files]]
 file = "config/the_vault/alchemy_table.json"
