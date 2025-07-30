@@ -14350,7 +14350,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "88e1cf4314014743e4c769f800f9340a319e86b16a17a90aefab07c9d2d3c694"
+hash = "4ef536eca3032489e6c020707c7034501da52af8f1ac234e8494a08805924ead"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
