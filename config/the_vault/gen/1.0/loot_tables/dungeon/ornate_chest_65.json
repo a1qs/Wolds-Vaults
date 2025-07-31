@@ -152,8 +152,8 @@
                 "id": "the_vault:waning_focus",
                 "count": {
                   "type": "uniform",
-                  "min": 4,
-                  "max": 8
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
@@ -163,8 +163,8 @@
                 "id": "the_vault:waxing_focus",
                 "count": {
                   "type": "uniform",
-                  "min": 4,
-                  "max": 8
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
@@ -174,8 +174,8 @@
                 "id": "the_vault:fundamental_focus",
                 "count": {
                   "type": "uniform",
-                  "min": 4,
-                  "max": 8
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
