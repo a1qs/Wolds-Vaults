@@ -174,6 +174,11 @@
           "NBT": "{}"
         },
         {
+          "AMOUNT": 256,
+          "ITEM": "the_vault:gem_benitoite",
+          "NBT": "{}"
+        },
+        {
           "AMOUNT": 16,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
