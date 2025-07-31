@@ -1314,7 +1314,7 @@ hash = "6eda41438d41973a577d37910752f63bbf2bee0abb73fc06e50380153d18a795"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_100_map.json"
-hash = "32ae7f02759da84714be77d8a1bdcae72ed6b6d61561add40e44e866c4e615c0"
+hash = "0885a3914786c69f97a3ca3c6dc65f5e7bbe00c8a72e1fb795f80d247e3b90b9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_20.json"
