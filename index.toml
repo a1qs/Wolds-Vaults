@@ -258,7 +258,7 @@ hash = "e9f979ca1f76e81801e089b625196b11d569c48bce7e4178c551a607f97381d5"
 
 [[files]]
 file = "config/the_vault/alchemy_objective.json"
-hash = "f836316ebabdb53ace29cfdfb633d13e55bed33c81d1e2c68c3f3e6fafca99bc"
+hash = "ecc7858eb9e32f0d8689c52d0e333e2ec1c5cf295325b9a8a22b51e08ae19ef0"
 
 [[files]]
 file = "config/the_vault/alchemy_table.json"
@@ -14394,7 +14394,7 @@ hash = "a31a8ea84ef0d4c9fcbb70ef9464b53bfd0ea70f306d46f2dd56c4661b622655"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
-hash = "692199f22becf86502ab4bbfe75ffd5c7985e626ca5d4769cd48d2844fd367ce"
+hash = "b0afbd13d437792b10703f0fe003def72e1606a7e72e5493d9caa124c6baaae3"
 
 [[files]]
 file = "config/the_vault/magnet_table.json"
@@ -14542,7 +14542,7 @@ hash = "6a10af7712a1f04c6122059d6501a1a393471aaf453ab381c40cd1643081ff74"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "cd51e119230aca636ac02aea64fdc17062c28d6e9312e255024f1a89d80d15bd"
+hash = "1890f23fb35398ff76d47f44a4f6ea89238d3f15ea0e61e8d31b8c547c7d715e"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
@@ -14918,7 +14918,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "a866ab8c7e74cdf81516b2c75f96c95ef2c9a142f5b0112a35822bb2155e4502"
+hash = "d00aa0cf30922a7ca1c2a1c07c1450533e60c5e4251838163b1362a852c71559"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -14946,7 +14946,7 @@ hash = "5d17dee8ae4769e3bbcfa2c6967447200a45bdcc5a91bd1f7737eb9f73f913c5"
 
 [[files]]
 file = "config/the_vault/vault_rune_boss.json"
-hash = "a8accb4302ff7bd9e6b482ac7e0c8f2c2eae0aea8d4b69d6a04655a90a3117f2"
+hash = "65545f4c82dc7929368564a7e6d5b3b8491ccc897ee54c93bb12c31e0de19d34"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
@@ -20274,11 +20274,11 @@ hash = "c995a7de71c427ffc362e75bdd3136726e89d1094775ad3650b0d5791ec85be4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "bf3679efcc68d3ecd5a93d452c2bafc7283e2695d304d73dae554903ddc85b20"
+hash = "250ac5942dbaf1ba688eec5b9f33a34348ce704882198bfe8841e111cc3db788"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
-hash = "bf98d7ed80f683ed8548aee2b1e11a13394d2dd092ac2b08706f19fac6f12787"
+hash = "d821bbbc433ca086de080ce90eec750186178d19eafdc2b5dcf400486f760483"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
