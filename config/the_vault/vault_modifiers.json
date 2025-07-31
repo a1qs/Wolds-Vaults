@@ -5158,19 +5158,13 @@
       "the_vault:curse": {
         "properties": {
           "children": {
-            "the_vault:collapsing": 1,
-            "the_vault:explosive": 1,
-            "the_vault:void_pools": 1,
-            "the_vault:curse_ethereal": 1,
-            "the_vault:wrecked": 1,
-            "the_vault:freezing": 1,
-            "the_vault:poisonous": 1
+            "the_vault:shortened": 1
           }
         },
         "display": {
           "name": "Cursed!",
           "color": "#ad2b2b",
-          "description": "This vault is cursed!",
+          "description": "This vault is shorter!",
           "icon": "the_vault:gui/modifiers/curse_voidpools"
         }
       },

@@ -14922,7 +14922,7 @@ hash = "a866ab8c7e74cdf81516b2c75f96c95ef2c9a142f5b0112a35822bb2155e4502"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "fb641525164c546cdbcc450c0a36e446f3cc0ffa9b84187cf75fb12c8a1155c4"
+hash = "55cbcf658307f911b4949e68b592194e06709bbf538a58c2b0f27d1a9167e609"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
