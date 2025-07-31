@@ -10,7 +10,7 @@
         { "weight": 1,
           "pool": [
             {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:helmet",
                 "nbt": {
@@ -24,7 +24,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:chestplate",
                 "nbt": {
@@ -38,7 +38,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:leggings",
                 "nbt": {
@@ -52,7 +52,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:boots",
                 "nbt": {
@@ -66,7 +66,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:sword",
                 "nbt": {
@@ -80,7 +80,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:axe",
                 "nbt": {
@@ -94,7 +94,7 @@
               }
             },
             {
-              "weight": 5,
+              "weight": 10,
               "item": {
                 "id": "the_vault:shield",
                 "nbt": {
@@ -108,7 +108,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 10,
               "item": {
                 "id": "the_vault:focus",
                 "nbt": {
@@ -122,7 +122,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 10,
               "item": {
                 "id": "the_vault:wand",
                 "nbt": {
@@ -136,7 +136,7 @@
               }
             },
              {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:trident",
                 "nbt": {
@@ -150,7 +150,7 @@
               }
             },
             {
-              "weight": 7,
+              "weight": 20,
               "item": {
                 "id": "the_vault:battlestaff",
                 "nbt": {
@@ -164,46 +164,46 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 30,
               "item": {
               "id": "the_vault:waning_focus",
               "count": {
                 "type": "uniform",
-                "min": 1,
-                "max": 1
+                "min": 2,
+                "max": 8
                 }
               }
             },
             {
-              "weight": 20,
+              "weight": 30,
               "item": {
               "id": "the_vault:waxing_focus",
               "count": {
                 "type": "uniform",
-                "min": 1,
-                "max": 1
+                "min": 2,
+                "max": 8
                 }
               }
             },
             {
-              "weight": 4,
+              "weight": 25,
               "item": {
               "id": "the_vault:fundamental_focus",
               "count": {
                 "type": "uniform",
-                "min": 1,
-                "max": 1
+                "min": 2,
+                "max": 4
                 }
               }
             },
             {
-              "weight": 1,
+              "weight": 5,
               "item": {
               "id": "the_vault:opportunistic_focus",
               "count": {
                 "type": "uniform",
                 "min": 1,
-                "max": 1
+                "max": 2
                 }
               }
             }
