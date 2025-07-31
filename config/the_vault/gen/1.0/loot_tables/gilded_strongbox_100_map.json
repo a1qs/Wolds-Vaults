@@ -6,6 +6,7 @@
         "min": 23,
         "max": 26
       },
+      "pool": [
         {
           "weight": 60,
           "pool": [

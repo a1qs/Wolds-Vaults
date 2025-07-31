@@ -1330,7 +1330,7 @@ hash = "cb00623a60021387760b930581e2ef1df5314257c22290a0f7f4fabe18ad0f49"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_strongbox_100_map.json"
-hash = "9f58cdc69577fff6d4c15a6be69e6fab535acfd07ff243e4816af21146a75229"
+hash = "b5df31bb41f4571a2869a5ee255728a7fd3c5a28c1dec0d0245abfc4c54d18b5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_strongbox_50.json"
@@ -1382,7 +1382,7 @@ hash = "eda34955fbcba9638bf72e5f6f21f2a9b7a149bbf4c7170aa0c24622a3c15bc2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_100_map.json"
-hash = "0b738151356d7c3a9806b01c6c4c213ebe713ad6d875ac5c6c9f611e26ba9a66"
+hash = "233569c59671f334c1d6397734a4ca2da349b489f0d41f3e1f84f587cedc29a9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_20.json"
@@ -1450,7 +1450,7 @@ hash = "74cfde9f057f731c4bb12a014cdfac4d91849a79c2fcf2a5d78a919cf5717437"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_100_map.json"
-hash = "9b7db8cbcbf16a81400f7ac5fd6b0e2d95ddd5d5c234f5a0369cb13c6031e085"
+hash = "2acd2b72233d97ef347a16a6f7c3f8954a629f5f727fb070a54d74f36312691b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_20.json"
@@ -1474,7 +1474,7 @@ hash = "da057f30d0d9b968477c55bfb8326858c6b38bdb4cebac6a4249b7543b62446f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_100_map.json"
-hash = "bc16dcda0499737612bf44e812e1056ba2b36ee600cbb5dd64813887256b435a"
+hash = "089394c8d77d1f6a79f4ecc6d48ee06d47f574416b942000d9b9eea2ec9c2402"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_50.json"
