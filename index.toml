@@ -2814,7 +2814,7 @@ hash = "6f003cfe644ef465ab3100d90a868c3102af628492061bf8fbbc9089b336eb7d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/mine/ore_placeholder.json"
-hash = "f026f395288e352affa609ddcdc30b0267f68241aa1cb01e441690e05fab1fa8"
+hash = "2f6e0bf488e58b3b335680fa3f56cfecc11763a8b7df44e67bec3becba772416"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/mine/ore_placeholder_micro.json"
@@ -14550,7 +14550,7 @@ hash = "9e5f7dfd67d42819e4ddcfe972632bcedc803c995fc78e3a71deed8ba0f55f9f"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
-hash = "c1d475ea6e695bc1ad1f84ddc9621c643f93b79663829be4a6b580aae48a1092"
+hash = "4e40648b822f3d017b30468d2cf117277847c2ae208bf708ba5c7a3d9cba72fb"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
