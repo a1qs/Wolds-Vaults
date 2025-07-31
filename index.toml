@@ -14550,7 +14550,7 @@ hash = "9e5f7dfd67d42819e4ddcfe972632bcedc803c995fc78e3a71deed8ba0f55f9f"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
-hash = "4e40648b822f3d017b30468d2cf117277847c2ae208bf708ba5c7a3d9cba72fb"
+hash = "47fbd36f972233bed4f5ea9ce213e50913b7b1ab2616af94cc99b6bb3af5ea2c"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
