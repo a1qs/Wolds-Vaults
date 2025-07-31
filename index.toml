@@ -14782,11 +14782,11 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_codex.json"
-hash = "c1d8e33d303343896dd3ff0d603703fe47e7ea4f6750e74fc5f738e160d185f7"
+hash = "a079882dc0f40322c6ee127671ed521eb6e423429bf6df6ce43906766ddfe309"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "8ec09b20fbce7cb177c2ffe9986d232cfc26818208034659b6240599a4829eba"
+hash = "3a6a0e6cb438f706c027fe7c23c9bdf1ed07302e362064e54cc123bf62e18a1f"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
