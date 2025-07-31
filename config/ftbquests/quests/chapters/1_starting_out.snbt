@@ -604,6 +604,7 @@
 						hasModifierUNUSUAL: 0b
 						model: [B; ]
 						hasModifierGREATER: 0b
+						hasModifierLEGENDARY: 0b
 						state: 2
 						hasModifierLEGENDARY: 0b
 						hasModifierCORRUPTED: 0b

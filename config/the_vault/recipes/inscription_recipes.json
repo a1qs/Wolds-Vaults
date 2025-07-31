@@ -169,8 +169,13 @@
       },
       "inputs": [
         {
-          "AMOUNT": 256,
-          "ITEM": "the_vault:gem_larimar",
+          "AMOUNT": 32,
+          "ITEM": "the_vault:extraordinary_larimar",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:extraordinary_benitoite",
           "NBT": "{}"
         },
         {

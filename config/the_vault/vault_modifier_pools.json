@@ -2678,26 +2678,6 @@
                 "weight": 2
               },
               {
-                "value": "the_vault:idona_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:tenos_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:velara_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:wendarr_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:blessed",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:dummy",
                 "weight": 100
               }
@@ -2787,26 +2767,6 @@
               {
                 "value": "the_vault:oneup",
                 "weight": 3
-              },
-              {
-                "value": "the_vault:idona_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:tenos_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:velara_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:wendarr_blessing",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:blessed",
-                "weight": 1
               },
               {
                 "value": "the_vault:dummy",
@@ -5344,16 +5304,12 @@
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:prismatic",
-                "weight": 4
-              },
-              {
                 "value": "the_vault:hoard",
-                "weight": 4
+                "weight": 1
               },
               {
                 "value": "the_vault:treasure",
-                "weight": 4
+                "weight": 1
               },
               {
                 "value": "the_vault:enlighted",
@@ -5361,7 +5317,7 @@
               },
               {
                 "value": "the_vault:perfect_ores",
-                "weight": 4
+                "weight": 1
               },
               {
                 "value": "the_vault:soul_surge",
@@ -5373,15 +5329,15 @@
               },
               {
                 "value": "the_vault:super_stronk",
-                "weight": 4
+                "weight": 6
               },
               {
                 "value": "the_vault:regeneration",
-                "weight": 4
+                "weight": 6
               },
               {
                 "value": "the_vault:looters_dream",
-                "weight": 4
+                "weight": 3
               },
               {
                 "value": "the_vault:goblin_quantity",
@@ -5427,6 +5383,22 @@
               {
                 "value": "the_vault:mob_increase",
                 "weight": 4
+              },
+              {
+                "value": "the_vault:weakened_powers",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:critical_mobs",
+                "weight": 4
+              },
+              {
+                "value": "woldsvaults:resistant_mobs",
+                "weight": 1
+              },
+              {
+                "value": "woldsvaults:bleeding_mobs",
+                "weight": 4
               }
             ]
           }
@@ -5463,7 +5435,7 @@
               },
               {
                 "value": "the_vault:unhinged_mob_increase",
-                "weight": 4
+                "weight": 1
               },
               {
                 "value": "the_vault:grievous_wounds",
@@ -5479,15 +5451,15 @@
               },
               {
                 "value": "the_vault:weakened_t3",
-                "weight": 1
+                "weight": 4
               },
               {
                 "value": "the_vault:lost_quantity",
-                "weight": 1
+                "weight": 2
               },
               {
                 "value": "the_vault:unlucky",
-                "weight": 1
+                "weight": 2
               },
               {
                 "value": "the_vault:crit_mobs",
