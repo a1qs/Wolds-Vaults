@@ -2647,7 +2647,7 @@
             "MIN_COST": 24,
             "MAX_COST": 72
           },
-          "weight": 40
+          "weight": 20
         },
         {
           "value": {
@@ -2797,7 +2797,7 @@
             "MIN_COST": 96,
             "MAX_COST": 192
           },
-          "weight": 40
+          "weight": 20
         },
         {
           "value": {
@@ -2851,17 +2851,6 @@
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 20,
-            "MAX_COST": 32
-          },
-          "weight": 50
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:knowledge_star"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
             "MAX_COST": 32
           },
           "weight": 50
@@ -2949,7 +2938,7 @@
               "item": "the_vault:unidentified_treasure_key"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 64,
+            "MIN_COST": 48,
             "MAX_COST": 96
           },
           "weight": 10
@@ -2980,6 +2969,17 @@
           "value": {
             "OFFER": {
               "item": "woldsvaults:blazing_focus"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 128,
+            "MAX_COST": 256
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:animate_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 128,
@@ -3026,8 +3026,8 @@
               "item": "the_vault:empowered_chaotic_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 20,
-            "MAX_COST": 40
+            "MIN_COST": 10,
+            "MAX_COST": 30
           },
           "weight": 30
         },
@@ -3062,7 +3062,7 @@
             "MIN_COST": 4,
             "MAX_COST": 8
           },
-          "weight": 100
+          "weight": 80
         },
         {
           "value": {
@@ -3084,7 +3084,7 @@
             "MIN_COST": 16,
             "MAX_COST": 32
           },
-          "weight": 40
+          "weight": 30
         },
         {
           "value": {
@@ -3122,13 +3122,24 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:crystal_seal_ordinator_run"
+              "item": "woldsvaults:inscription_box"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 48,
-            "MAX_COST": 64
+            "MIN_COST": 16,
+            "MAX_COST": 32
           },
-          "weight": 10
+          "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:catalyst_box"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 16,
+            "MAX_COST": 32
+          },
+          "weight": 20
         },
         {
           "value": {
@@ -3148,10 +3159,10 @@
               "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 12,
-            "MAX_COST": 48
+            "MIN_COST": 16,
+            "MAX_COST": 36
           },
-          "weight": 40
+          "weight": 60
         },
         {
           "value": {
@@ -3178,6 +3189,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:neuralizer"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 64,
+            "MAX_COST": 196
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "the_vault:wold_star_chunk"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -3196,6 +3218,17 @@
             "MAX_COST": 256
           },
           "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:nullite_crystal"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 666,
+            "MAX_COST": 666
+          },
+          "weight": 3
         }
       ]
     }

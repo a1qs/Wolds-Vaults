@@ -330,7 +330,7 @@ hash = "f1276b32729dfd8f495ae3655e404c3ca6f85b1f25fb1e4d439853ca603192db"
 
 [[files]]
 file = "config/the_vault/blacksmith_shop_pedestal.json"
-hash = "44574c28cb1ccf5d9eaad9712a4deb32c4c5292c1ef2f144cf28aad8bac07d79"
+hash = "c37b06bb2bdef6f944bccb5beb24e8c16340128216664f825d32ee841dede04c"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
@@ -14626,7 +14626,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "8c2b151827dbcc4e7fd369a4be567c3351e78e3b950bc8e27e43996bbd3d01ad"
+hash = "8612ee7ddb59daf9c125073c02fec964acf3262b7a65fad325e7ea2d27bddde6"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
