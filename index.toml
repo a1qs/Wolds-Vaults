@@ -1170,11 +1170,11 @@ hash = "6af39108aaef983c40bd46e0b775839e235641cf19bde0d28c0b75f1c26a40c2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_50.json"
-hash = "799e798d80008086a498022bd7a730b406ee67bbf884072bf49b187169af1c26"
+hash = "167880fc54e4600643d9cab4ed6cca3016a497f7ca9e94b29740ce7d0034da75"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_75.json"
-hash = "6c4f6e04b5334d6dfdf83de72d8f243055dbce23c4d8cdeeb5ed12eef4434834"
+hash = "6be3cad682d11b2624c2d30faa072aa741f232de6da4efc2da82e865146f4586"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded.json"
