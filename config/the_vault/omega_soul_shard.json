@@ -1374,6 +1374,18 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "woldsvaults:animate_focus",
+                            "AMOUNT": 1,
+                            "NBT": "{}"
+                        },
+                        "minPrice": 9000,
+                        "maxPrice": 18000
+                    },
+                    "weight": 2
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:resilient_focus",
                             "AMOUNT": 1,
                             "NBT": "{}"
