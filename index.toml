@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "cc1f8b129369a84a68f73d6ad74ea841d306d6879cbb3f7bfd177e3357db7e02"
+hash = "54f6f0225e788e647b7bae8b397df70a32602fdeaadb5d0c93478b4c06c406db"
 
 [[files]]
 file = "config/bagus_lib-common.toml"
@@ -1162,7 +1162,7 @@ hash = "167880fc54e4600643d9cab4ed6cca3016a497f7ca9e94b29740ce7d0034da75"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_75.json"
-hash = "6be3cad682d11b2624c2d30faa072aa741f232de6da4efc2da82e865146f4586"
+hash = "1fe6a952f7c741caccbff5269472937c8f8f22d8d16ef4e5accd31f42adddbf6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded.json"
