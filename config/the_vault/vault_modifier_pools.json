@@ -5456,6 +5456,10 @@
               {
                 "value": "the_vault:weakened_t3",
                 "weight": 2
+              },
+              {
+                "value": "the_vault:unhinged_mob_increase",
+                "weight": 2
               }
             ]
           }

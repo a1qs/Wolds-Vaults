@@ -14906,7 +14906,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "52c0ff4faad74b87571c3725208ffc124a39398892970fdc536f2831bd49f6b9"
+hash = "55bd47c3ce4ec54c579f410f815885c696aee82f05782bfe1b6e97b75949cc7e"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
