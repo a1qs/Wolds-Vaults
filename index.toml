@@ -1530,7 +1530,7 @@ hash = "c5db1a2397263a27505c66bc8f64b245d98fde6124bd663c5164e322d0efe20c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "90e34127397165f9dfcbcb9cac47f348067c1b206758ae4c3ad63b7d1d93fa45"
+hash = "ae29e3ee87d4aec20249f31692139c2738d0682de974f772000566995b791248"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_map.json"
