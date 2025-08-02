@@ -19926,7 +19926,7 @@ hash = "d6bb0f76f761fe14d14facd1120eb0c7627fa67edbf2cba69d8ab9ab7d4e7ed8"
 
 [[files]]
 file = "kubejs/server_scripts/sadness.js"
-hash = "1acbc6b2b74a3d011a603c7690f2d6d041f9a57f12241644db00ce817230450d"
+hash = "d5ed74d585c342d3cb4d2c8bf29214e618786e6d4efcabab031f2d18d4e6c48e"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2/recipes.js"
