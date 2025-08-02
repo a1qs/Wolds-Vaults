@@ -2116,6 +2116,14 @@
               "objective_probability": 1.0
             },
             "weight": 2
+          },
+          {
+            "value": {
+              "type": "alchemy",
+              "objective_probability": 0.4,
+              "required_progress": 2.0
+            },
+            "weight": 1
           }
         ]
       },
@@ -2171,6 +2179,14 @@
               "objective_probability": 1.0
             },
             "weight": 2
+          },
+          {
+            "value": {
+              "type": "alchemy",
+              "objective_probability": 0.3,
+              "required_progress": 2.5
+            },
+            "weight": 1
           }
         ]
       }
@@ -2179,6 +2195,23 @@
       {
         "level": 0,
         "pool": [
+           {
+            "value": {
+              "type": "rune_boss",
+              "objective_probability": 0.05,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 6,
+                "max": 8
+              }
+            },
+            "weight": 2
+          },
           {
             "value": {
               "type": "boss",
@@ -2278,6 +2311,14 @@
               "objective_probability": 1.0
             },
             "weight": 2
+          },
+           {
+            "value": {
+              "type": "alchemy",
+              "objective_probability": 0.2,
+              "required_progress": 3.0
+            },
+            "weight": 1
           }
         ]
       }
@@ -2286,6 +2327,13 @@
       {
         "level": 0,
         "pool": [
+           {
+            "value": {
+              "type": "alchemy",
+              "objective_probability": 0.3
+            },
+            "weight": 0
+          },
           {
             "value": {
               "type": "rune_boss",
