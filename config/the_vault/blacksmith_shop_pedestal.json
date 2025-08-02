@@ -7,11 +7,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:helmet",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -19,11 +19,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:chestplate",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -31,11 +31,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:leggings",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -43,11 +43,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:boots",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -55,11 +55,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:trident",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -67,11 +67,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -79,11 +79,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:rang",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -91,11 +91,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:axe",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -103,11 +103,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:sword",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -115,11 +115,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:focus",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -127,11 +127,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:magnet",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -139,11 +139,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:shield",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -151,11 +151,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:wand",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         }
@@ -168,11 +168,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:helmet",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -180,11 +180,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:chestplate",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -192,11 +192,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:leggings",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -204,11 +204,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:boots",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -216,11 +216,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:trident",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -228,11 +228,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -240,11 +240,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:rang",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -252,11 +252,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:axe",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -264,11 +264,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:sword",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -276,11 +276,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:focus",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -288,11 +288,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:magnet",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -300,11 +300,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:shield",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -312,11 +312,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:wand",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -324,11 +324,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:loot_sack",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 40
         },
@@ -336,11 +336,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:plushie",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 40
         },
@@ -542,9 +542,9 @@
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 14,
-            "MAX_COST": 22
+            "MAX_COST": 30
           },
-          "weight": 45
+          "weight": 50
         },
         {
           "value": {
@@ -552,8 +552,8 @@
               "item": "the_vault:adaptive_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 32,
-            "MAX_COST": 64
+            "MIN_COST": 8,
+            "MAX_COST": 32
           },
           "weight": 15
         },
@@ -563,7 +563,7 @@
               "item": "the_vault:cryonic_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
+            "MIN_COST": 20,
             "MAX_COST": 32
           },
           "weight": 20
@@ -574,7 +574,7 @@
               "item": "the_vault:pyretic_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
+            "MIN_COST": 20,
             "MAX_COST": 32
           },
           "weight": 20
@@ -585,19 +585,8 @@
               "item": "the_vault:chaotic_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 4,
-            "MAX_COST": 8
-          },
-          "weight": 60
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:chaotic_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 4,
-            "MAX_COST": 8
+            "MIN_COST": 1,
+            "MAX_COST": 2
           },
           "weight": 60
         },
@@ -607,43 +596,10 @@
               "item": "the_vault:vorpal_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 40
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:amplifying_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 1,
-            "MAX_COST": 2
-          },
-          "weight": 80
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:wild_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 1,
-            "MAX_COST": 2
-          },
-          "weight": 80
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:nullifying_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 1,
-            "MAX_COST": 2
-          },
-          "weight": 80
         },
         {
           "value": {
@@ -673,8 +629,8 @@
               "item": "the_vault:waxing_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 10,
-            "MAX_COST": 15
+            "MIN_COST": 4,
+            "MAX_COST": 16
           },
           "weight": 20
         },
@@ -684,8 +640,8 @@
               "item": "the_vault:waning_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 10,
-            "MAX_COST": 15
+            "MIN_COST": 4,
+            "MAX_COST": 16
           },
           "weight": 20
         },
@@ -695,8 +651,8 @@
               "item": "the_vault:empowered_chaotic_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 40
+            "MIN_COST": 8,
+            "MAX_COST": 24
           },
           "weight": 15
         }
@@ -709,11 +665,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:helmet",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -721,11 +677,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:chestplate",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -733,11 +689,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:leggings",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -745,11 +701,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:boots",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -757,11 +713,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:trident",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -769,11 +725,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -781,11 +737,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:rang",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -793,11 +749,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:axe",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -805,11 +761,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:sword",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -817,11 +773,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:focus",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -829,11 +785,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:magnet",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -841,11 +797,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:shield",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -853,11 +809,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:wand",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 80
         },
@@ -865,11 +821,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:loot_sack",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 40
         },
@@ -877,11 +833,11 @@
           "value": {
             "OFFER": {
               "item": "the_vault:plushie",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 22
+            "MIN_COST": 20,
+            "MAX_COST": 30
           },
           "weight": 40
         },
@@ -889,7 +845,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:helmet",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -901,7 +857,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:chestplate",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -913,7 +869,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:leggings",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -925,7 +881,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:boots",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -937,7 +893,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:trident",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -949,7 +905,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -961,7 +917,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:rang",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -973,7 +929,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:axe",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -985,7 +941,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:sword",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -997,7 +953,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:focus",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -1009,7 +965,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:magnet",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -1021,7 +977,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:shield",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -1033,7 +989,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:wand",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -1045,7 +1001,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:loot_sack",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -1057,7 +1013,7 @@
           "value": {
             "OFFER": {
               "item": "the_vault:plushie",
-              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"blacksmith_pedestal\",\"the_vault:is_loot\":\"true\"}"
+              "nbt": "{\"the_vault:is_legendary\":\"true\",\"the_vault:gear_roll_type_pool\":\"gear_omega\",\"the_vault:is_loot\":\"true\"}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 32,
@@ -1126,19 +1082,8 @@
               "item": "the_vault:chaotic_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 4,
-            "MAX_COST": 8
-          },
-          "weight": 60
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:chaotic_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 4,
-            "MAX_COST": 8
+            "MIN_COST": 1,
+            "MAX_COST": 2
           },
           "weight": 60
         },
@@ -1152,39 +1097,6 @@
             "MAX_COST": 22
           },
           "weight": 40
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:amplifying_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 1,
-            "MAX_COST": 2
-          },
-          "weight": 80
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:wild_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 1,
-            "MAX_COST": 2
-          },
-          "weight": 80
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:nullifying_focus"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 1,
-            "MAX_COST": 2
-          },
-          "weight": 80
         },
         {
           "value": {
@@ -1214,8 +1126,8 @@
               "item": "the_vault:waxing_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 10,
-            "MAX_COST": 15
+            "MIN_COST": 4,
+            "MAX_COST": 16
           },
           "weight": 20
         },
@@ -1225,8 +1137,8 @@
               "item": "the_vault:waning_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 10,
-            "MAX_COST": 15
+            "MIN_COST": 4,
+            "MAX_COST": 16
           },
           "weight": 20
         },
@@ -1236,8 +1148,8 @@
               "item": "the_vault:empowered_chaotic_focus"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 40
+            "MIN_COST": 8,
+            "MAX_COST": 16
           },
           "weight": 15
         },
