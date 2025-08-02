@@ -1834,6 +1834,18 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "woldsvaults:animate_focus",
+                            "AMOUNT": 1,
+                            "NBT": "{}"
+                        },
+                        "minPrice": 18000,
+                        "maxPrice": 36000
+                    },
+                    "weight": 1
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:cryonic_focus",
                             "AMOUNT": 1,
                             "NBT": "{}"

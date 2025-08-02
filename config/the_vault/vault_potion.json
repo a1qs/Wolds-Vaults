@@ -1,20 +1,20 @@
 {
   "chestTypeRechargePoints": {
-    "ENIGMA": 1,
-    "ORNATE": 1,
-    "LIVING": 1,
-    "FLESH": 1,
+    "ENIGMA": 10,
+    "ORNATE": 4,
+    "LIVING": 4,
+    "FLESH": 5,
     "HARDENED": 1,
     "WOODEN": 1,
-    "TREASURE": 10,
-    "GILDED": 1,
-    "ALTAR": 1
+    "TREASURE": 30,
+    "GILDED": 4,
+    "ALTAR": 10
   },
   "potions": {
     "potion": {
       "charges": 6,
       "modifiers": 1,
-      "timeRecharge": 6000,
+      "timeRecharge": 3000,
       "vaultLevelMobRecharge": {
         "90": 90,
         "80": 80,
@@ -35,7 +35,7 @@
     "mixture": {
       "charges": 6,
       "modifiers": 2,
-      "timeRecharge": 6000,
+      "timeRecharge": 3000,
       "vaultLevelMobRecharge": {
         "90": 90,
         "80": 80,
@@ -56,7 +56,7 @@
     "vial": {
       "charges": 6,
       "modifiers": 0,
-      "timeRecharge": 6000,
+      "timeRecharge": 3000,
       "vaultLevelMobRecharge": {
         "90": 90,
         "80": 80,
@@ -77,7 +77,7 @@
     "brew": {
       "charges": 6,
       "modifiers": 3,
-      "timeRecharge": 6000,
+      "timeRecharge": 3000,
       "vaultLevelMobRecharge": {
         "90": 90,
         "80": 80,
