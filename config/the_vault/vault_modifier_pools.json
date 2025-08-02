@@ -4366,7 +4366,7 @@
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:shortened",
+                "value": "the_vault:curse",
                 "weight": 1
               }
             ]

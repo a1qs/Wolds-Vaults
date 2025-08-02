@@ -14906,11 +14906,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "55bd47c3ce4ec54c579f410f815885c696aee82f05782bfe1b6e97b75949cc7e"
+hash = "527c6b0fbf5f2d0f11122139e8f85f8e82873ceb5bb09a29b96f8bb76bdd7065"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "afb30d93b8fa8bb3fe323cb2fb0b8913bbad02619d65dca327496c40bb5b3e7c"
+hash = "9398fa9b3599bb674e6a6c3f961b61efc4a21bae948acafff3357872957749f9"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"

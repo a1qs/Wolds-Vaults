@@ -5236,7 +5236,8 @@
       "the_vault:curse": {
         "properties": {
           "children": {
-            "the_vault:shortened": 1
+            "the_vault:shortened": 1,
+            "the_vault:challenge_stack": 1
           }
         },
         "display": {
