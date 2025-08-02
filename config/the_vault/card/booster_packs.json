@@ -935,13 +935,13 @@
       },
       "roll": [
         {
-          "value": 5,
+          "value": 7,
           "weight": 1.0
         }
       ],
       "tier": [
         {
-          "value": 1,
+          "value": 5,
           "weight": 3.0
         }
       ],
@@ -968,6 +968,9 @@
           "value": [
             {
               "modifier": "@default",
+              "groups": [
+                "Foil"
+              ],
               "probability": 1.0
             }
           ],
@@ -977,44 +980,13 @@
           "value": [
             {
               "modifier": "@scaling",
-              "probability": 1.0,
-              "scaler": "@default"
+              "groups": [
+                "Foil"
+              ],
+              "probability": 1.0
             }
           ],
           "weight": 20
-        },
-        {
-          "value": [
-            {
-              "modifier": "@resource",
-              "probability": 1.0
-            }
-          ],
-          "weight": 7
-        },
-        {
-          "value": [
-            {
-              "modifier": "@default",
-              "groups": [
-                "Foil"
-              ],
-              "probability": 1.0
-            }
-          ],
-          "weight": 6
-        },
-        {
-          "value": [
-            {
-              "modifier": "@scaling",
-              "groups": [
-                "Foil"
-              ],
-              "probability": 1.0
-            }
-          ],
-          "weight": 4
         },
         {
           "value": [

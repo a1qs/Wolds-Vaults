@@ -374,7 +374,7 @@ hash = "8a245ef81195df152e206cb6e4f60e6891ba084d731f48b44f1eaa52a73981c2"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
-hash = "94b7d2a4e08405bf597569904a7e87fd5764c5d75709941ce5d09a57bc4b831e"
+hash = "3cff9230a427eb45a895876dec42e7adea8f963fb531a73c8713c21a0919f0b6"
 
 [[files]]
 file = "config/the_vault/card/conditions.json"
