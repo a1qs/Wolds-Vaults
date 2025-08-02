@@ -14774,7 +14774,7 @@ hash = "a079882dc0f40322c6ee127671ed521eb6e423429bf6df6ce43906766ddfe309"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "60585671d4552ff40741e3bb131bb5a049743547cc56589950546a55451051a8"
+hash = "03e67a50166f53c13f2767551b4d8dba496e5966bdb75a10c71832564b09fc02"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
