@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "54f6f0225e788e647b7bae8b397df70a32602fdeaadb5d0c93478b4c06c406db"
+hash = "cc1f8b129369a84a68f73d6ad74ea841d306d6879cbb3f7bfd177e3357db7e02"
 
 [[files]]
 file = "config/bagus_lib-common.toml"
