@@ -11,24 +11,68 @@
           "weight": 70,
           "pool": [
             {
-              "weight": 40,
+              "weight": 16,
+              "item": {
+                "id": "the_vault:living_rock",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:mossy_bone",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:overgrown_wooden_chunk",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:rotten_meat",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 8,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 12
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 60,
+              "weight": 4,
               "item": {
                 "id": "the_vault:vault_meat",
                 "count": {
                   "type": "uniform",
-                  "min": 4,
-                  "max": 12
+                  "min": 1,
+                  "max": 3
                 }
               }
             }
@@ -44,7 +88,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 1
                 }
               }
             },
@@ -55,7 +99,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 1
                 }
               }
             },
@@ -66,56 +110,56 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 25,
+              "weight": 29,
               "item": {
                 "id": "the_vault:burger_tomato",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 25,
+              "weight": 28,
               "item": {
                 "id": "the_vault:burger_lettuce",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 20,
+              "weight": 27,
               "item": {
                 "id": "the_vault:burger_pickles",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 20,
+              "weight": 26,
               "item": {
                 "id": "the_vault:burger_sauce",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 15,
+              "weight": 25,
               "item": {
                 "id": "the_vault:burger_chili",
                 "count": {
@@ -132,7 +176,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 8
+                  "max": 2
                 }
               }
             },
@@ -143,14 +187,41 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 12
+                  "max": 2
                 }
               }
             }
           ]
         },
         {
-          "weight": 10,
+          "weight": 8,
+          "pool": [
+            {
+              "weight": 60,
+              "item": {
+                "id": "the_vault:living_rock",
+                "count": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 8
+                }
+              }
+            },
+            {
+              "weight": 80,
+              "item": {
+                "id": "the_vault:knowledge_star_essence",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
           "pool": [
             {
               "weight": 30,
@@ -170,23 +241,34 @@
                 "count": {
                   "type": "uniform",
                   "min": 2,
-                  "max": 12
-                }
-              }
-            },
-            {
-              "weight": 75,
-              "item": {
-                "id": "the_vault:mystery_egg",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
                   "max": 3
                 }
               }
             },
             {
-              "weight": 20,
+              "weight": 84,
+              "item": {
+                "id": "the_vault:mystery_egg",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 56,
+              "item": {
+                "id": "the_vault:vault_moss",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 16,
               "item": {
                 "id": "the_vault:living_chest_scroll",
                 "count": {
@@ -197,21 +279,21 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 3,
               "item": {
                 "id": "the_vault:vault_god_charm",
                 "nbt": {
-                    "the_vault:gear_roll_type_pool": "charms"
-                  },
+                  "the_vault:gear_roll_type_pool": "charms"
+                },
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
-              "weight": 15,
+              "weight": 4,
               "item": {
                 "id": "the_vault:inscription",
                 "nbt": {
@@ -225,7 +307,7 @@
               }
             },
             {
-              "weight": 25,
+              "weight": 16,
               "item": {
                 "id": "woldsvaults:soul_ichor",
                 "nbt": {
@@ -233,12 +315,12 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 15,
+              "weight": 8,
               "item": {
                 "id": "woldsvaults:unidentified_gateway_pearl",
                 "nbt": {
