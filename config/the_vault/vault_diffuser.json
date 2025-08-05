@@ -288,6 +288,7 @@
     "the_vault:gilded_candelabra": 4,
     "the_vault:gemstone": 64,
     "the_vault:compressed_soot_block": 9,
+    "the_vault:companion_particle_trail": 128,
     "the_vault:default": 0
   }
 }
