@@ -602,7 +602,7 @@ hash = "0e61e740a923b4df269977ec7c2126da7970d654437f9cb5ab09942550e83306"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe_mythic.json"
-hash = "b4f4ee2613a78e8d0cb5419f1d2e3673679ee09692e56eb4d9b107d683051aaa"
+hash = "b90284a1f0f1814a21fd02f7e844686703c04847b6f5678c87774dcdfc080fd2"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
@@ -754,7 +754,7 @@ hash = "9c41d69430477bb55cacc9e07e89b6097e7e5c0fa6fb1ca7cdb3820b44af8e4f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword_mythic.json"
-hash = "d9f03c03ea81017b10f091662b019acc5f78c4f5186ca2f1e2c5cafba6bc70cd"
+hash = "2da76a4ffcc286711efd175815af0ccf93b1e773f3a86f4f56949d489a802bec"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
@@ -14338,7 +14338,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "4ef536eca3032489e6c020707c7034501da52af8f1ac234e8494a08805924ead"
+hash = "a0c266a19ca262ed5c6e6dc99fa78845cb817a86a2d6f74e9d63f1ef03b325ca"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -14442,7 +14442,7 @@ hash = "019a74f1864c2ee5cd5d117011ae1fb0d6ed25a02e417fc7bb8761caac05a472"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
-hash = "06eb00ba43300dc422c03f9084a199550c79644875c8b41a7c086251b53cae29"
+hash = "55139b8cbb86f81305d64401176a4a5a5a4df7349b645ee18a0755a5fe2ae701"
 
 [[files]]
 file = "config/the_vault/overlevel_enchant.json"
@@ -15962,7 +15962,7 @@ hash = "986831c8445f84ff7bdeef9616f66108c7d96305621c2d176dc7a6abe6a3d2a1"
 
 [[files]]
 file = "configureddefaults/config/itemborders-common.toml"
-hash = "fa579c774d06a3c7fe6b0c4d86d800cb5102f6c8b82a0c91acef96b7eb300423"
+hash = "10b2e25432615b2d5eda334250196db4801742294d569a21fea326d08033c23b"
 
 [[files]]
 file = "configureddefaults/config/jade-addons.toml"
@@ -20342,7 +20342,7 @@ hash = "cd5ff33c4e9001c7ef46600def03321ba57d56d34cd2678d90101c15c4e1eb79"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "bf8bda96b3186f07c316fb866bf9da48043410fdf0bc9377ee74007e9e7ecd33"
+hash = "9530ec39086aaf6b88e214e0846693a2172811e00a43c7b19b3d1e589afa53f4"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
@@ -21472,7 +21472,7 @@ metafile = true
 
 [[files]]
 file = "mods/modded-item-borders.pw.toml"
-hash = "ede0cf64a98db93a29677853d879a37a04234cb8110e8c403da53941a98e4b99"
+hash = "90607fdaeec331c90b33982d03142b922d001066d84ae3c23500bfaf162f2de7"
 metafile = true
 
 [[files]]
@@ -21710,7 +21710,7 @@ metafile = true
 
 [[files]]
 file = "mods/qol-hunters.pw.toml"
-hash = "75dabce5e8203433cd38cfff5f540dc5b6f801ebbfa2cb844918e6ffd42bb21b"
+hash = "bb81342c3cd3f2d9230395a08c8f0c95ec37b182731b1f00fb7bae6d5cf9fda1"
 metafile = true
 
 [[files]]
