@@ -14530,7 +14530,7 @@ hash = "6a10af7712a1f04c6122059d6501a1a393471aaf453ab381c40cd1643081ff74"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "1890f23fb35398ff76d47f44a4f6ea89238d3f15ea0e61e8d31b8c547c7d715e"
+hash = "db538d88bb9b91d929f5329155443803434df27aa0d72393ee654c2f307b940f"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
