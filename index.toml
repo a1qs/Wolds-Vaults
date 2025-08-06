@@ -398,7 +398,7 @@ hash = "c2ba9aa0823991cd552380a28da619b7e3f1d262cd5f6ccfe09f86d156a297e9"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "22a70bec035a499fd5e8fa89fc3bb38559a22a7f3b8988f49f8de7b177ef6e83"
+hash = "e08469bc5c8e7a498a3d98433f668dc3e80707745d7f12e4d16f4f547b52614b"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
@@ -582,7 +582,7 @@ hash = "4d31b5e27ec15023882ad3499b75c14b99b5c75f19d2ddbc469e37af2c2925d3"
 
 [[files]]
 file = "config/the_vault/gear/gear_roll_type_pools.json"
-hash = "9fe6378033488ca64f5a4581380732bff366718bd5ad26225226fb07c310ac45"
+hash = "086206a3e24546398194694ca849f2eca389e0f0399b9e0441ec4234c7f46aa5"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
@@ -1530,11 +1530,11 @@ hash = "c5db1a2397263a27505c66bc8f64b245d98fde6124bd663c5164e322d0efe20c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "ae29e3ee87d4aec20249f31692139c2738d0682de974f772000566995b791248"
+hash = "8ce29e183ba2f8f9d4faf0769cf648f0432b8326f1a238966e11c51233909798"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_map.json"
-hash = "bd882a389949ac0cc28845bb20bbdd7a4fb7e1bb873e2292f8a438cee3316cd4"
+hash = "e82c65d968831162e7d78698d9c43edb96cae9f30e080c6ec15df0fd49120a7e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_stand_50.json"
