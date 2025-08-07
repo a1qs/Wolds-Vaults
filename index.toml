@@ -14614,7 +14614,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "8612ee7ddb59daf9c125073c02fec964acf3262b7a65fad325e7ea2d27bddde6"
+hash = "44c9d4d2fa9128708685dcdd36cd647f227643be1577287f9c0a9b1586a05bfe"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"

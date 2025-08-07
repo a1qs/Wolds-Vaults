@@ -2769,6 +2769,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:enigma_chest_scroll"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 50,
+            "MAX_COST": 150
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "woldsvaults:capstone_all_seeing_eye"
             },
             "CURRENCY": "the_vault:vault_gold",
