@@ -10,7 +10,7 @@ hash = "793f7cb2c3df92f832445b365daaf68e9663489de0d4233434589ca449136337"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0c0e9b08a483e3bc93fd08f94cc0715e3138758bef6e86d12b94b9e7bb3454fa"
+hash = "cd70dd716aa9b252a1a1e9784d03cc8512302c710cd925240a20dbfd01dd3a88"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -602,7 +602,7 @@ hash = "cc5a6d938b66cd59511e05bd98b1797c28f7a5f47401331bf92a921d496345c5"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe_mythic.json"
-hash = "b0ee983b038d967ae6e1fef95c977928957fe2d8b5f3a1457fba8aab22e5182a"
+hash = "797d9cd91bf6eebcf92a32cb8794595bb1077464ec76fb5627c8a38f34620d54"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
@@ -610,7 +610,7 @@ hash = "8d13f9f24b5c042bcdb27cb4448a55589b11bab63e5bc49ce9530f4b7f5c72de"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff_mythic.json"
-hash = "7d26515ed304539f441b563126c53992ac73faaa0437027c2dc86eae8d7e687d"
+hash = "6ac6b694f2045a639ea1ff67ab81121e0fcbc81f5d91ce244d2542e7f52566d1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
@@ -646,11 +646,11 @@ hash = "666d1f64156b985586801e64765711ce4297ca12aa6d7f11f2c583e96c201e69"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "7d51fa3abe848d9f367930f913aaf01e6e4d61bf89557bd2c62b5d0cce1d0ad4"
+hash = "bea27ccf5303bee1bd8a65951c66eb28e7306065f72c9b2575af4890178509c7"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet_mythic.json"
-hash = "9a1b5dc705c91835d819ddba695723347d4ae4a8f82265e8873cf6b4e7f08a8d"
+hash = "cb4cff2ddabd3e02d543a3ef20ccc1c2efd818d9f88f83c5c988b9d27c2e7264"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -734,11 +734,11 @@ hash = "f1924835a108922b61c7382c86be5e33469137d4082ecfdaeeb5882ebfee1a68"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/rang.json"
-hash = "b425428d1aee8c50a00671b55a71d55f7381b70299e75ffa0a6a970ece8be2fe"
+hash = "4ff767fb612376ca18f89b64aa2aa7e3c921679f80b4631bf08767acf4bafeb0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/rang_mythic.json"
-hash = "2240f9cfcd46c107f2b0582339548b0ffcc54045bd0d65c6761120de08ee1b49"
+hash = "0406209d1d2a8a4c87a7a1518f5813af0024e1695154ea4cb6325ab3edba5700"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
@@ -754,7 +754,7 @@ hash = "817d3452e67752b00d5dfb77b522d45f92ec7022d1e44f7f3f87f370c8c3f2f4"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword_mythic.json"
-hash = "8050cfb7518afba72c5e75606eaa36e7c68ba7b91e3cae1856729c3e4704b16c"
+hash = "02d96266a0e4193350d9e5b52e95cc093829b06cc465558f1ccf51aedccc0d34"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
@@ -762,7 +762,7 @@ hash = "a957bf94eaa9ed4049384890cf46b8ae4804e625de4ac7f407b5c010c9ea4c9e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident_mythic.json"
-hash = "fbc357932a6a7d7b7a8ae118f7aba750ffdfe55091c9d12688bc28d7cd5fed85"
+hash = "364f1159af74a6b0f43438d060576e1a195f68e4df7149df8ed17efd67f5d504"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -14934,7 +14934,7 @@ hash = "5d17dee8ae4769e3bbcfa2c6967447200a45bdcc5a91bd1f7737eb9f73f913c5"
 
 [[files]]
 file = "config/the_vault/vault_rune_boss.json"
-hash = "e7f43cb88deb4828dd8141b98a916ab7891ec7f51643d213ff891a5cb6f86479"
+hash = "65545f4c82dc7929368564a7e6d5b3b8491ccc897ee54c93bb12c31e0de19d34"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
@@ -15622,7 +15622,7 @@ hash = "bbd2420b4bb07f2b865f8d2785eac4a347322fecabf736ea79817d3bf665d8f2"
 
 [[files]]
 file = "configureddefaults/config/cloud-storage.toml"
-hash = "d61209463b2ca45f2a69d623c6016c626342247c9cebf6ac8fa94348d10cd1e9"
+hash = "370e84ff160027c3ed2e4ffafafb29f4438e06d3edb24d7a0e66c63b388ecf6a"
 
 [[files]]
 file = "configureddefaults/config/cofh_core-client.toml"
@@ -20242,7 +20242,7 @@ hash = "c995a7de71c427ffc362e75bdd3136726e89d1094775ad3650b0d5791ec85be4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "ee79814238fa222fcee1caaac0734cd984a771e866ef3fa3992945092c2e52ba"
+hash = "250ac5942dbaf1ba688eec5b9f33a34348ce704882198bfe8841e111cc3db788"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -20322,7 +20322,7 @@ hash = "cd5ff33c4e9001c7ef46600def03321ba57d56d34cd2678d90101c15c4e1eb79"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "3e0c8eb69d31ad6060a342f7a0d2387df8cfcd809c61e16799a3559dbbd8b7c0"
+hash = "9530ec39086aaf6b88e214e0846693a2172811e00a43c7b19b3d1e589afa53f4"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
@@ -21452,7 +21452,7 @@ metafile = true
 
 [[files]]
 file = "mods/modded-item-borders.pw.toml"
-hash = "9aa2e8aa5867fdad3abdb647c3fcc77a84acceeb0a85a2fd7b6a3b46dedeee66"
+hash = "90607fdaeec331c90b33982d03142b922d001066d84ae3c23500bfaf162f2de7"
 metafile = true
 
 [[files]]
@@ -21690,7 +21690,7 @@ metafile = true
 
 [[files]]
 file = "mods/qol-hunters.pw.toml"
-hash = "7fe33151617490c12a97f8629cc6968dd0f8dc05dbd4fbbdcb81e6b6aea78dc1"
+hash = "bb81342c3cd3f2d9230395a08c8f0c95ec37b182731b1f00fb7bae6d5cf9fda1"
 metafile = true
 
 [[files]]
@@ -22064,7 +22064,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-official-mod.pw.toml"
-hash = "e830024f80d6e0a15520540249b6557b6966ee7cb9ec899460df1d33ba4c5adf"
+hash = "8f0e0998a4351f41d36867e6188c7378f468bfe429dee6c367acd0af54e6e05e"
 metafile = true
 
 [[files]]
