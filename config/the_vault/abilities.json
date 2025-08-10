@@ -10561,6 +10561,176 @@
                 "cooldownTicks": 0,
                 "unlockLevel": 0,
                 "id": "chain miner XV: 8 (6)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 10,
+                "range": 6,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XVI: 10 (6)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 6,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XVII: 12 (6)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 7,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XVIII: 8 (7)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 10,
+                "range": 7,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XIX: 10 (7)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 7,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XX: 12 (7)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 8,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXI: 8 (8)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 10,
+                "range": 8,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXII: 10 (8)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 8,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXIII: 12 (8)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 9,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXIV: 8 (9)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 10,
+                "range": 9,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXV: 10 (9)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 9,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXVI: 12 (9)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 10,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXV: 8 (10)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 10,
+                "range": 10,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXVI: 10 (10)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 10,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXVII: 12 (10)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 11,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXVIII: 8 (11)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 10,
+                "range": 11,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXIX: 10 (11)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 11,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner XXX: 12 (11)"
               }
             ]
           }

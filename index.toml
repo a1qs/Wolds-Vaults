@@ -206,7 +206,7 @@ hash = "c086a85a8321d8cc2cc6ed06a0968b11f0d8e4d3c3b97b5c969e8a0ef4d1f8c3"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "80b250a56abe805c2e39638714488e6c4104929006dafeb9452daa5b6681765c"
+hash = "205f75bb3ece956de23124d21d29e62de6948ef5198b085ba89a0b24d4ac1f15"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
