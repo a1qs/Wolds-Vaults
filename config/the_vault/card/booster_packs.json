@@ -64,6 +64,71 @@
         }
       ]
     },
+    "the_vault:deluxe_stat": {
+      "name": {
+        "text": "Deluxe Stat Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/deluxe_stat_pack#inventory",
+        "opened": "the_vault:booster_pack/stat_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 3,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "RED",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_stat",
+              "probability": 1.0,
+              "condition": "@deluxe_stat"
+            }
+          ],
+          "weight": 9
+        },
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_stat",
+              "groups": [
+                "Foil"
+              ],
+              "scaler": "",
+              "condition": "@deluxe_stat",
+              "probability": 1.0
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
     "the_vault:arcane_pack": {
       "name": {
         "text": "Arcane Booster Pack"
@@ -160,6 +225,159 @@
               "modifier": "@arcane",
               "probability": 1.0,
               "condition": "@default"
+            }
+          ],
+          "weight": 9
+        }
+      ]
+    },
+    "the_vault:knack_pack": {
+      "name": {
+        "text": "Knack Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/knack_pack#inventory",
+        "opened": "vhapi:booster_pack/knack_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 3,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "RED",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@knack",
+              "probability": 1.0,
+              "condition": "@knack"
+            }
+          ],
+          "weight": 9
+        }
+      ]
+    },
+     "the_vault:deluxe_knack_pack": {
+      "name": {
+        "text": "Deluxe Knack Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/deluxe_knack_pack#inventory",
+        "opened": "vhapi:booster_pack/knack_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 3,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "RED",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_knack",
+              "probability": 1.0,
+              "condition": "@deluxe_knack"
+            }
+          ],
+          "weight": 9
+        }
+      ]
+    },
+    "the_vault:mega_knack_pack": {
+      "name": {
+        "text": "Mega Knack Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/mega_knack_pack#inventory",
+        "opened": "vhapi:booster_pack/mega_knack_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 5,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "RED",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@knack",
+              "probability": 1.0,
+              "condition": "@knack"
             }
           ],
           "weight": 9
@@ -399,6 +617,69 @@
           "value": [
             {
               "modifier": "@resource",
+              "groups": [
+                "Foil"
+              ],
+              "condition": "",
+              "probability": 1.0
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    "the_vault:deluxe_resource_pack": {
+      "name": {
+        "text": "Deluxe Resource Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/deluxe_resource_pack#inventory",
+        "opened": "the_vault:booster_pack/resource_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 3,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "RED",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_resource",
+              "probability": 1.0
+            }
+          ],
+          "weight": 9
+        },
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_resource",
               "groups": [
                 "Foil"
               ],
@@ -666,14 +947,6 @@
         {
           "value": 1,
           "weight": 3.0
-        },
-        {
-          "value": 2,
-          "weight": 2.0
-        },
-        {
-          "value": 3,
-          "weight": 1.0
         }
       ],
       "color": [
@@ -703,7 +976,27 @@
               "condition": "@default"
             }
           ],
-          "weight": 9
+          "weight": 50
+        },
+         {
+          "value": [
+            {
+              "modifier": "@knack",
+              "probability": 1.0,
+              "condition": "@knack"
+            }
+          ],
+          "weight": 40
+        },
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_knack",
+              "probability": 1.0,
+              "condition": "@deluxe_knack"
+            }
+          ],
+          "weight": 10
         }
       ]
     },
@@ -1024,18 +1317,6 @@
       ],
       "color": [
         {
-          "value": "GREEN",
-          "weight": 0.0
-        },
-        {
-          "value": "BLUE",
-          "weight": 0.0
-        },
-        {
-          "value": "YELLOW",
-          "weight": 0.0
-        },
-        {
           "value": "RED",
           "weight": 1.0
         }
@@ -1048,7 +1329,7 @@
               "probability": 1.0
             }
           ],
-          "weight": 6
+          "weight": 7
         },
         {
           "value": [
@@ -1125,6 +1406,19 @@
             }
           ],
           "weight": 3
+        },
+           {
+          "value": [
+            {
+              "modifier": "@deluxe_resource",
+              "groups": [
+                "Foil"
+              ],
+              "condition": "",
+              "probability": 1.0
+            }
+          ],
+          "weight": 1
         }
       ]
     },
@@ -1150,19 +1444,7 @@
       ],
       "color": [
         {
-          "value": "GREEN",
-          "weight": 1.0
-        },
-        {
           "value": "BLUE",
-          "weight": 1.0
-        },
-        {
-          "value": "YELLOW",
-          "weight": 1.0
-        },
-        {
-          "value": "RED",
           "weight": 1.0
         }
       ],

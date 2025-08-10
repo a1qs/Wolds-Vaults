@@ -110,6 +110,78 @@
                 "MAX_COST": 80
           },
           "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:shield",
+              "nbt": "{\"the_vault:is_etched\": \"true\",\"the_vault:gear_roll_type_pool\": \"etching_vendor\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 40,
+            "MAX_COST": 80
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:magnet",
+              "nbt": "{\"the_vault:is_etched\": \"true\",\"the_vault:gear_roll_type_pool\": \"etching_vendor\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 40,
+            "MAX_COST": 80
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:focus",
+              "nbt": "{\"the_vault:is_etched\": \"true\",\"the_vault:gear_roll_type_pool\": \"etching_vendor\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 40,
+            "MAX_COST": 80
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:wand",
+              "nbt": "{\"the_vault:is_etched\": \"true\",\"the_vault:gear_roll_type_pool\": \"etching_vendor\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 40,
+            "MAX_COST": 80
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:plushie",
+              "nbt": "{\"the_vault:is_etched\": \"true\",\"the_vault:gear_roll_type_pool\": \"etching_vendor\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 40,
+            "MAX_COST": 80
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:loot_sack",
+              "nbt": "{\"the_vault:is_etched\": \"true\",\"the_vault:gear_roll_type_pool\": \"etching_vendor\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 40,
+            "MAX_COST": 80
+          },
+          "weight": 10
         }
       ]
     }

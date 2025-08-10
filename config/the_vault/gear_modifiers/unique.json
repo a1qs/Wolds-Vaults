@@ -2274,10 +2274,8 @@
             }
           }
         ]
-      }
-    ],
-    "PREFIX": [
-       {
+      },
+      {
         "attribute": "the_vault:added_talent_level",
         "group": "ModTalent",
         "identifier": "the_vault:u_all_talents",
@@ -2293,7 +2291,9 @@
             }
           }
         ]
-      },
+      }
+    ],
+    "PREFIX": [
       { 
         "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
@@ -6941,26 +6941,6 @@
             "weight": 60,
             "value": {
               "abilityKey": "Vein_Miner_Chain",
-              "levelChange": 1
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:added_ability_level",
-        "group": "ModLvlUtility",
-        "identifier": "the_vault:corrupted_added_ability_level_veinminervoid",
-        "tags": [
-          "focusAbilityPower",
-          "focusAbilityPowerVeinMiner"
-        ],
-        "tiers": [
-          {
-            "minLevel": 25,
-            "maxLevel": -1,
-            "weight": 60,
-            "value": {
-              "abilityKey": "Vein_Miner_Void",
               "levelChange": 1
             }
           }
