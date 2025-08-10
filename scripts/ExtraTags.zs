@@ -132,6 +132,13 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:focuses>.add(<item:the_vault:empowered_chaotic_focus>);
 <tag:items:the_vault:focuses>.add(<item:the_vault:cryonic_focus>);
 <tag:items:the_vault:focuses>.add(<item:the_vault:pyretic_focus>);
+<tag:items:the_vault:focuses>.add(<item:the_vault:vorpal_focus>);
+<tag:items:the_vault:focuses>.add(<item:the_vault:adaptive_focus>);
+<tag:items:the_vault:focuses>.add(<item:woldsvaults:stylish_focus>);
+<tag:items:the_vault:focuses>.add(<item:woldsvaults:eccentric_focus>);
+<tag:items:the_vault:focuses>.add(<item:woldsvaults:blazing_focus>);
+<tag:items:the_vault:focuses>.add(<item:woldsvaults:animate_focus>);
+<tag:items:the_vault:focuses>.add(<item:woldsvaults:suspension_focus>);
 
 // Seals
 <tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_empty>);
