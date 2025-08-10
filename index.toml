@@ -22126,8 +22126,8 @@ hash = "acc6c7c0126af8a08c4324c71371dbcff84024f7b0c408e07aba1d48d2c36b9f"
 metafile = true
 
 [[files]]
-file = "mods/wolds-vaults-official-mod-0.21.6-slim.jar"
-hash = "85a47954b79ae88db43577e7d282064d90198d07c59a7213f577b2095d460150"
+file = "mods/wolds-vaults-official-mod-0.22.0-slim.jar"
+hash = "bac0de0309aa59db890a8a0c24d52ef414ebed6803cdc1a4252e7866929dace7"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
