@@ -3910,7 +3910,7 @@ hash = "d083e4aad60a695437cdb8f25bc27147ca87f07cedb268a608f14ce67fe93060"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_lost_depths.json"
-hash = "fba06c7a457087d6784b36f4e58b043f2d5eead26e9c27d8f94ad43798f681a7"
+hash = "4e4a5df0e95358d0a025d04d480bd961699c02cc735897ec4d48d7fc73165a82"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_lush_cave.json"
