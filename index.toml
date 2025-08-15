@@ -362,7 +362,7 @@ hash = "8a245ef81195df152e206cb6e4f60e6891ba084d731f48b44f1eaa52a73981c2"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
-hash = "7d067d29f9af5648a3995380b927f9c68576396efc6d46cd6ab137e2fe3b28ca"
+hash = "b43f8fd5393e618c0283857ca1381352f163cde59add692e0c48933de48917b2"
 
 [[files]]
 file = "config/the_vault/card/conditions.json"
@@ -378,7 +378,7 @@ hash = "1d286e4c4c3c7bb4d9478b54cf490b82e69444749fec86ac0b84ccf05d5dc183"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "025dce3277db777379f620fbfe86ffb9891615d0dd3b86fb09ea3f781a089418"
+hash = "f9b4fa518b87eb2ee8684b39aaafc4d80188accc14aded5763e1564db2d680d3"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -758,11 +758,11 @@ hash = "02d96266a0e4193350d9e5b52e95cc093829b06cc465558f1ccf51aedccc0d34"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "a957bf94eaa9ed4049384890cf46b8ae4804e625de4ac7f407b5c010c9ea4c9e"
+hash = "2eef38303302a8ee77a743e95d1b4ee2e3d80752511907261f630c80d7f32022"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident_mythic.json"
-hash = "364f1159af74a6b0f43438d060576e1a195f68e4df7149df8ed17efd67f5d504"
+hash = "aeb37c296de80e97e2831070699d21120444ccfb385e74f9cf2e5d63fe3fa803"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -3518,7 +3518,7 @@ hash = "a1f171d6c8abd43eec547a5080f2d456baa056b110ee738557b1f10f8540a845"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/base_map.json"
-hash = "b9f8e64884c63a9ee58863bea3ab9d3adf70cf99cec6c6ac6aa909061571bff9"
+hash = "7a82b43c03af05522816369841e5c0ce2a5a102056b811dff014e1620c14cfdc"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/base_objective.json"
@@ -3534,7 +3534,7 @@ hash = "cdb1b8e444250e04bb2eb7e5ad09ee89ae79be6b7ab16a3783e438139fd09516"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/infinite_objective_hard.json"
-hash = "f919d511a7f9da0664215780d97e2e782f4d96d37e74eb2ee9c26ec4da232fa8"
+hash = "e33d64766fd294d5e781e3682b796b9ff24aaa2adccd33f3f75acd7776d05f8d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/objective.json"
@@ -11478,7 +11478,7 @@ hash = "c09f4a5f79b972b07dcf7da5c17cf85e27f4cc3db669bf66c0d02bd5dae0a2ff"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/village_map.json"
-hash = "2768bc18825afd61a9b6c8f51d1d42aaaaa0f6563917a9162adaba2e794041b2"
+hash = "d3574dffabca4748c1d78fbc9a0eba17362e5d4d8bc6a7bb9293c380a89fe2a4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/wildwest.json"
@@ -14294,7 +14294,7 @@ hash = "e0d6f20aa92fc470b8e5ca54d5cfbaa7cf88564833a8a24fd3cc0d412624a982"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "3da9585d5a22d8e5047ef0849f9ad8fafa7ef904f6a940ee18126c88dc79f5ac"
+hash = "6f98566f64a86efa798555455c374082bab6283e146200b76d3a3dcee4ba0fa0"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -14494,11 +14494,11 @@ hash = "4cb75dd1785c07fa7c42427f3244f45996694883a729d9629c8704c0a85e030a"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "9c00117b0d4bfaf0b3e3a9a361fd93fdf1e99389eaa88eccd72123c5901510a4"
+hash = "7092050d3169409f3eccfec37f59c2c31f289de5c97031c3f9378da0c04a7e0e"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
-hash = "8d1602635f88eb38f7b405b4eceaf4e7b1cb13ede719fe3a32bcfc2cebeb7847"
+hash = "b178706a80e62f4be4ce435550b380e446a5fac05026046aeba8f8d9cb706f9d"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
@@ -14522,7 +14522,7 @@ hash = "575aa69893611d8897ff09d98e31d73fe1d7300d40e4752edf0ef943d2d778df"
 
 [[files]]
 file = "config/the_vault/recipe_unlocks.json"
-hash = "9d757b2aa34cf0126d558c83aff9718fde656ce07db40ff45985a05d2446843f"
+hash = "dc3f5165029757e2615a96d7b362239e171d5c629d8388e0542f3af9eeb66065"
 
 [[files]]
 file = "config/the_vault/recipes/augment_recipes.json"
@@ -14542,7 +14542,7 @@ hash = "47fbd36f972233bed4f5ea9ce213e50913b7b1ab2616af94cc99b6bb3af5ea2c"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
-hash = "efeafc748cb819bb1060e8a5c79765a26ec9abbdfad195a5cd6ff6dec93640f1"
+hash = "15cf64f5e5b44d5e441ad54a275fe15dd2d883b13427a3f568eb8c6c5f51aedf"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_recipes.json"
@@ -14622,7 +14622,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "b1592c3dac406ebc6f67618c912026e97fec3effc0a9759467105f36747cc18f"
+hash = "0bf83230f2c8609a0d1c98ca467abe1696bbd4be1ff6b03ced275e5d6c27477a"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -20996,6 +20996,11 @@ hash = "f464a4f0efd7599c295d8e97d08561da88a4480e00e3e2da673d216da143186e"
 metafile = true
 
 [[files]]
+file = "mods/forge-client-reset-packet-forward.pw.toml"
+hash = "8c8231bed39ffa87269033026c8a5abd2952320b68414b6429684763aa68814b"
+metafile = true
+
+[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "39247d2cde877832c4e10a94a691c38ee4d2ff872dda9b561a6f111959a25bb0"
 metafile = true
@@ -23778,6 +23783,10 @@ hash = "de1d6782f9663938e3f296b2c1b7e445123cdd8824ea60de6f27afe6c1b16d02"
 [[files]]
 file = "resourcepacks/KFocus-WoldsV1.02.zip"
 hash = "283850891bd6144fb8a4c421e312dc0e12c6d46cb948bbb12e95cdfcb0c94d44"
+
+[[files]]
+file = "resourcepacks/Remove guardian beam.zip"
+hash = "d7924d5b1183dfcb35791c9a582d88f16512d18bd97d2bb8ea3f32f22838b3fa"
 
 [[files]]
 file = "resourcepacks/VH_Rainbow_XP_Bars.zip"
