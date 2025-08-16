@@ -362,7 +362,7 @@ hash = "8a245ef81195df152e206cb6e4f60e6891ba084d731f48b44f1eaa52a73981c2"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
-hash = "b43f8fd5393e618c0283857ca1381352f163cde59add692e0c48933de48917b2"
+hash = "a80e7567cdd943d58e3e67d79e88ff1a759dbeed6140b79ddb60ba76ec538264"
 
 [[files]]
 file = "config/the_vault/card/conditions.json"
@@ -378,7 +378,7 @@ hash = "1d286e4c4c3c7bb4d9478b54cf490b82e69444749fec86ac0b84ccf05d5dc183"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "f9b4fa518b87eb2ee8684b39aaafc4d80188accc14aded5763e1564db2d680d3"
+hash = "4c93868e3b28b19bc210c92b9ed64f546d872b2cc2e27fe916689a66bff47f66"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -394,7 +394,7 @@ hash = "aff7b81d79152800045cbfe2bb7bbd651df647d57a34ed942d1a7f744f7391e6"
 
 [[files]]
 file = "config/the_vault/card_shop_pedestal.json"
-hash = "c2ba9aa0823991cd552380a28da619b7e3f1d262cd5f6ccfe09f86d156a297e9"
+hash = "93bce4a03afd8462aef9e62e296269ee0a46c818cdf84b84c9743c19c3e666d6"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
@@ -602,7 +602,7 @@ hash = "cc5a6d938b66cd59511e05bd98b1797c28f7a5f47401331bf92a921d496345c5"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe_mythic.json"
-hash = "797d9cd91bf6eebcf92a32cb8794595bb1077464ec76fb5627c8a38f34620d54"
+hash = "4989fb3553d1f5fb8f4f36c80b5456624e70bf0dc7186f34b04f049881724e89"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
@@ -966,19 +966,19 @@ hash = "ecbccebd11e6448aaeaaff30e5556ab67f145a7e16282e76db872444730f3545"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_100.json"
-hash = "de3844e7249a206f3848272d7d110c56ba69060d2590b379c264489b7f77431d"
+hash = "5e3d4c898c101b5987796740b936659233e14e9fac5a9d04326324e6f123dee3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_50.json"
-hash = "9e50733cf756b4b399874cae0eccd333b91db28bbbe3d299ee1e5714c881a77d"
+hash = "765a9285581b5711f3e81b40f74f4b80e97e16896488c1e9c280f527c195afc4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_100.json"
-hash = "eb030ae8a3b6bda15b82deb1d6ef074192eb2956b20ddb9516fc109c18acd445"
+hash = "38cd552686e83e54750a81441fd2be626585b7394a3c645c81f4bf0f7a344716"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_50.json"
-hash = "f7106e380de212c3e04ca5ec556713b2ac726fa984ab00e3ac6d89b24222efc4"
+hash = "b670f639d3cc8bd33f502d98ba6636c2b247bce23cfd0975f39938148fd82bde"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_50.json"
@@ -1478,7 +1478,7 @@ hash = "16c66a17474f1d8d0ce884768c4b2422ef288568c798b73f096829a629ee0f73"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/royale_loot_cards.json"
-hash = "57afb2239822723aae11717098a604c1f3121ebf3eea6d78eb22459c6b110508"
+hash = "c7309c367bd47778293c9f3d8b8ce62cc309240a404273e1ab93555adbcede94"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/royale_loot_fruit.json"
@@ -14494,7 +14494,7 @@ hash = "4cb75dd1785c07fa7c42427f3244f45996694883a729d9629c8704c0a85e030a"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "7092050d3169409f3eccfec37f59c2c31f289de5c97031c3f9378da0c04a7e0e"
+hash = "81cd842110f1f8a8bf6371cf23b1db0ea0a93cd2fe133d7048ddf6200c09f7d0"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
@@ -20518,7 +20518,7 @@ metafile = true
 
 [[files]]
 file = "mods/black-market-tweaks.pw.toml"
-hash = "7d75cca8c66d7565ec48a55417984dedf362b3af2aebb94d3d147552a874f786"
+hash = "b182059fb29031d9f050b96daf641a338e7846a9cb7985774848f046a0c65596"
 metafile = true
 
 [[files]]
@@ -21242,7 +21242,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-vh.pw.toml"
-hash = "c614ff42b5c78f4199d4e569eea1faa8b647e2160057cb9d9e422e8d03f56f1d"
+hash = "3885c424f6e2e101d271969086cf448777ca61eee076fd9e7702bb421a4b4f7c"
 metafile = true
 
 [[files]]
