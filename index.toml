@@ -14494,7 +14494,7 @@ hash = "4cb75dd1785c07fa7c42427f3244f45996694883a729d9629c8704c0a85e030a"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "a482579c78208df37bfc5fb40840f633c06dbf1c516c02ac4b6acc94f2bf3c5d"
+hash = "d2a3d9ee73317c8262a01c681c488e9b3d6a8008bafc8a44bd4a40096452626d"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
