@@ -590,7 +590,7 @@ hash = "36d1254b8ef545257328b6ae0105c291f79975ac24b0f0f0c084800c4a247bff"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
-hash = "1194f5c117a11de2c4d6e8fd6d9b0aaa8d8095c0dbc8dfe60b4c7b9a4085f560"
+hash = "e464208484f49aded17e20a644e47c715b84b600d248f8c3f10fc6bf0b5b6ce4"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
