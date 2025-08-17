@@ -246,7 +246,7 @@ hash = "e9f979ca1f76e81801e089b625196b11d569c48bce7e4178c551a607f97381d5"
 
 [[files]]
 file = "config/the_vault/alchemy_objective.json"
-hash = "ecc7858eb9e32f0d8689c52d0e333e2ec1c5cf295325b9a8a22b51e08ae19ef0"
+hash = "a8687e6b6ad40266c9c9e369df9a04379c93d4a30a060d0ec0fb4e3cb07f14ad"
 
 [[files]]
 file = "config/the_vault/alchemy_table.json"
@@ -590,7 +590,7 @@ hash = "36d1254b8ef545257328b6ae0105c291f79975ac24b0f0f0c084800c4a247bff"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
-hash = "4af1fd974c98c1acd9ed60c6ad9125edc834786a85704564b1d4d955b4cda330"
+hash = "1194f5c117a11de2c4d6e8fd6d9b0aaa8d8095c0dbc8dfe60b4c7b9a4085f560"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
@@ -630,7 +630,7 @@ hash = "fde766e1643416f49cde364bd36f17c84f90d2e08d31567e8f2e8cca9c542d9b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/chestplate_mythic.json"
-hash = "15ac3da75eeba46ee07a8fcb414f73e0c43ff8f3aad1fe48f01bea0609e3e63e"
+hash = "1e812ece712f13a2729668fbb5972a506ab4b69d2d5e1bb660ea4853874c1d86"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/drink.json"
@@ -678,7 +678,7 @@ hash = "f1efce3f80294dd3646ef1bd5d9cf4d22679ac64e8aae923828b2b8ba02fb325"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings_mythic.json"
-hash = "0152cca2f968566bd7edd790963cec48fe300ff4f81acce381a16887d1785518"
+hash = "2c80fb27fbd5681854200c6543ab5e47cf3926e447785ce33a38f6ecab1efd3f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/loot_sack.json"
@@ -3722,7 +3722,7 @@ hash = "e9328e011676f8405c6bfb1f031ce3ef35eadfd5326189722074160b7c312772"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/special/boss/base.json"
-hash = "fd01fc94f12ca52e2e9e29f2bbd4692df953008d82a1b4952ae942b5f7754ad4"
+hash = "2c154e8cd5ce7196343b6c3c1cdd5ed350fac97ba83988f3ea78df3372e8efdc"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/special/boss/boss1.json"
@@ -14434,7 +14434,7 @@ hash = "f6a1d0b68c76875c229ecfdd56c7516b3c2c9bbdefb2c3ee2138b480a21807a8"
 
 [[files]]
 file = "config/the_vault/omega_box.json"
-hash = "3182f8fd0faec6273c9643c684690e23595232be86406b3e049cc6040f66910f"
+hash = "3b76dde47f264638271fcbed7e1b73b611b34c87f5ea7681c89374e6bb42a51c"
 
 [[files]]
 file = "config/the_vault/omega_shop_pedestal.json"
@@ -14494,7 +14494,7 @@ hash = "4cb75dd1785c07fa7c42427f3244f45996694883a729d9629c8704c0a85e030a"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "81cd842110f1f8a8bf6371cf23b1db0ea0a93cd2fe133d7048ddf6200c09f7d0"
+hash = "a482579c78208df37bfc5fb40840f633c06dbf1c516c02ac4b6acc94f2bf3c5d"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
@@ -14566,7 +14566,7 @@ hash = "6d5e83d7eecc0ffaf91e7ed5a279aff454cb3367391c0af1df6b1d3c34bc68f0"
 
 [[files]]
 file = "config/the_vault/recipes/weaving_recipes.json"
-hash = "e9294857a7162e8d606cc38928f7350f10bffda98387153e3150a2b8db906f2a"
+hash = "666976543e3348413e40e6569dd499e3c5ebed254f5644b944dec2cf1790df7d"
 
 [[files]]
 file = "config/the_vault/research_exclusions.json"
@@ -14622,7 +14622,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "0bf83230f2c8609a0d1c98ca467abe1696bbd4be1ff6b03ced275e5d6c27477a"
+hash = "c52082a7ac8d0a15a993915bf159cb9835722a660eb08588da6eb1bc5dbab7da"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -14838,7 +14838,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "f245be970c946a5b03aa5da2760a25ad9620623b8d5a322fadb6f2b5f29f2005"
+hash = "fc20aea6d72927232dec76705404be5af1969ee50feae846b5ef11b0d3003a3c"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -22113,6 +22113,11 @@ metafile = true
 [[files]]
 file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"
 hash = "32589fee2ec2dc23c2fa3400e337d3ad0dfcb33075312198475662e43a1cbdf9"
+metafile = true
+
+[[files]]
+file = "mods/void-world.pw.toml"
+hash = "5efe53e3b80e3fb6542e7ed9f3bbc7cd92eaf3305483c2554aac941b6790684d"
 metafile = true
 
 [[files]]
