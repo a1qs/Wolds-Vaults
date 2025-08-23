@@ -3420,7 +3420,7 @@
       "pool": [
         {
           "tier": 1,
-          "talentKey": "Deluxe_Bountiful_Harvest",
+          "talentKey": "Bountiful_Harvest",
           "levelChange": 2
         }
       ],
@@ -4110,7 +4110,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Heal_Base",
+          "abilityKey": "Heal",
           "levelChange": 1
         }
       ],
@@ -4170,7 +4170,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Dash_Base",
+          "abilityKey": "Dash",
           "levelChange": 1
         }
       ],
@@ -4190,7 +4190,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Ghost_Walk_Base",
+          "abilityKey": "Ghost_Walk",
           "levelChange": 1
         }
       ],
@@ -4270,7 +4270,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Nova_Base",
+          "abilityKey": "Nova",
           "levelChange": 1
         }
       ],
@@ -4330,7 +4330,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Mega_Jump_Base",
+          "abilityKey": "Mega_Jump",
           "levelChange": 1
         }
       ],
@@ -4370,7 +4370,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Rampage_Base",
+          "abilityKey": "Rampage",
           "levelChange": 1
         }
       ],
@@ -4430,7 +4430,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Smite_Base",
+          "abilityKey": "Smite",
           "levelChange": 1
         }
       ],
@@ -4470,7 +4470,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Empower_Base",
+          "abilityKey": "Empower",
           "levelChange": 1
         }
       ],
@@ -4530,7 +4530,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Hunter_Base",
+          "abilityKey": "Hunter",
           "levelChange": 1
         }
       ],
@@ -4571,7 +4571,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Taunt_Base",
+          "abilityKey": "Taunt",
           "levelChange": 1
         }
       ],
@@ -4631,7 +4631,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Stonefall_Base",
+          "abilityKey": "Stonefall",
           "levelChange": 1
         }
       ],
@@ -4691,7 +4691,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Totem_Base",
+          "abilityKey": "Totem",
           "levelChange": 1
         }
       ],
@@ -4771,7 +4771,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Javelin_Base",
+          "abilityKey": "Javelin",
           "levelChange": 1
         }
       ],
@@ -4851,7 +4851,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Fireball_Base",
+          "abilityKey": "Fireball",
           "levelChange": 1
         }
       ],
@@ -4931,7 +4931,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Storm_Arrow_Base",
+          "abilityKey": "Storm_Arrow",
           "levelChange": 1
         }
       ],
@@ -4951,7 +4951,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Battle_Cry_Base",
+          "abilityKey": "Battle_Cry",
           "levelChange": 1
         }
       ],
@@ -5051,7 +5051,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Shell_Base",
+          "abilityKey": "Shell",
           "levelChange": 1
         }
       ],
@@ -5132,7 +5132,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Arcane_Base",
+          "abilityKey": "Arcane",
           "levelChange": 1
         }
       ],
@@ -5172,7 +5172,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Earthquake_Base",
+          "abilityKey": "Earthquake",
           "levelChange": 1
         }
       ],
@@ -5212,7 +5212,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Chain_Lightning_Base",
+          "abilityKey": "Chain_Lightning",
           "levelChange": 1
         }
       ],
@@ -5252,7 +5252,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Grenade_Base",
+          "abilityKey": "Grenade",
           "levelChange": 1
         }
       ],
@@ -6536,8 +6536,7 @@
       },
       "model": "the_vault:vault_silver#inventory",
       "groups": [
-        "Resource",
-        "Deluxe"
+        "Resource"
       ],
       "loot": [
         {
@@ -6547,7 +6546,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@medium",
       "count": [
         {
           "tier": 1,
@@ -6578,6 +6577,55 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
+    "resource_gold": {
+      "type": "task_loot",
+      "name": {
+        "text": "Vault Gold Card"
+      },
+      "model": "the_vault:vault_gold#inventory",
+      "groups": [
+        "Resource",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_silver"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Vault Gold ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
     "resource_focus_waning": {
       "type": "task_loot",
       "name": {
@@ -6596,7 +6644,7 @@
           }
         }
       ],
-      "task": "@hard",
+      "task": "@extreme",
       "count": [
         {
           "tier": 1,
@@ -6645,7 +6693,7 @@
           }
         }
       ],
-      "task": "@hard",
+      "task": "@extreme",
       "count": [
         {
           "tier": 1,
@@ -6742,7 +6790,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -6861,6 +6909,153 @@
         },
         {
           "text":  " Mod Box ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_box": {
+      "type": "task_loot",
+      "name": {
+        "text": "Gem Box Card"
+      },
+      "model": "the_vault:gem_box#inventory",
+      "groups": [
+        "Resource",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_box"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Gem Box ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_supply_box": {
+      "type": "task_loot",
+      "name": {
+        "text": "Supply Box Card"
+      },
+      "model": "the_vault:supply_box#inventory",
+      "groups": [
+        "Resource",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:supply_box"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Supply Box ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_soul_ichor": {
+      "type": "task_loot",
+      "name": {
+        "text": "Soul Ichor Card"
+      },
+      "model": "woldsvaults:soul_ichor#inventory",
+      "groups": [
+        "Resource",
+        "Deluxe"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "woldsvaults:soul_ichor"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Supply Box ",
           "color": "yellow"
         },
         {
@@ -7080,7 +7275,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -7225,7 +7420,7 @@
           }
         }
       ],
-      "task": "@hard",
+      "task": "@extreme",
       "count": [
         {
           "tier": 1,
@@ -7305,12 +7500,12 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
-    "resource_star_fruit": {
+    "resource_inscription_piece": {
       "type": "task_loot",
       "name": {
-        "text": "Wild Star Fruit Card"
+        "text": "Inscription Piece Card"
       },
-      "model": "the_vault:star_fruit#inventory",
+      "model": "the_vault:inscription_piece#inventory",
       "groups": [
         "Resource",
         "Deluxe"
@@ -7319,7 +7514,7 @@
         {
           "weight": 1,
           "item": {
-            "id": "the_vault:star_fruit"
+            "id": "the_vault:inscription_piece"
           }
         }
       ],
@@ -7344,7 +7539,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Star Fruit ",
+          "text":  " Inscription Piece ",
           "color": "yellow"
         },
         {
@@ -7354,12 +7549,12 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
-    "resource_inscription_piece": {
+    "resource_augment_piece": {
       "type": "task_loot",
       "name": {
-        "text": "Inscription Piece Card"
+        "text": "Augment Piece Card"
       },
-      "model": "the_vault:inscription_piece#inventory",
+      "model": "woldsvaults:augment_piece#inventory",
       "groups": [
         "Resource",
         "Deluxe"
@@ -7368,11 +7563,11 @@
         {
           "weight": 1,
           "item": {
-            "id": "the_vault:inscription_piece"
+            "id": "woldsvaults:augment_piece"
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -7393,7 +7588,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Inscription Piece ",
+          "text":  " Augment Piece ",
           "color": "yellow"
         },
         {
@@ -7469,7 +7664,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@extreme",
       "count": [
         {
           "tier": 1,
@@ -8288,19 +8483,7 @@
         "weight": 1.0
       },
       {
-        "value": "spirit_walk",
-        "weight": 1.0
-      },
-      {
         "value": "heal",
-        "weight": 1.0
-      },
-      {
-        "value": "heal_group",
-        "weight": 1.0
-      },
-      {
-        "value": "cleanse",
         "weight": 1.0
       },
       {
@@ -8308,23 +8491,7 @@
         "weight": 1.0
       },
       {
-        "value": "dash_damage",
-        "weight": 1.0
-      },
-      {
-        "value": "dash_warp",
-        "weight": 1.0
-      },
-      {
         "value": "nova",
-        "weight": 1.0
-      },
-      {
-        "value": "nova_dot",
-        "weight": 1.0
-      },
-      {
-        "value": "nova_slow",
         "weight": 1.0
       },
       {
@@ -8332,19 +8499,7 @@
         "weight": 1.0
       },
       {
-        "value": "mega_jump_break_down",
-        "weight": 1.0
-      },
-      {
         "value": "rampage",
-        "weight": 1.0
-      },
-      {
-        "value": "rampage_leech",
-        "weight": 1.0
-      },
-      {
-        "value": "rampage_chain",
         "weight": 1.0
       },
       {
@@ -8352,19 +8507,7 @@
         "weight": 1.0
       },
       {
-        "value": "smite_archon",
-        "weight": 1.0
-      },
-      {
         "value": "empower",
-        "weight": 1.0
-      },
-      {
-        "value": "empower_ice",
-        "weight": 1.0
-      },
-      {
-        "value": "empower_entropy",
         "weight": 1.0
       },
       {
@@ -8380,23 +8523,7 @@
         "weight": 1.0
       },
       {
-        "value": "taunt_repel",
-        "weight": 1.0
-      },
-      {
-        "value": "taunt_charm",
-        "weight": 1.0
-      },
-      {
         "value": "stonefall",
-        "weight": 1.0
-      },
-      {
-        "value": "stonefall_snow",
-        "weight": 1.0
-      },
-      {
-        "value": "stonefall_cold",
         "weight": 1.0
       },
       {
@@ -8404,43 +8531,11 @@
         "weight": 1.0
       },
       {
-        "value": "totem_player_damage",
-        "weight": 1.0
-      },
-      {
-        "value": "totem_mana_regen",
-        "weight": 1.0
-      },
-      {
-        "value": "totem_mob_damage",
-        "weight": 1.0
-      },
-      {
         "value": "javelin",
         "weight": 1.0
       },
       {
-        "value": "javelin_piercing",
-        "weight": 1.0
-      },
-      {
-        "value": "javelin_scatter",
-        "weight": 1.0
-      },
-      {
-        "value": "javelin_sight",
-        "weight": 1.0
-      },
-      {
         "value": "fireball",
-        "weight": 1.0
-      },
-      {
-        "value": "fireball_volley",
-        "weight": 1.0
-      },
-      {
-        "value": "fireball_fireshot",
         "weight": 1.0
       },
       {
@@ -8456,19 +8551,7 @@
         "weight": 1.0
       },
       {
-        "value": "battle_cry_spectral_strike",
-        "weight": 1.0
-      },
-      {
-        "value": "battle_cry_lucky_strike",
-        "weight": 1.0
-      },
-      {
         "value": "ice_bolt",
-        "weight": 1.0
-      },
-      {
-        "value": "ice_blast",
         "weight": 1.0
       },
       {
@@ -8476,23 +8559,7 @@
         "weight": 1.0
       },
       {
-        "value": "shell_porcupine",
-        "weight": 1.0
-      },
-      {
-        "value": "shell_quill",
-        "weight": 1.0
-      },
-      {
-        "value": "life_tap",
-        "weight": 1.0
-      },
-      {
         "value": "arcane",
-        "weight": 1.0
-      },
-      {
-        "value": "arcane_rail",
         "weight": 1.0
       },
       {
@@ -8500,24 +8567,12 @@
         "weight": 1.0
       },
       {
-        "value": "landmine",
-        "weight": 1.0
-      },
-      {
         "value": "chain_lightning",
-        "weight": 1.0
-      },
-      {
-        "value": "ball_lightning",
         "weight": 1.0
       },
       {
         "value": "chaos_cube",
         "weight": 1.0
-      },
-      {
-        "value": "toxic_grenade",
-      "weight": 1.0
       },
       {
         "value": "mana_barrier",
@@ -8594,20 +8649,20 @@
     ],
     "deluxe_resource": [
       {
-        "value": "resource_star_fruit",
-        "weight": 1.0
-      },
-      {
         "value": "resource_inscription_piece",
-        "weight": 10.0
+        "weight": 6.0
+      },
+       {
+        "value": "resource_augment_piece",
+        "weight": 8.0
       },
       {
         "value": "resource_gem_echo",
         "weight": 1.0
       },
       {
-        "value": "resource_silver",
-        "weight": 48.0
+        "value": "resource_gold",
+        "weight": 24.0
       },
       {
         "value": "resource_focus_fundamental",
@@ -8616,6 +8671,18 @@
       {
         "value": "resource_mod_box",
         "weight": 12.0
+      },
+      {
+        "value": "resource_gem_box",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_supply_box",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_soul_ichor",
+        "weight": 6.0
       },
       {
         "value": "resource_catalyst_fragment",
