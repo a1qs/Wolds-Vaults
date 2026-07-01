@@ -16402,7 +16402,7 @@ hash = "2a727a1b582a665075d95faa6c99010baf8dc49678eb54ed8d4d256fedcb8f21"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "d128bfebc2bb9e89a9f8f2801c33915d721577702a6cb495b66a4575945398d2"
+hash = "2115a722add65ca2467c4c1437446cc2cbe2962ee908af715d22ad1f3c6ec090"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -23217,11 +23217,6 @@ hash = "948732ca45174f3a5b3a0cab4760a5361750835960229efb01b4bc4ad84b0a71"
 metafile = true
 
 [[files]]
-file = "mods/vault-hunters-api.pw.toml"
-hash = "eac563178e73b83329b9de18033cf9b4d84aae65ecf2314045c06e0d9590a1df"
-metafile = true
-
-[[files]]
 file = "mods/vault-hunters-item-sorting.pw.toml"
 hash = "29941769771bc2cdf0f30f234ef96c14f3bf258dd83b1c0ff60b24f62f83baeb"
 metafile = true
@@ -23255,6 +23250,10 @@ metafile = true
 file = "mods/vh-smart-research-cost-vault-hunters-3-addon.pw.toml"
 hash = "086d56aabebc1045782480b8c16d8d0b42b698de48dff469975bf4f99de0c9d2"
 metafile = true
+
+[[files]]
+file = "mods/vhapi-5.6.0.jar"
+hash = "c69fa9f615ddfc19eb04d14aa345b8dcb137b69030c56a70b986d95663a54b6a"
 
 [[files]]
 file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"

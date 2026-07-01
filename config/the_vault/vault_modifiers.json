@@ -3220,7 +3220,7 @@
     "the_vault:modifier_type/player_effect": {
        "woldsvaults:lights_out": {
         "properties": {
-          "effect": "wildbackport:darkness",
+          "effect": "minecraft:blindness",
           "effectAmplifier": 0
         },
         "display": {
