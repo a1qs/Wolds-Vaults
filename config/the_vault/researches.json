@@ -747,29 +747,6 @@
     },
     {
       "modIds": [
-        "xnet"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Xnet",
-      "cost": 4,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/xnet/helmet",
-        "the_vault:gear/armor/xnet/chestplate",
-        "the_vault:gear/armor/xnet/leggings",
-        "the_vault:gear/armor/xnet/boots"
-      ]
-    },
-    {
-      "modIds": [
         "sfm"
       ],
       "restrictions": {
