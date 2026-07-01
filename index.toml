@@ -1,62 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".envrc"
-hash = "a2779007a0f10421fce3ad758f8782d64317dec6ce5102f4165ba083172fda37"
-
-[[files]]
-file = ".idea/alyxs-vaults.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/discord.xml"
-hash = "c17c4395506ccd2e4bf54abe2857af192efa2c95b21f00ea7a0e9829005ecc6a"
-
-[[files]]
-file = ".idea/libraries/VHBook.xml"
-hash = "abb01352adf85fb94fdf1b627d08fd19db1b93d913805c1e29c16a5917f1bcb6"
-
-[[files]]
-file = ".idea/libraries/VHBook2.xml"
-hash = "ab5a8060adce7dc7393f1b92627e00ac847e2fa8b091c6a4fd244523f4fde065"
-
-[[files]]
-file = ".idea/libraries/data.xml"
-hash = "083887b1f3fd48bb868d096a401e93c26f8c9c40d74fca8acac2aa8aeb1ca9fc"
-
-[[files]]
-file = ".idea/libraries/data2.xml"
-hash = "43e9dc67890887e65f2faef2dc8101659511c34b8b318733e8bfc993de2d9cfb"
-
-[[files]]
-file = ".idea/libraries/resourcepacks.xml"
-hash = "fce0f05e0b941ff0d065f33cf49aa05f5ebd918de3462956c17ebc7a9e6ca052"
-
-[[files]]
-file = ".idea/libraries/shaderpacks.xml"
-hash = "3b01ec0ce371ee7c9d79c202dbfcdca5da10d357853f3b3100cdaa1e29958810"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "86a9807a5541ae4f2d4dc522ea13f3d733faee01917e98f31a5e6673285c0819"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "6d9f8a23b7093c89091d305416308e2b7df43ae59fb4d2a1770a916fe90353da"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "2f8edabca987756d5de06a9909b334206c73c28a83bdcb9a3741f998c804e738"
-
-[[files]]
-file = ".onedev-buildspec.yml"
-hash = "fe6d72d3504f2b8afddea2ee13e2f9bebe9f6cf6e4f9c0c85a0116bf92250b63"
-
-[[files]]
 file = "README.md"
 hash = "c5271b900e91932e706c62c9b632fdb5b3156bda31ad42536667caac380bb1f9"
 
