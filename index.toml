@@ -22713,11 +22713,6 @@ hash = "86a34bb825e06e7157a70d28f829c51fea7610e70da67b63ff059d1ee861ac18"
 metafile = true
 
 [[files]]
-file = "mods/common-capabilities.pw.toml"
-hash = "7046bbdaa7b4a68c853a8c2aa3db7d1d1dbb11fc91ba8414a36fae47c1d493c6"
-metafile = true
-
-[[files]]
 file = "mods/companion-locker.pw.toml"
 hash = "7ea3244562c26f74894bae1e119d36a7379b9d8d1444ddc2490927856bd7feaa"
 metafile = true
@@ -22798,6 +22793,11 @@ hash = "2ea08c4ad633d6c8ca8e7b5d622744de2485bf643c040342d32f88c5694dda09"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "cc2fcc0b9df7e0e1e3140b83538f7d2fdfea2157d3a86bb50d37e93ffb423a6e"
 metafile = true
@@ -22865,11 +22865,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "10f3fca6ef87e5a400e301f681784425051447707d921ee28b39b78d51786fbe"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-hash = "598ac32662a14a9fac5af327ac87cbd251c384896e5d678a4cdc4d2a09a96f81"
 metafile = true
 
 [[files]]
@@ -22965,11 +22960,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "4e86a8dbb879a4eb506ebca3192d1a766b16299d642877e1352ba16e6bb37390"
-metafile = true
-
-[[files]]
-file = "mods/functional-storage.pw.toml"
-hash = "1bf27273560b2b44d26b17cd28216755abb0784b630dcedd19cded12ca8c4a0a"
 metafile = true
 
 [[files]]
@@ -23455,16 +23445,6 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "6107035fa6c8ec45d8b4fe0733adf35030e5a942682996ba865e60d0f86e0340"
-metafile = true
-
-[[files]]
-file = "mods/sky-guis.pw.toml"
-hash = "9b7eb2a272c9ef2144da32c3f183f4823980a2871c44f6d6bd20deab462c8a0a"
-metafile = true
-
-[[files]]
-file = "mods/smartbrainlib.pw.toml"
-hash = "93b58c283c313f785fac247234a4a5a11886de4cc3339f0cb37d6ced805e39cb"
 metafile = true
 
 [[files]]
