@@ -22327,11 +22327,6 @@ hash = "e541ac5d23ddd1b2a108a584c2d14e1c48ab753f1169e1cfb09dbf8da6dca4c7"
 metafile = true
 
 [[files]]
-file = "mods/buildscape.pw.toml"
-hash = "84c1cdb3b8180d39000bb0205fe9dbf6052862a14b3ed1cd79a2b0d7a3b83b44"
-metafile = true
-
-[[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "699b13bf3fc2f71fc755d3cdb0c9901346374073648cd10c429cf8a2871e7de4"
 metafile = true
