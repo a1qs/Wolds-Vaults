@@ -142,7 +142,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "5f87f74a94e95525d26e03a225e3e23d2d36ed0b4e6e8209f57e4a097f0ef2e9"
+hash = "2d07eae93f906018c07268adf047f2f04b928fb123b12997f8608698273fd45b"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -618,7 +618,7 @@ hash = "d8ad8f38aa8c481c52428fafc26b88a77dd421b533adcfa7d6100de12bc98964"
 
 [[files]]
 file = "config/the_vault/enigma_egg.json"
-hash = "4db7b55817c896849e97247508841879201e6a604c4e4ac687f67071925a67b9"
+hash = "e0cd6a82b87c01725e065c8bb248a96b1aa12f132c10817e8726d4455d857d19"
 
 [[files]]
 file = "config/the_vault/entity_group_definitions.json"
@@ -626,7 +626,7 @@ hash = "bb06504a612160491ff9e679bbc5393caa37194868f3dc3bc0f0f4575e6d6467"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
-hash = "2fdaed86ebb720fb5df7af7d7070325001a2e161a58a785a4a5965266c7be507"
+hash = "23104b7e6b3f6c561da68e7c9dc4e4713ef4a15c818fe51e0abdb341509db7b9"
 
 [[files]]
 file = "config/the_vault/entity_hitbox_offsets.json"
@@ -3058,7 +3058,7 @@ hash = "da8573ca89fe450db171d02b77fcd0b762b1028a373324cf82fc58c6087bda51"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/void_mobs_map.json"
-hash = "f6041948b8302682c86cab8abd4b6d5157754ae093cf6dee48239f431d211400"
+hash = "6eaab576ed96ae8cb889b139e85cd2f188e5c97ab68c66e946d773ca5d46d614"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/water_mobs.json"
@@ -16282,7 +16282,7 @@ hash = "5298438b29cf21319efaaa6469838b6b80909064cff88f81dc5269f93e47df30"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "9923e6f24df2a0e2b6d4a3871621c403d02f78f9e25bda18e414fbccbd6a9baf"
+hash = "0a9a3bc18e0914c3e2a8652cac319e1a8bc58a4e84d732192ece219d6e12dbea"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients_greed.json"
@@ -16402,7 +16402,7 @@ hash = "2a727a1b582a665075d95faa6c99010baf8dc49678eb54ed8d4d256fedcb8f21"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "41468d350739a34fec178a8dcb798d1237768efefe163754a6e555398c3e299c"
+hash = "d128bfebc2bb9e89a9f8f2801c33915d721577702a6cb495b66a4575945398d2"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -16434,7 +16434,7 @@ hash = "005c928978b899e0e21680b6b8a65eb83d7a26774abc0af9c82c38f8aa2320c1"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
-hash = "9ec6150cfa9ae57dec7312a5edf718825f453291e1bf883b574f80fb913c109b"
+hash = "18e4a35684ee64a5922b3e6df8c72a0bd26ea5d14fc4dde47aa44b3995514475"
 
 [[files]]
 file = "config/the_vault/vault_stew.json"
@@ -16466,7 +16466,7 @@ hash = "eb1d41c5a1275181ed1377672adc566d277863e19f60339557d27daedd194296"
 
 [[files]]
 file = "config/the_vault/void_crucible/arcade.json"
-hash = "5c9f2a0be1d28590f6d282dd860ebfb29654fa5f6db12ca99e73556b874f1c31"
+hash = "f8be23002d3fc2a1e46d03413dddf3a3c6eb679858519ba2d20b230db546c9eb"
 
 [[files]]
 file = "config/the_vault/void_crucible/card_shop.json"
@@ -16474,7 +16474,7 @@ hash = "b92a14396a56e0f0a6f272068be712057a2e57117acbd44ef32e5ff94f8b1a0d"
 
 [[files]]
 file = "config/the_vault/void_crucible/comet_observatory1.json"
-hash = "eceeb49a516af41a95e363208576e60ced0980dcd88bf9831b97f50c4aa80d36"
+hash = "1a93fc028f5ec3689df2f18270388124c6b0d3d5399a146f11b61d95245e4132"
 
 [[files]]
 file = "config/the_vault/void_crucible/cove.json"
@@ -16626,7 +16626,7 @@ hash = "11a8e21aa091163b2a78de671d30552d53fc9eb4c5133766982562bfd58085c5"
 
 [[files]]
 file = "config/the_vault/void_crucible/zombie_dungeon_jgrade.json"
-hash = "0a73a065394c05230c53acfbc9f3ec7435e9a63498513b24902448052e3311e4"
+hash = "4ca5f0dcfcdca364030a91fef727de4afaafc3a0517fd8a8a22205c5dfcd48f0"
 
 [[files]]
 file = "config/the_vault/void_orb.json"
@@ -20122,7 +20122,7 @@ hash = "328d6dd86a2a0741fd6105c2f24221b9e45d200bdc03e24ee7586291b8fc8c18"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/quark/frog.json"
-hash = "dc27776d5e6506f2cf6b30300b3001030b731440904eb098d91cbf10656a0981"
+hash = "fe61a9d2b2f25691f5d22755dc4e9fe1fab956f4984cb8b73f4bef2caf74c220"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/quark/toretoise.json"
@@ -21957,10 +21957,6 @@ file = "kubejs/server_scripts/colored_unobtainium/script.js"
 hash = "b97cc53d4eff5a731676dcfc164fd6baa260d8327d4357f57b5506944eb37f2e"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/advancedperipherals/recipes.js"
-hash = "70dc54ee3128c2de632a53ed9ee3a87b0246cdea8c2aee3d3272374bbebb6a4b"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/ae2-import-export-card/recipes.js"
 hash = "60cd4b51d4140d30c3f0f12cd7a07cb11ec03f613d355808d8142977c3c3ed64"
 
@@ -21977,64 +21973,12 @@ file = "kubejs/server_scripts/vh_compat/alexsmobs/recipes.js"
 hash = "a5d571067b813e9554ec45767c5f5e6cda13179ba78fb4370f2f699f4b0c94e3"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/ars_nouveau/enchanter.js"
-hash = "66529cff2ded297222793563c3a7275586ca50f7c30c9a0e4d51d040d1d40f6c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/ars_nouveau/glyphs.js"
-hash = "cad969d6bd47119f7c7d60ddce30636088bc86c6eae2e369071e16ef34a6e50c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/ars_nouveau/recipes.js"
-hash = "80fdfdd9eafb2e5c260d974068a42796e1d0f253992fe2e97d41d7c8caf42194"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/ars_nouveau/tags.js"
-hash = "4611ebe38998188a1a6717956245a83d8e65170e62eed233722ab0c8b9543cbd"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/bonsaitrees3/recipes.js"
-hash = "5d3f8338c033d68a6a55583b19cb4cdb64e4bd46ccb90bc06d74ae2e959a93de"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/boosters/recipes.js"
 hash = "9511fa20966535cb40d33baed2b1fb7b4ac40084145a6b893767fa5f94f70580"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/botania/botania-orechid-recipes.js"
-hash = "81b9ce7cfba3ed3709249f5e8d59c30cc6b557bcec6d8a1114f580b49205d603"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/botania/loot.js"
-hash = "d26bd1102e387b950f02e3f87d3deb35cc7515890046c4e5b805f09467d30cd6"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/botania/recipes.js"
-hash = "d24b2ee8ee01d4ed069882044e88c9dc77d1ae8edec9d9b1dceb17a731b40b95"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/botanical_machinery/recipes.js"
-hash = "077d0d2fc67970b3ba8f849fbc28fc1963e2c7209c9a018de2e812c3dd1ac7f0"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/botanicalextramachinery/recipes.js"
-hash = "4eb667539cac7402d176427bf834553a3c5718d09eeefff60dfecdfd13c74398"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/botanypots/recipes.js"
 hash = "b2b8c4fd38b40497a92dc58dbfe26703a174c708b8ee1ceda3ab4f81890f6cf2"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/botanypottiers/fixes.js"
-hash = "98e8f33ae6b61d9fe0d0d4f368fe6499de9cb0a62737246f85154e06c574c9a5"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/botanypottiers/recipes.js"
-hash = "12c65d82ab694f2778cbf4cfe48b00c7f992376d27ec9d22d529c3407db4b038"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/cabletiers/recipes.js"
-hash = "f09734aa7bf7724aea328d51657da44f55bd8144ba1d1337bcf3924a43add71c"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/chipped/recipes.js"
@@ -22045,68 +21989,12 @@ file = "kubejs/server_scripts/vh_compat/chipped/tags.js"
 hash = "267e4844c9df0b1f1ae15e62dbaee179fb6fa33e2419eb1badd7dd333db1f669"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/chunkymcchunkface/recipes.js"
-hash = "081a7fef832397ff491a6b16fd80f5d242924eed1c1093b26d2dc00a6026dd7b"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/cognition/recipes.js"
-hash = "4758fa233e12ab03bf36e1d180a348d823729a80708ed573cdc1525fd0b9c78d"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/compressedcreativity/recipes.js"
-hash = "ad2aab540475831a7e2283a8817c14aa5b5daeddad3d89e542f1978469490e6a"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/computercraft/recipes.js"
-hash = "8ebc05b146ecb93522efe092105fd1e0b699c15846caa447169f542b7cbd6097"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/craftingstation/recipes.js"
 hash = "d1f87fe19a9306f5bba4d400aabe4b960d4b6f9b1bbfe506739a6732cf429a6e"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/create_enchantment_industry/recipes.js"
-hash = "cd88169c73ab1db06273e4af49502686d3678691882e1321243b055761f1fd05"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/create_mechanical_extruder/recipes.js"
-hash = "c88df0376a1f26b7bf4cce24352e890b7a9a5853d921ca5835db1bddfda48780"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/create_ore_excavation/recipes.js"
-hash = "b6cc96e619d91e2c171713230af1b19aa0679b4edc80d8c101fc33cf93a91253"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/create_ore_excavation/veins.js"
-hash = "c91ccb126be4be500e4e3bdbe34e91a8ca77191a49ea86f4fdc7d8e081dbb8d9"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/createadditions/recipes.js"
-hash = "f438138ce7925bb96e0c4f1c544ba13512ecb39e4d8df9b209b35ea766eca83c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/createdieselgenerators/recipes.js"
-hash = "32cb7d26814051a5fd029e76476667bf9bd10e36ed6fa971d5f1da1c49502e03"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/creative/recipes.js"
 hash = "31c1e68a2d478623cf8ab6762f27a9a0c4d56474dd2493108b6529fcba04c080"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/davespotioneering/recipes.js"
-hash = "ce2b71ea51db8e77db2b13f47227a8fe83027db91d59c418f92d71695014936e"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/draconicevolution/recipes.js"
-hash = "8e573a961b0ea7934e94acc91546a0219fba8858bbae41cce1a21843a4a45bed"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/effortlessbuilding/recipes.js"
-hash = "820e8be5f9214ac7743580ae8618582a60623ce5f6f2e436c7a17487dde264e2"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/entangled/recipes.js"
-hash = "5f3022feae37e2575f8eaa91cd8744000ef15d97a27554328fa26918a776a6a7"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/everycompat/everycompat-board-recipes.js"
@@ -22117,80 +22005,12 @@ file = "kubejs/server_scripts/vh_compat/everycompat/tags.js"
 hash = "9c9879fceca4c83204fa8d06e361e6b570420365eeb9ca9da228d6ebaa7504c8"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/explorerscompass/recipes.js"
-hash = "e258306a465a2e6a31e365bef581d9add193d36a4aa61a212dca09597e5581d6"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/extrastorage/recipes.js"
-hash = "5c9aa1ed4f5d703a951a2ab21c1cecad7eec681aed8f72f21f310e6a07c56556"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/farmingforblockheads/recipes.js"
 hash = "aca448fa7c9db0f46d2473ce13612848e0f07e456d22afc0cc70af0b7c7370bb"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/fluid_drawers/recipes.js"
-hash = "d0bf2599cc1b4386600d93a9c9821e87ee976887d6579fe922e2c74954917cf1"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/fluxnetworks/recipes.js"
-hash = "0ef6073e0b71e3e7e79d9288d7c50a7578905a4c5ba050db22dab2e88aeafc65"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/functionalstorage/drawers_conversion.js"
-hash = "1ac85026a4649d62372719a2647faadfe2c4d072f2156548765978f84c7d0c5c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/functionalstorage/recipes.js"
-hash = "d6d5dad3df25e8b19bc695cce82ebfb50d7edd461c0071baf106a96803e9e762"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/gateways/recipes.js"
 hash = "3af98fffe4847aba399e85ed27de92826a6c9c477a13eda44065142b32cce90d"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/hexcasting/recipes.js"
-hash = "33f082835c72cdc3ed024c1ff679ca62fcc77c5f68a125c6045769460e6905ee"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/hostileneuralnetworks/recipes.js"
-hash = "966c69a292660517e39fe955fb4b195cc6acea79523616bc208552c43da477c8"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/iammusicplayer/recipes.js"
-hash = "2f68a0889a1bc49c603b56d48c2f30e0bec2c6dc720532155be2a22abe497175"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/immersiveengineering/blueprints.js"
-hash = "7b56d4bbb771c6f2e1c897a4df2d81d73203911467c509996be91ca5d62b570a"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/immersiveengineering/petro.js"
-hash = "0f6fa10e95324fcf04ae57d30e00b94a4d26e67b1072c2fe7ddf6243d84d11d5"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/immersiveengineering/recipes.js"
-hash = "58b2c8abac3737616ffeb84917c0b53527c66c31065e6a12ed577f58d89622d1"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/incorporeal/recipes.js"
-hash = "cbd512b0abbc910e3b1b66274ceee703283172a996bbf457bb8a7c5883f5b5e6"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/industrial_foregoing/ore_laser.js"
-hash = "5325e7223a0079bc2b70a5507810cbc1944904f0b9b2c68a9fa385566516d706"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/industrial_foregoing/recipes.js"
-hash = "39e0a87a64ed5c76a3ecd150ecf498c5e8fe6a2df05e460f449e4e6efb8b8133"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/integrateddynamics/biome_tags.js"
-hash = "8492d3734da2a694af8b1074c1515a7f09f61784332759e99cc9d55e8285d973"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/integrateddynamics/recipes.js"
-hash = "72bdffd488bacb464dbe0684fe6b7ea53d4c3b465e72ad0b83aa63e4b1c16d93"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ironchests/recipes.js"
@@ -22201,10 +22021,6 @@ file = "kubejs/server_scripts/vh_compat/ironfurnaces/recipes.js"
 hash = "b8cf54c349c4e9b9047648c0846e198f20e1111cb8d1b9a359d6650a2d5fa953"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/laserio/recipes.js"
-hash = "357a6f26ba71457659418a274671033698c612da2ca18143f3e123d2d527a342"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/lightmans_currency/recipes.js"
 hash = "890dfb07d319940953533d72db967815206e785a52c1ee42b89258316d0e15f0"
 
@@ -22213,96 +22029,16 @@ file = "kubejs/server_scripts/vh_compat/lightmans_currency/tags.js"
 hash = "bd594fecef85386f71efe3717c09c0995b2f41495ff4703573368df41e3295ad"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/little_logistics/recipes.js"
-hash = "25468ff19cbab241571b33674aae4bbc5def21c5962c22c3cdb7aaa268ad760b"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/mega_cells/recipes.js"
 hash = "5eb13d5a3e5763a0cb1c36254be4e2a8a9c2efab6f236cc05c866d3bdf67a4eb"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/mekanism/rec.js"
-hash = "89cf379798c45156691aab86468e13294d7a0ecd0de65c892b83278ec963e27a"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/mekanism/recipes.js"
-hash = "fca89580ffd0d375533bcb721431e6f6c843571e9e94519ade59bc85ffe0211c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/mining_and_void_dimension/recipes.js"
-hash = "ccfc1914cc73f4eff66fc5262621d2fe44f83ba74c74220ad8c81fa76059ec24"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mob_processor/recipes.js"
 hash = "5d3dc714836ea943c6f8bee9605bd411ff3526afe22e96938f391a7006af03cf"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/morecreateburners/recipes.js"
-hash = "f042c00534517a0007e408ed896b5d5c4cc27402330a024979b33c1ac170fde6"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/morphotool/recipes.js"
-hash = "e4665401f7e3c6737eda42806c6af2b554c5728b35c2333cd4e3d3f4c01f2950"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/mysticalagraditions/recipes.js"
-hash = "eb4567458b42dca60aaf2e175336ea5f76ae454e19b1803e63e9ac5fc42e67a6"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/mysticalagriculture/essences.js"
-hash = "de2ed631bb93672e0920aacd6a93a98e3aed20c71c6b52a4cd3903c247868187"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/mysticalagriculture/recipes.js"
-hash = "13b6e838c7cc0ba1ae139d70601be48b109c89acb5770b549f3639518d9e8f5a"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
-hash = "904a1baeab1e824ed2fb2ddda0afcef97aab1ca97fb9ad012dd8a119613d5e2a"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/occultism/crushing.js"
-hash = "9b154970cb91b677ae3cc978f14527f1f5d18ae9890fd218330b5e9e8c73ae5c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/occultism/mining.js"
-hash = "1b1117bfebb908774196ff9d819437b9e161bfc82914f9dda51429025ee1a3a8"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/occultism/recipes.js"
-hash = "bf4d7a51495f158ca949ffe6d57c8709e54ecec637ec5b726285f4847f1fc42e"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/occultism/rituals.js"
-hash = "acc709bd0ea1ad05fd9e462d2262ca36e2f58ad06f2a9b3d9220fd8bb9c1ec18"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/peripherals/recipes.js"
-hash = "98d924b59b89a9e240c67b680f64fcb523c9fe5b38dea2a2a4f2cd0d271c0c70"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/playerrtrackingcompass/recipes.js"
 hash = "094b460a14f95b3fa976d0d95f7ae89fb80a8646738de52f6cfefe04f31cb520"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/pneumaticcraft/loot.js"
-hash = "6ade4fa4370a3cdbc48b7de670532f4e9ae0f319740e79a867ce6669ee6bc1f2"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/pneumaticcraft/recipes.js"
-hash = "f4b49101ff92666d4ecb801e20021db8e819b73e47870be200e39e92d069e058"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/pneumaticcraft/tags.js"
-hash = "63faeae2f36bbbf597d046f5d368663b789fffc639e499adb7a88d57a7b0380e"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/powah/powah-recipes.js"
-hash = "3141750ed87782104fb1f7ca48efa7354119d7039992085e83ba5ac6468db5ee"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/psi/recipes.js"
-hash = "508ed742885ea1c48b62337354506280450ba09704c942ecfecb03c0cb2d14a2"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/qol/conversions.js"
@@ -22333,22 +22069,6 @@ file = "kubejs/server_scripts/vh_compat/quark/biome_tags.js"
 hash = "f7f5260c478e1505452d9b469623ca03c9cb23b0d97d683e26d871bac054179b"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/quarryplus/recipes.js"
-hash = "4318624f26318459d0dd64175fe3b36fa83047da206119def107299685683357"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/refinedstorage/recipes.js"
-hash = "39e98dc208382beb89bff04e80bb4b764da6977f052d2c5467a0f105062e6b16"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/rftools_power/recipes.js"
-hash = "36ab238302fa389c4534d5d7424eef8d2c2399472a8d130884449c49a55b07e1"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/rftoolsstorage/recipes.js"
-hash = "9a812c0a1fc40aff86387ac53ee5c0a36fbf5b265e445836a4e748e5e882ff79"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/scannable/recipes.js"
 hash = "8ba08eef8f5680e87cc3db583c8ad4b3776e4c4dec251e2533e899af2b7a2dc5"
 
@@ -22373,24 +22093,8 @@ file = "kubejs/server_scripts/vh_compat/sophisticatedvaultupgrades/recipes.js"
 hash = "2c687463600cc397980a3b0744e85a93f8bb45fe8d9df927158bf370037ad374"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/ssn/recipes.js"
-hash = "85c3f6a4a073af85b8958cf81ff85fc78526481c4f91de0623821e44befd192e"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/superfactorymanager/recipes.js"
-hash = "deee428890dc0651e1d3991a379c6f7557651bd2847422e9b41cc8fbe16b87ec"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/supplementaries/recipes.js"
 hash = "1e4a5ad67d1ff38a480f97d9698bb264a15ccb507486291a790db908fc917e20"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/tectonic/biome_tags.js"
-hash = "6d9061aba48735397d432ebe68f2df5792fe99384252eb453dd53a578ebd043c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/terralith/biome_tags.js"
-hash = "02a822f0c0780e664178b1a23c4040333342600fc79385051e3fc105c7fd220b"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/chest_conversions.js"
@@ -22406,27 +22110,7 @@ hash = "d2e456333e36a1b1e9777ee9639121e451581462cec30599fb16195d4542a2e5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
-hash = "e42110df624522180fc453af47f5ea4235b292325d484e47bbbdcb78f8de01fa"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
-hash = "25765a999c142da6ed6043f2d741d014db67074febe56cf59db435eabab1e2cb"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/thermal/recipes.js"
-hash = "f47dc820e7090849ae5e2e433bf6119f75d1729564dc87e047c71b4cc014bb08"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/tiab/recipes.js"
-hash = "7ea2828d166a7083863da2aff3429cfe515aba1b6e67361107ac0f6f24e4cf8b"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/tinygates/recipes.js"
-hash = "0774e72619a994f3e97e3001d62b07904bd07b66f277fd92cfbcaf3544878d4c"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/toms_storage/recipes.js"
-hash = "1149a6302bd373b1d41a17398eb47762b976c681cf03fc58d9b2d287e0b82470"
+hash = "3436d9263ba4a4fa88b2de9abd531bf32935cf341bdf8be355bc92fdc3dfadcf"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/toolbelt/recipes.js"
@@ -22453,32 +22137,12 @@ file = "kubejs/server_scripts/vh_compat/vanilla/recipes.js"
 hash = "a81a0f06bf9bde517ddaab59445d6508e4dc3263dd4e4ed87dd4f07a9ba4e914"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/vaultbeacon/recipes.js"
-hash = "c1194b0ac1f5afeac44eacbc2a418425144adf338108198a28e5a5ae496d21a3"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/vaultfruitbag/recipes.js"
 hash = "7a62d20318e534e830c5f153aedeb8ba0ca90b61eff5ed456670eb31ec582615"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/waterframes/recipes.js"
-hash = "f8547e4e768c7990db5b4625f6da88306d555bcf19d5342808d5a93a3c889e7b"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/waystones/recipes.js"
 hash = "9097a9f72c430568c1ce9e09c184ec80af0e19fdac3aa497e3fc1b904a443e92"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/weathercontrol/recipes.js"
-hash = "baedfbd9f61102ef671d11f25b095734c5af76109081127777438d93531e9078"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/wildbackport/biome_tags.js"
-hash = "71398645ed1e9e687d16ad256af34b338c6f1ecdc3c1e7cb4d6546a547f2d661"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/wildbackport/recipes.js"
-hash = "34a4a6c8bbb4c5ad34db63778ea5024b59959cef21db6d9302cf8ba2c987a78f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compressio/recipes.js"

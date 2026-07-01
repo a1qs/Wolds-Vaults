@@ -1,8 +1,7 @@
 {
   "type": "quark:frog",
   "subtypes": [
-    "tropicraft:tree_frog",
-    "wildbackport:frog"
+    "tropicraft:tree_frog"
   ],
   "name": "entity.quark.frog",
   "name_color": "0xEEA5A4",
@@ -23,18 +22,6 @@
   "fabricator_drops": [
     {
       "item": "quark:frog_leg",
-      "count": 8
-    },
-    {
-      "item": "wildbackport:ochre_froglight",
-      "count": 8
-    },
-    {
-      "item": "wildbackport:verdant_froglight",
-      "count": 8
-    },
-    {
-      "item": "wildbackport:pearlescent_froglight",
       "count": 8
     }
   ]

@@ -147,9 +147,3 @@ onEvent('block.tags', event => {
     event.add('forge:chests', 'sophisticatedstorage:enigma_chest')
     event.add('forge:chests', 'sophisticatedstorage:altar_chest')
 })
-
-onEvent('tags.fluids', event => {
-    event.add('woldsvaults:experience', 'create_enchantment_industry:experience')
-    event.add('woldsvaults:experience', 'create_enchantment_industry:hyper_experience')
-    event.add('woldsvaults:experience', 'industrialforegoing:essence')
-}) 

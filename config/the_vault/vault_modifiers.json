@@ -2588,7 +2588,7 @@
       },
       "the_vault:dark": {
         "properties": {
-          "effect": "wildbackport:darkness",
+          "effect": "minecraft:blindness",
           "effectAmplifier": 0,
           "effectDurationTicks": 100,
           "onHitApplyChance": 0.1
@@ -2596,8 +2596,8 @@
         "display": {
           "name": "Blinding",
           "color": "#5A5851",
-          "description": "+10% increased chance mobs Darkness on hit",
-          "descriptionFormatted": "+%d%% increased chance mobs Darkness on hit",
+          "description": "+10% increased chance mobs inflict Blindness on hit",
+          "descriptionFormatted": "+%d%% increased chance mobs inflict blindness on hit",
           "icon": "the_vault:gui/modifiers/hex_blinding"
         }
       },

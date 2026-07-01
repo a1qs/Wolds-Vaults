@@ -13576,40 +13576,10 @@
                 "item": "weather_control:rain_disk"
               },
               {
-                "item": "tropicraft:music_disc_summering"
-              },
-              {
-                "item": "tropicraft:music_disc_trade_winds"
-              },
-              {
-                "item": "tropicraft:music_disc_low_tide"
-              },
-              {
-                "item": "tropicraft:music_disc_the_tribe"
-              },
-              {
-                "item": "tropicraft:music_disc_eastern_isles"
-              },
-              {
-                "item": "tropicraft:music_disc_buried_treasure"
-              },
-              {
-                "item": "wildbackport:music_disc_5"
-              },
-              {
                 "item": "quark:music_disc_endermosh"
               },
               {
                 "item": "ecologics:music_disc_coconut"
-              },
-              {
-                "item": "cloudstorage:music_disc_drift"
-              },
-              {
-                "item": "botania:record_gaia_2"
-              },
-              {
-                "item": "botania:record_gaia_1"
               }
             ],
             "amount": {

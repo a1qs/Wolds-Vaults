@@ -31,11 +31,6 @@
         "result": "deny"
     },
     {
-        "mob": "wildbackport:frog",
-        "dimension": "minecraft:overworld",
-        "result": "deny"
-    },
-    {
         "mob": "quark:frog",
         "dimension": "minecraft:overworld",
         "category": "swamp",
