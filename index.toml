@@ -22598,16 +22598,6 @@ hash = "d400c88e4d93285059248c7c7f5264663df811e369c05ee94300e6f65b42ee2e"
 metafile = true
 
 [[files]]
-file = "mods/applied-mekanistics.pw.toml"
-hash = "b5c34a34d3de5b071ba0707af445c1d05ac2bea6762a857445265f98597cc33f"
-metafile = true
-
-[[files]]
-file = "mods/archers-paradox.pw.toml"
-hash = "f912348821aab35dac26c7c22e5e38bf9ac715dea73ba7d0d249fa6f3f34067e"
-metafile = true
-
-[[files]]
 file = "mods/architects-palette.pw.toml"
 hash = "d79a850e8565387cba4d82641043fa9da797f8438fdf735342bbcef9b8aa9f65"
 metafile = true
@@ -22640,11 +22630,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d46e8a5f4cae7a592e39f63448aa797c0bc639a75a89a560d397c72efbfe4817"
-metafile = true
-
-[[files]]
-file = "mods/bdlib.pw.toml"
-hash = "4934011dd15a9f4df164e9316accedfb9e08cba4d3798fd5af59b449f68082d2"
 metafile = true
 
 [[files]]
@@ -22805,11 +22790,6 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "954097c8c1724bc56aeb6cc8b371800f13cb4c83104736ea770a73c2b9387753"
-metafile = true
-
-[[files]]
-file = "mods/control-engineering.pw.toml"
-hash = "43bf0d780de6533d8e930564ad84f65cf0de06375e508b68f14a4fb15ae64215"
 metafile = true
 
 [[files]]
@@ -23040,11 +23020,6 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "c1f7227e8e1033a6cb4260ddd75f64a28e2b187fc0a8069e61ee856f194b9783"
-metafile = true
-
-[[files]]
-file = "mods/extrastorage.pw.toml"
-hash = "780fb546766df001831cd55fd98e0ce6a6101b496a0f307378a48ebc494c19b0"
 metafile = true
 
 [[files]]
