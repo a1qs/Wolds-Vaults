@@ -23498,6 +23498,11 @@ hash = "128ac4375acd4c056333c3d24973f368d2d2fd4a2f95a762b9c4e5089ff0af31"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
+metafile = true
+
+[[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "9b20947a3fb0fe011ee56c9a7db69eb267d7073b2b96f3df5a76b5d571c4d470"
 metafile = true
