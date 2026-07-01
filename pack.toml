@@ -1,12 +1,12 @@
-name = "Wold's Vaults"
-author = "iwolfking"
-version = "0.31.2"
+name = "evil transgender vaults"
+author = "iwolfking, alyx"
+version = "0.31.2-0.0.1dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9eeaab92db4865359a7ef3841403f54493ab51b4614933fd81b9258bb636084c"
+hash = "a1341ff4dc8bba8d4541beb49c5c1b0cd3149914eab0293bb0ebf3f6661f6281"
 
 [versions]
 forge = "40.3.11"

@@ -23813,11 +23813,6 @@ hash = "d72a40d5316b7d7b00b6815832391e13c7bf3f43dabb4a97c4ba214a7adc95bc"
 metafile = true
 
 [[files]]
-file = "mods/vault-integrations.pw.toml"
-hash = "c66c80adbe898ce0aa7a1cc84e6fc64ac8e09f8bc42e70ff513be26c58ad5fe6"
-metafile = true
-
-[[files]]
 file = "mods/vaultarhud-respawned.pw.toml"
 hash = "5f7c1be00e47945c17e5e616822fc84c4c539d877981c8a31d5888fd79d78e28"
 metafile = true
