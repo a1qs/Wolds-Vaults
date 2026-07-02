@@ -5,14 +5,6 @@ file = "README.md"
 hash = "c5271b900e91932e706c62c9b632fdb5b3156bda31ad42536667caac380bb1f9"
 
 [[files]]
-file = "config/advancedperipherals/peripherals.toml"
-hash = "ad679b7d00459cc897a8b30630bec60d8c750f15adff6d26d305bcd1b4a006f5"
-
-[[files]]
-file = "config/ars_nouveau-common.toml"
-hash = "85878d3bb5ff846fb2bae7bca806ed978c151232f233a4297bdc7821d1d4ed21"
-
-[[files]]
 file = "config/bagus_lib-common.toml"
 hash = "793f7cb2c3df92f832445b365daaf68e9663489de0d4233434589ca449136337"
 
@@ -23,14 +15,6 @@ hash = "5df905df31b385bb0fc730acced6373bc7be3421fd1d2a35c087ad88fd58cfef"
 [[files]]
 file = "config/bettertridents-common.toml"
 hash = "391c5a5beff2f99471c7166741bcb595ecb8b49b438305a4d2a329fa24d0a078"
-
-[[files]]
-file = "config/bonsaitrees3-client.toml"
-hash = "3c0a72ca9d48b68d86ef4973528fdd5feb5b0a27c793fc0c813dacc9fa36edbd"
-
-[[files]]
-file = "config/brandon3055/CSG/Config.json"
-hash = "2ee468dd7131a26b182072633b9ef18656f3753ff519f7b32deac11505620277"
 
 [[files]]
 file = "config/companion_work_station/companion_recycler.json"
@@ -157,10 +141,6 @@ file = "config/incontrol/summonaid.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
-file = "config/jecalculation/config.toml"
-hash = "6bad9e2052cfd19e08a01882fda05270fabf6b7bf52c94207660d097a2ce43af"
-
-[[files]]
 file = "config/kendrome_vh_tweaks_client.toml"
 hash = "6af460271081aeb7a7df462566df9e9fc048281f337fc44318016a6086f64151"
 
@@ -177,40 +157,12 @@ file = "config/mysticalagriculture-common.toml"
 hash = "8e8ec21f1aceae30ff92abd2a7650344f62ab4c10b783075612fb165a7729ff3"
 
 [[files]]
-file = "config/mysticalcustomization/configure-augments.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-crops.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-mobsoultypes.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-tiers.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-types.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/crops/chromatic_iron.json"
-hash = "8dd4c4629b6adbc91ac87f5b97ed047e8aca40d5969c3d19b6509f09e230d6c4"
-
-[[files]]
 file = "config/openloader/advanced_options.json"
 hash = "accb774b8cdd52fece03a4e4349eb0e8408ed64143acd10a36e4e930c288c04e"
 
 [[files]]
 file = "config/openloader/data/Skaia Vault Themes.zip"
 hash = "b28657729af60813d59b53229882d70cd5cb802446451eeb4872f6f78e559a8e"
-
-[[files]]
-file = "config/openloader/data/blacklist.zip"
-hash = "b768e8bd5acafe0e5acb9617f57682244915bd7d42274249bbeaeff6c2144639"
 
 [[files]]
 file = "config/openloader/data/catchable.zip"
@@ -271,10 +223,6 @@ hash = "95a60b97bbe4a3edded2cdbe643acea9975a72e945e4fb53fe372f3bf0341bd1"
 [[files]]
 file = "config/shift_mods/fruitbag/fruitbag-common.shift"
 hash = "98f700033bcf12afe1202c9292faf5dddd39ba63e5778612505e2ce40570c43d"
-
-[[files]]
-file = "config/shift_mods/vaultbeacon/vaultbeacon-common.shift"
-hash = "1e1da6ff64881935c9627d47079a70bb844196fbddfc3a635c32d3db30d7644b"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -21247,6 +21195,10 @@ hash = "10487ed5c184cafddb4bc6abd2dc2aca84587e6fb30b7bbf3550f255039418ce"
 [[files]]
 file = "kubejs/data/the_vault/loot_tables/blocks/ore_xenium.json"
 hash = "881ec41dc24a2895fb842dd519f3cdead8fd8bccd9192545b3fa570152b32c30"
+
+[[files]]
+file = "kubejs/data/the_vault/tags/items/spawnegg.json"
+hash = "929a4f1bd8b68396fe97a7122d50d01392616794e828772b264a3520f938780e"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/currency/vault_iridium.json"
