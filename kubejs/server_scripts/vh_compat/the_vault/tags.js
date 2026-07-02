@@ -112,16 +112,7 @@ onEvent('item.tags', event => {
     event.add('the_vault:spawnegg', 'quark:wraith_spawn_egg')
     event.add('the_vault:spawnegg', 'quark:toretoise_spawn_egg')
     event.add('the_vault:spawnegg', 'quark:frog_spawn_egg')
-    event.add('the_vault:spawnegg', 'cloudstorage:spawn_egg_badloon')
-    event.add('the_vault:spawnegg', 'cloudstorage:spawn_egg_bloviator')
-    event.add('the_vault:spawnegg', 'thermal:blizz_spawn_egg')
-    event.add('the_vault:spawnegg', 'thermal:blitz_spawn_egg')
-    event.add('the_vault:spawnegg', 'thermal:basalz_spawn_egg')
-    event.add('the_vault:spawnegg', 'tropicraft:iguana_spawn_egg')
-    event.add('the_vault:spawnegg', 'ars_nouveau:starbuncle_se')
-    event.add('the_vault:spawnegg', 'ars_nouveau:wilden_stalker_se')
-    event.add('the_vault:spawnegg', 'ars_nouveau:wilden_guardian_se')
-    event.add('the_vault:spawnegg', 'woldsvaults:drygmy_spawn_egg')
+
 })
 
 onEvent('block.tags', event => {

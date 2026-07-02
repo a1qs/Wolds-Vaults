@@ -33,11 +33,6 @@ craftingTable.addShaped("universal_pipe", <item:pipez:universal_pipe> * 6, [
     [<item:pipez:item_pipe>, <item:pipez:energy_pipe>, <item:pipez:fluid_pipe>]
 ]);
 
-craftingTable.addShaped("gas_pipe", <item:pipez:gas_pipe> * 16, [
-    [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>], 
-    [<item:mekanism:alloy_infused>, <item:minecraft:redstone_block>, <item:mekanism:alloy_infused>], 
-    [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>]
-]);
 
 craftingTable.addShaped("energy_pipe", <item:pipez:energy_pipe> * 16, [
     [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>], 

@@ -5,8 +5,6 @@ for Iskall85's Vaulthunters */
 
 import crafttweaker.api.tag.MCTag;
 import crafttweaker.api.recipe.Brewing;
-import mods.mekanism.recipe.Combining;
-import mods.mekanism.api.ingredient.ItemStackIngredient;
 
 var dyes = {
   "white_dye": "white",
@@ -252,7 +250,6 @@ craftingTable.addShapeless("experience_convert", <item:minecraft:experience_bott
     <item:create:experience_nugget>
 ]);
 
-<recipetype:mekanism:combining>.addRecipe("cobweb", ItemStackIngredient.from(<item:minecraft:string>), ItemStackIngredient.from(<item:minecraft:vine>), <item:minecraft:cobweb>);
 
 <recipetype:create:item_application>.addRecipe("cobweb2", [<item:minecraft:cobweb>],
 <item:minecraft:vine>, <item:minecraft:string>);

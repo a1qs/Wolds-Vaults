@@ -271,54 +271,6 @@
         "amountMax": 1
       },
       "weight": 3
-    },
-    {
-      "value": {
-        "id": "cagerium:iron_golem_spawn_egg",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 2
-    },
-    {
-      "value": {
-        "id": "cagerium:wither_spawn_egg",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 2
-    },
-    {
-      "value": {
-        "id": "cagerium:ender_dragon_spawn_egg",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 2
-    },
-     {
-      "value": {
-        "id": "ars_nouveau:wilden_hunter_se",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
-    },
-     {
-      "value": {
-        "id": "ars_nouveau:wilden_guardian_se",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
-    },
-     {
-      "value": {
-        "id": "ars_nouveau:wilden_stalker_se",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
     }
   ]
 }

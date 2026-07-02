@@ -182,14 +182,7 @@
         "amount": 2
       },
       "probability": 1.0
-    },
-    "minecraft:moss_block": {
-      "item": {
-        "item": "mekanism:bio_fuel",
-        "amount": 4
-      },
-      "probability": 1.0
-    },
+    }
     "minecraft:prismarine": {
       "item": {
         "item": "minecraft:prismarine_shard",

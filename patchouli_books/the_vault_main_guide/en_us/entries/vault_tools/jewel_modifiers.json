@@ -2,7 +2,7 @@
 
   "sortnum": 3,
   "name": "Jewel Modifiers",
-  "icon": "thermal:gold_gear",
+  "icon": "minecraft:gold_ingot",
   "category": "patchouli:vault_tools_category",
   "read_by_default": "true",
   "pages": [

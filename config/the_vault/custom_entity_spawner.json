@@ -212,28 +212,7 @@
         "entities": [
           {
             "value": {
-              "type": "thermal:blitz",
-              "randomMotion": false
-            },
-            "weight": 2
-          },
-          {
-            "value": {
-              "type": "thermal:lightning_tnt",
-              "randomMotion": true
-            },
-            "weight": 2
-          },
-          {
-            "value": {
               "type": "alexsmobs:guster",
-              "randomMotion": true
-            },
-            "weight": 2
-          },
-          {
-            "value": {
-              "type": "cloudstorage:bloviator",
               "randomMotion": true
             },
             "weight": 2
@@ -248,28 +227,7 @@
         "entities": [
           {
             "value": {
-              "type": "thermal:ice_grenade",
-              "randomMotion": true
-            },
-            "weight": 2
-          },
-          {
-            "value": {
-              "type": "archers_paradox:frost_arrow",
-              "randomMotion": true
-            },
-            "weight": 2
-          },
-          {
-            "value": {
               "type": "the_vault:winter_wolf",
-              "randomMotion": true
-            },
-            "weight": 2
-          },
-          {
-            "value": {
-              "type": "thermal:blizz",
               "randomMotion": true
             },
             "weight": 2

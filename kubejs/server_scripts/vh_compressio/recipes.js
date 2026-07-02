@@ -61,28 +61,6 @@ let vanillaStandardCompressed = [
     "moss_block_2"
 ]
 
-let botaniaCompressed = [
-    "white_petal_block_1",
-    "orange_petal_block_1",
-    "magenta_petal_block_1",
-    "light_blue_petal_block_1",
-    "yellow_petal_block_1",
-    "lime_petal_block_1",
-    "pink_petal_block_1",
-    "gray_petal_block_1",
-    "light_gray_petal_block_1",
-    "cyan_petal_block_1",
-    "purple_petal_block_1",
-    "blue_petal_block_1",
-    "brown_petal_block_1",
-    "green_petal_block_1",
-    "red_petal_block_1",
-    "black_petal_block_1",
-    "livingrock_1",
-    "livingrock_2",
-    "livingwood_1",
-    "livingwood_2"
-]
 
 onEvent("recipes", event => {
 
@@ -106,25 +84,5 @@ onEvent("recipes", event => {
         event.shapeless(`9x minecraft:${ingredient_id.slice(0, -1)}`, `minecraft:${id}`)
     })
 
-
-    botaniaCompressed.forEach(id => {
-
-        let splitId = id.split('_')
-        var ingredient_id = '';
-        splitId.forEach(word => {
-            if (word == "1") {
-
-            }
-            else if (word == "2") {
-                ingredient_id += "1_"
-            }
-            else {
-                ingredient_id += word + '_'
-            }
-        })
-
-        event.shapeless(`botania:${id}`, [`9x botania:${ingredient_id.slice(0, -1)}`])
-        event.shapeless(`9x botania:${ingredient_id.slice(0, -1)}`, `botania:${id}`)
-    })
 
 })
