@@ -1,35 +1,5 @@
 {
   "groupStyles": {
-    "Special": {
-      "group": "Special",
-      "headerColor": -3096887,
-      "headerTextColor": -1,
-      "x": 180,
-      "y": -185,
-      "boxWidth": 170,
-      "boxHeight": 105,
-      "icon": "the_vault:gui/research_groups/workstations"
-    },
-    "Omega": {
-      "group": "Omega",
-      "headerColor": -8598175,
-      "headerTextColor": -1,
-      "x": 180,
-      "y": 415,
-      "boxWidth": 170,
-      "boxHeight": 135,
-      "icon": "the_vault:gui/research_groups/omega"
-    },
-    "Addons": {
-      "group": "Addons",
-      "headerColor": -3224324,
-      "headerTextColor": -1,
-      "x": 550,
-      "y": -25,
-      "boxWidth": 170,
-      "boxHeight": 175,
-      "icon": "the_vault:gui/research_groups/addons"
-    },
     "Handling": {
       "group": "Handling",
       "headerColor": -16776961,
@@ -37,7 +7,7 @@
       "x": -10,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 140,
+      "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/handling"
     },
     "QoL": {
@@ -47,28 +17,8 @@
       "x": 370,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 140,
+      "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/base"
-    },
-    "Production": {
-      "group": "Production",
-      "headerColor": -11298849,
-      "headerTextColor": -1,
-      "x": 180,
-      "y": 255,
-      "boxWidth": 170,
-      "boxHeight": 145,
-      "icon": "the_vault:gui/research_groups/farming"
-    },
-    "BigMods": {
-      "group": "BigMods",
-      "headerColor": -11228136,
-      "headerTextColor": -1,
-      "x": 180,
-      "y": 95,
-      "boxWidth": 170,
-      "boxHeight": 145,
-      "icon": "the_vault:gui/research_groups/processing"
     },
     "Looting": {
       "group": "Looting",
@@ -80,12 +30,12 @@
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/looting"
     },
-    "Alchemy": {
-      "group": "Alchemy",
+    "Enhancements": {
+      "group": "Enhancements",
       "headerColor": -14336,
       "headerTextColor": -1,
-      "x": 370,
-      "y": 245,
+      "x": 180,
+      "y": 215,
       "boxWidth": 170,
       "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/bottle"

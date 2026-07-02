@@ -15970,19 +15970,19 @@ hash = "f53a79705991b052ad33a4943e9295f9d5747ad55f548c36f0282301c94ef9db"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "ec2ee78449ccccf40373fde266602c1142edec13602bfa14ec0c2a70a9ac0cc3"
+hash = "163ff5537d693dd3583df7284bd1b086b3da083cd8c8a310795dc15175b14e28"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "a646965b26d09f90479b91074659481653e23003bdfea8f773c4acb1b36c3cf2"
+hash = "0250ee9bb452407d05f8ae1f0d776cad020b9d00bf4d710b6ebcfc76742960a5"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "852c9e92fb368dd680992af56ac3a82db498bfd37b30068c95d6702544727712"
+hash = "a626071e4d9cb94bbef1fc96f12ede613fba9941e0a92e1082495a12cd39c369"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "92121e90456aeb86cfc8ccef7448bbb8e8e0239d1f8166ada877617f52d9b506"
+hash = "eecf3e268b685e79e45fb0ec9c74c575e72bab3e3587e830b96aae4a5fe7ba6c"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -16230,7 +16230,7 @@ hash = "5298438b29cf21319efaaa6469838b6b80909064cff88f81dc5269f93e47df30"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "2d79ab37cac61455a9df7012eb3975d00fa686624661d80b1943dc7f7e01b090"
+hash = "137fb425853cad5d3fb58c9c8a330ee8b72d6e9044dacdbcea901a6e249219bb"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients_greed.json"

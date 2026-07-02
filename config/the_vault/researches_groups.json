@@ -3,55 +3,10 @@
     "Special": {
       "title": "Special",
       "research": [
-        "Mod Box Tinkering",
         "Increase Level Cap"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
-      }
-    },
-    "Omega": {
-      "title": "Omega",
-      "research": [
-        "Automatic Genius",
-        "Bag Inception"
-      ],
-      "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Omega": 10
-      }
-    },
-    "Addons": {
-      "title": "Addons",
-      "research": [
-        "Misc Bag Upgrades"
-      ],
-      "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Addons": 1
-      }
-    },
-    "Production": {
-      "title": "Production",
-      "research": [
-        "Easy Villagers",
-        "Mob Spawners",
-        "Botany Pots"
-      ],
-      "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Production": 12.0
-      }
-    },
-    "BigMods": {
-      "title": "Big Mods",
-      "research": [
-        "Create",
-        "Thermal Expansion"
-      ],
-      "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "BigMods": 10.0
       }
     },
     "QoL": {
@@ -60,7 +15,9 @@
         "Torch Master",
         "Waystones",
         "Better Wallets",
-        "Angel"
+        "Angel",
+        "Vault Compass",
+        "Soul Harvester"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {}
@@ -75,36 +32,36 @@
         "Stack Upgrading",
         "Auto Feeding",
         "Scanner",
-        "Vault Compass",
-        "Soul Harvester"
+        "Bag Inception",
+        "Misc Bag Upgrades"
       ],
       "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Looting": 2.0
-      }
+      "groupCostIncrease": {}
     },
     "Handling": {
       "title": "Handling",
       "research": [
-        "Modular Routers"
+        "Modular Routers",
+        "Create",
+        "Thermal Expansion",
+        "Easy Villagers",
+        "Mob Spawners",
+        "Botany Pots"
       ],
       "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Handling": 4.0
-      }
+      "groupCostIncrease": {}
     },
-    "Alchemy": {
+    "Enhancements": {
       "title": "Enhancements",
       "research": [
         "Potions",
         "Mixtures",
         "Brews",
-        "Vault Decks"
+        "Vault Decks",
+        "Mod Box Tinkering"
       ],
       "globalCostIncrease": 0.0,
-      "groupCostIncrease": {
-        "Alchemy": 5.0
-      }
+      "groupCostIncrease": {}
     }
   }
 }

@@ -184,20 +184,6 @@
       "usesKnowledge": true
     },
     {
-      "itemRestrictions": {},
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Automatic Genius",
-      "cost": 1,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/atomatic/helmet",
-        "the_vault:gear/armor/atomatic/chestplate",
-        "the_vault:gear/armor/atomatic/leggings",
-        "the_vault:gear/armor/atomatic/boots"
-      ]
-    },
-    {
       "itemRestrictions": {
         "the_vault:vault_compass": {
           "restricts": {

@@ -1,26 +1,20 @@
 {
   "styles": {
-    "Mod Box Tinkering": {
-      "x": 200,
-      "y": -160,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/mod_box_tinkering"
-    },
     "Angel": {
       "x": 440,
-      "y": 160,
+      "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/angel"
     },
     "Misc Bag Upgrades": {
-      "x": 620,
-      "y": 80,
+      "x": 300,
+      "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/misc_bag_upgrades"
     },
     "Bag Inception": {
       "x": 250,
-      "y": 480,
+      "y": 40,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/inception_upgrade"
     },
@@ -67,76 +61,70 @@
       "icon": "the_vault:gui/researches/big_backpacks"
     },
     "Vault Compass": {
-      "x": 250,
-      "y": 40,
+      "x": 390,
+      "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/vault_compass"
     },
     "Soul Harvester": {
-      "x": 300,
-      "y": 40,
+      "x": 490,
+      "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/soul_harvester"
     },
     "Thermal Expansion": {
-      "x": 300,
+      "x": 110,
       "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/thermal_expansion"
     },
     "Create": {
-      "x": 250,
-      "y": 160,
+      "x": 10,
+      "y": 120,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create"
     },
     "Waystones": {
       "x": 390,
-      "y": 120,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/waystones"
     },
     "Torch Master": {
       "x": 440,
-      "y": 120,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/torch_master"
     },
     "Better Wallets": {
-      "x": 440,
-      "y": 200,
+      "x": 490,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/lightmans_currency"
     },
     "Easy Villagers": {
-      "x": 200,
-      "y": 280,
+      "x": 10,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/easy_villagers"
     },
     "Botany Pots": {
-      "x": 300,
-      "y": 280,
+      "x": 60,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botany_pots"
     },
     "Mob Spawners": {
-      "x": 300,
-      "y": 320,
+      "x": 110,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mob_spawners"
     },
-    "Automatic Genius": {
-      "x": 250,
-      "y": 440,
-      "frameType": "STAR",
-      "icon": "the_vault:gui/researches/automatic_genius"
-    },
     "Increase Level Cap": {
-      "x": 0,
-      "y": 0,
-      "frameType": "LARGE_STAR",
-      "icon": "the_vault:gui/researches/automatic_genius"
+      "x": 222,
+      "y": 100,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/researches/knowledge_star"
     },
     "Modular Routers": {
       "x": 60,
@@ -145,28 +133,34 @@
       "icon": "the_vault:gui/researches/modular_routers"
     },
     "Potions": {
-      "x": 390,
-      "y": 270,
+      "x": 200,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/potion"
     },
     "Mixtures": {
-      "x": 440,
-      "y": 270,
+      "x": 250,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mixture"
     },
     "Brews": {
-      "x": 490,
-      "y": 270,
+      "x": 300,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/brew"
     },
      "Vault Decks": {
-      "x": 390,
-      "y": 310,
+      "x": 225,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/vault_decks"
+    },
+    "Mod Box Tinkering": {
+      "x": 275,
+      "y": 280,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/mod_box_tinkering"
     }
   }
 }
