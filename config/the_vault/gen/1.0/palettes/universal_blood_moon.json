@@ -238,7 +238,6 @@
             "type": "weighted_target",
             "target": "minecraft:cyan_wool",
             "output": {
-                "buildscape:yellow_tiles": 0,
                 "auxiliaryblocks:orange_crystal": 1,
                 "auxiliaryblocks:orange_plastic": 2
             }
@@ -442,7 +441,6 @@
             "type": "weighted_target",
             "target": "minecraft:green_concrete",
             "output": {
-				"buildscape:yellow_tiles": 0,
                 "auxiliaryblocks:orange_crystal": 1,
                 "auxiliaryblocks:orange_plastic": 2
             }

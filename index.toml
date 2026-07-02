@@ -4386,7 +4386,7 @@ hash = "63dffbbf6aaccb4174f00afe866eb7009da032c214b38c0ba088db9783eabb60"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_blood_moon.json"
-hash = "4fc05ec296c1ace4bc22d3a97f3a56ddd8a7c8686db95f295a7f87453987f4f5"
+hash = "bb71863acb284c99df6c049bea7f91ba186c7ffda6a5f61dc1d04597d73d0c34"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_cave.json"
@@ -15882,7 +15882,7 @@ hash = "2d1279bbec25b1b76b489e9ebe0f9216f59c0010c71ede741407bd38bc5b8c2c"
 
 [[files]]
 file = "config/the_vault/paxel.json"
-hash = "6df412458dad38137202b295a75081563b47994dbb9b522d978ee285317cea93"
+hash = "cf97a88e6e398d68c47c1dee9189b4ec7d01ec9dee0ccbc5198dc9eaca8883df"
 
 [[files]]
 file = "config/the_vault/paxel_enhancement.json"
@@ -16282,7 +16282,7 @@ hash = "5298438b29cf21319efaaa6469838b6b80909064cff88f81dc5269f93e47df30"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "57880ca5e5a33f527f2d92b24a202cbd597e99f8c286028d76303bd04c218a00"
+hash = "2d79ab37cac61455a9df7012eb3975d00fa686624661d80b1943dc7f7e01b090"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients_greed.json"
@@ -16350,7 +16350,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "6112d56b79e9c6bef0e123875ba3e8b1ecf5b46b686e644ccec623c20fe1214b"
+hash = "27f0c01341ec16c9684698c457c7e627737ff827b2d43c343cd71a7274c014c6"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -21750,11 +21750,7 @@ hash = "60cd4b51d4140d30c3f0f12cd7a07cb11ec03f613d355808d8142977c3c3ed64"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2/recipes.js"
-hash = "f983e3f96273c6ab6176dbc26bfe798713ae3487ce813e495b6571871f478dc3"
-
-[[files]]
-file = "kubejs/server_scripts/vh_compat/ae2additions/recipes.js"
-hash = "d66c22d8f70e84a74443cf8ca9e926eb3c9ede57283c2a7ddb459e653dfcf5f8"
+hash = "d8697d6de9a77ac0d0d679583f5e3f183873c7f695bd11657bfc0c18a6d57dfd"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/alexsmobs/recipes.js"
@@ -21782,7 +21778,7 @@ hash = "d1f87fe19a9306f5bba4d400aabe4b960d4b6f9b1bbfe506739a6732cf429a6e"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/creative/recipes.js"
-hash = "39364103c17be3a32ac4419033764b1ebdaf2c66b5edf7b64aeed0b8409bc5e3"
+hash = "62a5b94f95cc4e63c62f109c40c64ad696de5d76eada33ab638496dc1b12bda4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/everycompat/everycompat-board-recipes.js"
@@ -24745,7 +24741,7 @@ hash = "3d6666340bca822bc15ffcacee64ceede82daca3057142e68e4af4d63923ebfd"
 
 [[files]]
 file = "scripts/Vanilla.zs"
-hash = "1bb1913f1d0479d9d4d2abb340a93b790cba1902400c5c8015c4b50a4f92472c"
+hash = "b523d0b85153a799d5e2452c9c0db03c2203eb395c1a8c968e2634557127669f"
 
 [[files]]
 file = "scripts/VaultStuff.zs"

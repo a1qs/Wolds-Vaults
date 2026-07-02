@@ -182,7 +182,7 @@
         "amount": 2
       },
       "probability": 1.0
-    }
+    },
     "minecraft:prismarine": {
       "item": {
         "item": "minecraft:prismarine_shard",

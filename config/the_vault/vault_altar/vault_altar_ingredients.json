@@ -990,9 +990,6 @@
             "items": [
               {
                 "item": "minecraft:leather"
-              },
-              {
-                "item": "tropicraft:iguana_leather"
               }
             ],
             "amount": {

@@ -6,7 +6,7 @@ onEvent("recipes", event => {
             'ECE',
             'XBX'
         ], {
-        C: 'createaddition:electric_motor',
+        C: 'create:steam_engine',
         B: 'woldsvaults:wold_star',
         E: 'the_vault:echo_pog',
         V: 'compressium:vault_diamond_block_1',
