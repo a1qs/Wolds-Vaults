@@ -22098,6 +22098,11 @@ hash = "09320622a398cfd29e12a642c0996c1951c688d4fb087c3a230c8c1f49c28c2c"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "8943da521be59ea9cb0168a65e7601a910cfc7e91df379ee06bb1117b9bfb459"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "edb51dd1318fb65447700d5829e425805b6f125c2ad5ca2636bbd2c22f08a98f"
 metafile = true
@@ -22890,6 +22895,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "9b20947a3fb0fe011ee56c9a7db69eb267d7073b2b96f3df5a76b5d571c4d470"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "b9b43d2c5a927c04a229a2503c0d525bdaa3859259739a62316f49f7fe203480"
 metafile = true
 
 [[files]]
