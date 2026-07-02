@@ -15966,23 +15966,23 @@ hash = "79bae5f0c491784d65963de4ebc8de465673762445018c465df67d4c0011743c"
 
 [[files]]
 file = "config/the_vault/research_exclusions.json"
-hash = "c679f25e671d28849a4f12b226ede89871b1c16357d699758059634c21ee358d"
+hash = "f53a79705991b052ad33a4943e9295f9d5747ad55f548c36f0282301c94ef9db"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "3a63aaeea7d42e466bcaefb8cc604831234cdb5754cfffb51ee1a1ed538e901e"
+hash = "93205789ff6b06a9d90c12e9fc6166d725f0067d45054d350839b05af3b2bbaa"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "44bb712bb7722077bffded61de1a94ea714637032d33a3194e997c599c7ff8ca"
+hash = "fc3274819730595d2c2fd00eaf05c39470a270df80ec850483c38e86c8ca6fa8"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "fcbba954abfc70237a5a6dfb946d49a5a0ed3a624708893b829b7fd6f5e2c68b"
+hash = "852c9e92fb368dd680992af56ac3a82db498bfd37b30068c95d6702544727712"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "15be45501cc5979ac837c78e86b90dc671b2ca712094db0f564f35f973595136"
+hash = "120858df9772afb7c7d2daa6a8422f1692435a34bf4cb3a0533e763b247c6ca8"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
