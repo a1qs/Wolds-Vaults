@@ -22628,6 +22628,11 @@ hash = "80ebf49d29a321fbc0c78c54d98cb65a7bcd9b74f109254e759a603a56aa2fe5"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "05801be36fac9a5755a12304a9ea73784ef6654de68c7e080fafd5d07029d124"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "9ff0edda6506abe8798351c6181e3c948e16e05b18c8a74aed0f4f405ab9fe1f"
 metafile = true
