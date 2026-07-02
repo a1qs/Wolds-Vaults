@@ -4378,7 +4378,7 @@ hash = "85c038ea1a43b7601c80b2b2f0e5b9f586ad72c5ff07dc5105f3bc5c206e90fb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_blood.json"
-hash = "c53e5d1f3267e8b760f1c2decd0b13d3914d8e5353208213611c879aef5f69f3"
+hash = "1d53fc85ae6ffdc84c61c5e00b303a032b29a421f140fbebfe1fa5438501ee4f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_blood_ash.json"
@@ -4594,7 +4594,7 @@ hash = "279dbeffa7ceec3439277102fd95b16ca17a0e1031de72eec04f210cd41b033c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_temple.json"
-hash = "cd51182e7f252510ccb2ceb7e3738f78f3a5bb853672c77603dc4baad8f10897"
+hash = "4672e241444c8c311e424a6bf72d485b9b75ce3f280679798c3334c57e2e364a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tenos.json"

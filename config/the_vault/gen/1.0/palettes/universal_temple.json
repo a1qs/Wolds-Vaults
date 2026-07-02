@@ -242,14 +242,8 @@
             "type": "weighted_target",
             "target": "minecraft:fern",
             "output": {
-                "buildscape:pink_petal[flower_amount=1]": 18,
-                "buildscape:pink_petal[flower_amount=2]": 12,
-                "buildscape:pink_petal[flower_amount=3]": 6,
-                "buildscape:pink_petal[flower_amount=4]": 3,
-                "buildscape:red_petal[flower_amount=1]": 6,
-                "buildscape:red_petal[flower_amount=2]": 4,
-                "buildscape:red_petal[flower_amount=3]": 2,
-                "buildscape:red_petal[flower_amount=4]": 1
+                "minecraft:pink_tulip": 3,
+                "minecraft:red_tulip": 1
             }
         },
         {

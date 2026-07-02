@@ -111,7 +111,7 @@
             "type": "weighted_target",
             "target": "minecraft:birch_fence",
             "output": {
-                "buildscape:polished_basalt_wall": 1
+                "twigs:smooth_basalt_brick_wall": 1
             }
         },
         {
@@ -280,7 +280,7 @@
             "type": "weighted_target",
             "target": "minecraft:oak_fence",
             "output": {
-                "buildscape:polished_basalt_wall": 1
+                "twigs:smooth_basalt_brick_wall": 1
             }
         },
         {
@@ -308,7 +308,7 @@
             "type": "weighted_target",
             "target": "minecraft:oak_fence_gate",
             "output": {
-                "buildscape:ashpen_light_gray_fence_gate": 1
+                "architects_palette:twisted_fence_gate": 1
             }
         },
         {
@@ -375,14 +375,14 @@
             "type": "weighted_target",
             "target": "minecraft:stone_brick_wall",
             "output": {
-                "buildscape:polished_basalt_wall": 1
+                "twigs:smooth_basalt_brick_wall": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:cobblestone_wall",
             "output": {
-                "buildscape:polished_basalt_wall": 1
+                "twigs:smooth_basalt_brick_wall": 1
             }
         },
         {
@@ -510,14 +510,14 @@
             "type": "weighted_target",
             "target": "ecologics:azalea_fence",
             "output": {
-                "buildscape:polished_basalt_wall": 1
+                "twigs:smooth_basalt_brick_wall": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "create:cut_crimsite_wall",
             "output": {
-                "buildscape:polished_basalt_wall": 1
+                "twigs:smooth_basalt_brick_wall,": 1
             }
         },
         {
@@ -547,7 +547,7 @@
             "type": "weighted_target",
             "target": "create:cut_veridium_wall",
             "output": {
-                "buildscape:polished_basalt_wall": 1
+                "twigs:smooth_basalt_brick_wall": 1
             }
         },
         {
