@@ -16282,7 +16282,7 @@ hash = "5298438b29cf21319efaaa6469838b6b80909064cff88f81dc5269f93e47df30"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "3325754c97845ba5b7c66a74c4257cf311c1f5d4b79c6baf9ab357610effadd5"
+hash = "57880ca5e5a33f527f2d92b24a202cbd597e99f8c286028d76303bd04c218a00"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients_greed.json"
