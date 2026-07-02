@@ -118,7 +118,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/loot.json"
-hash = "5784173a700b491f3ecb4a7417171c27c0028c57cf898ef642b4a626219f5662"
+hash = "5cada29124805d8e0454dc5b67225bbf87075cffd53418e9c56f674708220e2c"
 
 [[files]]
 file = "config/incontrol/phases.json"
@@ -15970,11 +15970,11 @@ hash = "f53a79705991b052ad33a4943e9295f9d5747ad55f548c36f0282301c94ef9db"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "93205789ff6b06a9d90c12e9fc6166d725f0067d45054d350839b05af3b2bbaa"
+hash = "ec2ee78449ccccf40373fde266602c1142edec13602bfa14ec0c2a70a9ac0cc3"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "fc3274819730595d2c2fd00eaf05c39470a270df80ec850483c38e86c8ca6fa8"
+hash = "a646965b26d09f90479b91074659481653e23003bdfea8f773c4acb1b36c3cf2"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -15982,7 +15982,7 @@ hash = "852c9e92fb368dd680992af56ac3a82db498bfd37b30068c95d6702544727712"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "120858df9772afb7c7d2daa6a8422f1692435a34bf4cb3a0533e763b247c6ca8"
+hash = "92121e90456aeb86cfc8ccef7448bbb8e8e0239d1f8166ada877617f52d9b506"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -22275,6 +22275,11 @@ hash = "d26ef5bcbff8e6a94b8145f4694d99027545c394329dd5972a470d84fb9e310c"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "18e115dc1bca2f3f14d65f26e03a9f6d396d03b2b24a7bbd9bb0fc7dd7b7560f"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "f3417dcedcda8dbb0fbb6d05b60aa95a24e0c24dcd0f895b8776e1433817b914"
 metafile = true
@@ -22467,6 +22472,11 @@ metafile = true
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
 hash = "8cb2b225a09f17e2aaa4cddc92a3b538d1d16434657ed6bf554aa9a531010d07"
+metafile = true
+
+[[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "fbb412b52d27baa358e65c3d967f4bd561c3a6f69bed367c5a89965c07ed150f"
 metafile = true
 
 [[files]]
@@ -24673,7 +24683,7 @@ hash = "05df3cf123e6ff305c48fbb5b82952aba359b40a11a4833d534c2268a75840fe"
 
 [[files]]
 file = "scripts/ExtraTags.zs"
-hash = "5e3c1b51b33fe446e5fbedce8b9f98a06e910a054adbeb36dcddceb4be76299b"
+hash = "0e6a5e6769379691dd1ae7ea26ae161ce2dcab737a8f1a541f2fdd7704d623b1"
 
 [[files]]
 file = "scripts/GodTags.zs"

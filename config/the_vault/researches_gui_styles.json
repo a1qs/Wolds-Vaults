@@ -132,6 +132,12 @@
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/automatic_genius"
     },
+    "Increase Level Cap": {
+      "x": 0,
+      "y": 0,
+      "frameType": "LARGE_STAR",
+      "icon": "the_vault:gui/researches/automatic_genius"
+    },
     "Modular Routers": {
       "x": 60,
       "y": 120,

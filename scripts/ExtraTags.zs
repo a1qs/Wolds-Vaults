@@ -532,7 +532,6 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:smooth_stone>);
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:spruce_log>);
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:stone>);
-<tag:items:the_vault:vault_altar_resource>.add(<tag:items:mekanism:colorable/terracotta>);
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:tuff>);
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:white_wool>); //CHIPPED WHY
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:orange_wool>); //CHIPPED WHY

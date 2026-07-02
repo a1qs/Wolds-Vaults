@@ -654,6 +654,14 @@
       "name": "Vault Decks",
       "cost": 12,
       "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {},
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Increase Level Cap",
+      "cost": 12,
+      "usesKnowledge": true
     }
   ]
 }
