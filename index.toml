@@ -15970,11 +15970,11 @@ hash = "f53a79705991b052ad33a4943e9295f9d5747ad55f548c36f0282301c94ef9db"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "163ff5537d693dd3583df7284bd1b086b3da083cd8c8a310795dc15175b14e28"
+hash = "e647e3a2326fcf775c3e7f79c66cbe217ad30f323668c0119b09b5139ee86ca6"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "0250ee9bb452407d05f8ae1f0d776cad020b9d00bf4d710b6ebcfc76742960a5"
+hash = "21c3fae6110786baec7f41a3cd6a94a5dff17b47c954b0891b9046df745575e4"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"

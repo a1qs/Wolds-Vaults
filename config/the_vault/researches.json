@@ -14,7 +14,7 @@
         }
       },
       "name": "Waystones",
-      "cost": 1,
+      "cost": 3,
       "usesKnowledge": true
     },
     {
@@ -31,7 +31,7 @@
         }
       },
       "name": "Torch Master",
-      "cost": 2,
+      "cost": 6,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/torch/helmet",
@@ -54,7 +54,7 @@
         }
       },
       "name": "Modular Routers",
-      "cost": 3,
+      "cost": 9,
       "usesKnowledge": true
     },
     {
@@ -71,7 +71,7 @@
         }
       },
       "name": "Mob Spawners",
-      "cost": 3,
+      "cost": 9,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/zombie/helmet",
@@ -94,7 +94,7 @@
         }
       },
       "name": "Create",
-      "cost": 6,
+      "cost": 18,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/create/helmet",
@@ -117,7 +117,7 @@
         }
       },
       "name": "Botany Pots",
-      "cost": 4,
+      "cost": 12,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/fairy/helmet",
@@ -140,7 +140,7 @@
         }
       },
       "name": "Thermal Expansion",
-      "cost": 4,
+      "cost": 16,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/thermal/helmet",
@@ -180,7 +180,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Angel",
-      "cost": 4,
+      "cost": 10,
       "usesKnowledge": true
     },
     {
@@ -212,7 +212,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Potions",
-      "cost": 2,
+      "cost": 6,
       "usesKnowledge": true
     },
     {
@@ -228,7 +228,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Mixtures",
-      "cost": 2,
+      "cost": 6,
       "usesKnowledge": true
     },
     {
@@ -244,7 +244,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Brews",
-      "cost": 2,
+      "cost": 6,
       "usesKnowledge": true
     },
     {
@@ -252,7 +252,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Pouches",
-      "cost": 1,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -317,7 +317,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Misc Bag Upgrades",
-      "cost": 4,
+      "cost": 6,
       "usesKnowledge": true
     },
     {
@@ -333,7 +333,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Bag Inception",
-      "cost": 100,
+      "cost": 300,
       "usesKnowledge": true
     },
     {
@@ -370,7 +370,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Stack Upgrading",
-      "cost": 1,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -442,7 +442,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Auto Feeding",
-      "cost": 4,
+      "cost": 8,
       "usesKnowledge": true
     },
     {
@@ -450,7 +450,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Auto Refill",
-      "cost": 1,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -503,7 +503,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Double Pouches",
-      "cost": 1,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -519,7 +519,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Belts",
-      "cost": 1,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -535,7 +535,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Backpacks",
-      "cost": 2,
+      "cost": 4,
       "usesKnowledge": true
     },
     {
@@ -558,7 +558,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Big Backpacks",
-      "cost": 4,
+      "cost": 6,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/scout/helmet",
@@ -587,7 +587,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Soul Harvester",
-      "cost": 1,
+      "cost": 16,
       "usesKnowledge": true
     },
     {
@@ -624,7 +624,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Easy Villagers",
-      "cost": 3,
+      "cost": 9,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/villager/helmet",
@@ -638,7 +638,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Vault Decks",
-      "cost": 12,
+      "cost": 50,
       "usesKnowledge": true
     },
     {
@@ -646,7 +646,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Increase Level Cap",
-      "cost": 12,
+      "cost": 1,
       "usesKnowledge": true
     }
   ]

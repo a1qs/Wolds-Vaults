@@ -12,12 +12,12 @@
     "QoL": {
       "title": "QoL",
       "research": [
-        "Torch Master",
-        "Waystones",
-        "Better Wallets",
-        "Angel",
         "Vault Compass",
-        "Soul Harvester"
+        "Angel",
+        "Soul Harvester",
+        "Waystones",
+        "Torch Master",
+        "Better Wallets"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {}
@@ -36,7 +36,9 @@
         "Misc Bag Upgrades"
       ],
       "globalCostIncrease": 0.0,
-      "groupCostIncrease": {}
+      "groupCostIncrease": {
+        "Looting": 3.0
+      }
     },
     "Handling": {
       "title": "Handling",
@@ -49,7 +51,9 @@
         "Botany Pots"
       ],
       "globalCostIncrease": 0.0,
-      "groupCostIncrease": {}
+      "groupCostIncrease": {
+        "Handling": 24.0
+      }
     },
     "Enhancements": {
       "title": "Enhancements",
@@ -61,7 +65,9 @@
         "Mod Box Tinkering"
       ],
       "globalCostIncrease": 0.0,
-      "groupCostIncrease": {}
+      "groupCostIncrease": {
+        "Enhancements": 10.0
+      }
     }
   }
 }
