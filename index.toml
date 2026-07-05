@@ -21792,7 +21792,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "10f3fca6ef87e5a400e301f681784425051447707d921ee28b39b78d51786fbe"
+hash = "48f3ba887e52c18b25924d9f14dda1e65785eba83f791d388af939f0c3eac19a"
 metafile = true
 
 [[files]]
@@ -21942,7 +21942,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "5dbfcfcf723268f50b33e6352d9b45b42f93d92ab12133460b291e9fc41b230e"
+hash = "960f80a50e9ba74d72f4499b2eb2cf686a379a600ae10e48d93411feda7229f2"
 metafile = true
 
 [[files]]
@@ -22152,7 +22152,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-startup-qol.pw.toml"
-hash = "a8d95b62fe0e34eb474280e6fb50efb5bde23ae499f2d6aee874987d708d2dc2"
+hash = "4a7c307dce07c86217070916116eb9c4625015139d74839fc6c991b68cea50bd"
 metafile = true
 
 [[files]]
@@ -22192,12 +22192,12 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "2f607f9493c8a1582337d89ad630bc8a9ebec904e9e18012c12db6d2ff55bda7"
+hash = "95a002eba822a0aedcfd7ac607a949c6c5944625623af7e8fb2e908d14a3dd9b"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "e3aa914d6fc05be2622ab46b54a7ea1d9350b253ecbeef37f021f069fd4bf37d"
+hash = "73fc6843e3add7f832fd5c11460911006a164d807f3c5ffd64e51e21c7d57bb4"
 metafile = true
 
 [[files]]
@@ -22327,7 +22327,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "e053b6720c030163d87352fefc4c5eacba947091953d860fb64804868a96e109"
+hash = "5a586aca6a704de2daad2eb93cb5cf374cbc231e7cd0fcf0d8d2a728dbf4229f"
 metafile = true
 
 [[files]]

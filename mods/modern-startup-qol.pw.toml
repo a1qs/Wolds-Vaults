@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4548799
 project-id = 865091
+
+[option]
+optional = true
+description = "Show load times on titlescreen"

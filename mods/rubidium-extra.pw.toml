@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4513591
 project-id = 654373
+
+[option]
+optional = true
+description = "More options such as disabling specific particles"

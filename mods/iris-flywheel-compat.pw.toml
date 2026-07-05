@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4631182
 project-id = 659897
+
+[option]
+optional = true
+description = "Only needed when using Oculus"

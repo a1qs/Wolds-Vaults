@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3817266
 project-id = 551736
+
+[option]
+optional = true
+description = "Dynamic lightning"
