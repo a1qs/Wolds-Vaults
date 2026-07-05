@@ -16330,7 +16330,7 @@ hash = "2a727a1b582a665075d95faa6c99010baf8dc49678eb54ed8d4d256fedcb8f21"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "2115a722add65ca2467c4c1437446cc2cbe2962ee908af715d22ad1f3c6ec090"
+hash = "2cdbe8a29afb90f269f1cb0a822a169ca6e7c7751707d2e83cb759204da1facb"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -22546,7 +22546,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod-0.31.7-slim.jar"
-hash = "7b9d1ea62ce5cf62fd937e7930ab30781688907750bfb9c1465ed25d3084d434"
+hash = "d87331a50cd95d542463525eaa6241ce4b7629c8b005b4c5cdc425debbcee58e"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"

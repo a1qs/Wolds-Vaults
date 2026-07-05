@@ -4462,31 +4462,31 @@
           "name": "Unextended",
           "color": "#2F86AE",
           "description": "-5 minutes of Vault Time",
-          "descriptionFormatted": "+%d minutes Vault Time",
+          "descriptionFormatted": "+%d minutes of Vault Time",
           "icon": "the_vault:gui/modifiers/extended"
         }
       },
       "the_vault:super_extension": {
         "properties": {
-          "timeAddedTicks": 6000
+          "timeAddedTicks": 12000
         },
         "display": {
           "name": "Extended",
           "color": "#2F86AE",
-          "description": "+5 minutes of Vault Time",
-          "descriptionFormatted": "+%d minutes Vault Time",
+          "description": "+10 minutes of Vault Time",
+          "descriptionFormatted": "+%d minutes of Vault Time",
           "icon": "the_vault:gui/modifiers/extended"
         }
       },
       "the_vault:extended": {
         "properties": {
-          "timeAddedTicks": 2400
+          "timeAddedTicks": 3600
         },
         "display": {
           "name": "Extended",
           "color": "#2F86AE",
-          "description": "+2 minutes Vault Time",
-          "descriptionFormatted": "+%d minutes Vault Time",
+          "description": "+3 minutes of Vault Time",
+          "descriptionFormatted": "+%d minutes of Vault Time",
           "icon": "the_vault:gui/modifiers/extended"
         }
       },
@@ -4497,8 +4497,8 @@
         "display": {
           "name": "Shortened",
           "color": "#2F86AE",
-          "description": "-1 minute Vault Time",
-          "descriptionFormatted": "-%d minutes Vault Time",
+          "description": "-1 minute of Vault Time",
+          "descriptionFormatted": "-%d minutes of Vault Time",
           "icon": "the_vault:gui/modifiers/rush"
         }
       },
@@ -4509,8 +4509,8 @@
         "display": {
           "name": "Shortened",
           "color": "#2F86AE",
-          "description": "-2.5 minute Vault Time",
-          "descriptionFormatted": "-%d minutes Vault Time",
+          "description": "-2.5 minutes of Vault Time",
+          "descriptionFormatted": "-%d minutes of Vault Time",
           "icon": "the_vault:gui/modifiers/rush"
         }
       },
@@ -4521,8 +4521,8 @@
         "display": {
           "name": "Time Boost",
           "color": "#2F86AE",
-          "description": "+30 seconds Vault Time",
-          "descriptionFormatted": "+30 seconds Vault Time",
+          "description": "+30 seconds of Vault Time",
+          "descriptionFormatted": "+30 seconds of Vault Time",
           "icon": "the_vault:gui/modifiers/extended"
         }
       },
@@ -4533,8 +4533,8 @@
         "display": {
           "name": "Rushed",
           "color": "#FFCD6F",
-          "description": "-1 minute Vault Time",
-          "descriptionFormatted": "-%d minutes Vault Time",
+          "description": "-1 minute of Vault Time",
+          "descriptionFormatted": "-%d minutes of Vault Time",
           "icon": "the_vault:gui/modifiers/rush"
         }
       }
