@@ -1794,15 +1794,15 @@ hash = "1c55d0439009590171b990ee90baad2d407feeaea094205510f7058f5ec93c72"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_0.json"
-hash = "cc07b1ff4b7163ffaeff7e35a3213df5b03fb1f6e4a9b8003645fdb9dcd19c5b"
+hash = "f4965a1fe6edfef21c983a5175605b51cc559d1cff54c465468b6950b9ab613e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_20.json"
-hash = "9b5faf4b7392af1d73616c6e26283c2cc505acda5973234143d5170a33378269"
+hash = "a8f49e031e090754cde5344722791dc55d00d31b1c4b93be0e333f30f399cc8a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_30.json"
-hash = "2ffb199e6d68b9f23d306730450730447489e33ec6fce24e1fbe0cfd525d9230"
+hash = "a67cf0e2e012a053756df4f98f2e76e9b8c9a3d74469746c15c1e7338eb793d5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_map.json"
@@ -1810,7 +1810,7 @@ hash = "2f7e409f850f4cfc8ea007230aac0023cfa548b32d687e061bd741efccb2eecf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_raw.json"
-hash = "412053bc6500729914e464c33dca7c6224c054a1b11b4dbe40b6341d2668f2f7"
+hash = "29407b93109ee27acfe76a1db5f4b9be0fbf0466896773fc9b2f6fccfa708b15"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/zealot_crate_100.json"
