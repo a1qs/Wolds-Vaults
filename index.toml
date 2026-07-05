@@ -21278,7 +21278,7 @@ hash = "60cd4b51d4140d30c3f0f12cd7a07cb11ec03f613d355808d8142977c3c3ed64"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2/recipes.js"
-hash = "d8697d6de9a77ac0d0d679583f5e3f183873c7f695bd11657bfc0c18a6d57dfd"
+hash = "0533350bd01d2ad0408ae33d67e03a2792122115c50603ab7add11f4c1bdddee"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/alexsmobs/recipes.js"
@@ -22546,7 +22546,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod-0.31.7-slim.jar"
-hash = "e7fb6e4104b4972cf2f9c21a5c0e4e90fd30e1bffcff275663e71a167447580e"
+hash = "7b9d1ea62ce5cf62fd937e7930ab30781688907750bfb9c1465ed25d3084d434"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
@@ -24235,7 +24235,7 @@ metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "23e710ca4d5f4f0764e8b17dcc3c1e6f6bdabc385a6a14795e8fcad27ad9f809"
+hash = "ab3f14b434816db05e231b67bdb44cbb196f03dd90682b8542d63451703aacd9"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -24308,10 +24308,6 @@ hash = "1c24478dae091661b242f05170fd9216ee92a01b41eca8c6e6f39ab2024ee791"
 [[files]]
 file = "scripts/Waystones.zs"
 hash = "c9a962abad5f1b659a3cab85a38247cff73db71ea535af10686a810cb3136f1d"
-
-[[files]]
-file = "scripts/ae2.zs"
-hash = "2fea6f70f5129deeafe84b7c19bb658fa05f7f9b12eff77953fc277e670a92e8"
 
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"
