@@ -376,7 +376,7 @@
     "the_vault:wendarrs_hourglass": {
       "weight": 10,
       "name": "Wendarr's Hourglass",
-      "effectText": "Boosts the fruit time added by 50%",
+      "effectText": "Boosts the fruit time added by 100%",
       "color": 3120128,
       "minCraftedUses": 12,
       "maxCraftedUses": 12,
@@ -384,7 +384,7 @@
       "maxUses": 30,
       "config": {
         "key": "the_vault:fruit_effectiveness",
-        "value": 0.5,
+        "value": 1.0,
         "curiosSlot": "green_trinket"
       }
     },

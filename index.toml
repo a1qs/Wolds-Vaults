@@ -16154,7 +16154,7 @@ hash = "dd4461f1439a519410dbd800bfd6d2425285e2f7c161a2b7159845619bc1e22a"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "893ef32bff46b2f38dd3df8e2d27b2522b7b5d7e84428d636ff05105b54ca5d0"
+hash = "3f1b312d602e3317e8ca3fdb23db6622d6c3e93eaf387f4c4761439cb7535cd6"
 
 [[files]]
 file = "config/the_vault/trinket_combinations.json"
