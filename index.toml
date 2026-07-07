@@ -16922,7 +16922,7 @@ hash = "14a27f42885b7706f55167d71b0aeecd3844ef67e799c9ba1c4c44c72d08e5e5"
 
 [[files]]
 file = "configureddefaults/config/appliedenergistics2/common.json"
-hash = "86e60d82af28b1c7371dd286e1d69d709dde090848ce9c8da11a47a4b40b55ab"
+hash = "a5fe21bf0313ae173030ab456528f25684baa08147bbf77656ec876f944c67dc"
 
 [[files]]
 file = "configureddefaults/config/architects_palette-common.toml"
@@ -22507,7 +22507,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultlootbeams.pw.toml"
-hash = "da879aa36f3b6d54b1d2f39d3761d1af0aa0d15d6e984de09a70c000a4fc8bb5"
+hash = "a649b3b18970551cd1f796c876c54da16b81ef9cfd1b6d57e705c892841b8e40"
 metafile = true
 
 [[files]]
