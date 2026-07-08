@@ -16942,7 +16942,7 @@ hash = "5e2777e54625a281aa2be7573dbc988d72a03774af8a45b21e372256c7a4ec01"
 
 [[files]]
 file = "configureddefaults/config/bettercombat/server.json5"
-hash = "19c07dd93deb97b0cbc6f4cdde14a1e4749cf9175e0ad623406129ac382a1ca5"
+hash = "cf11de62f01fd772fee074bbfd8890d3ebd644fd51dec2d03bd74d97111cbc89"
 
 [[files]]
 file = "configureddefaults/config/camera-client.toml"
