@@ -17078,7 +17078,7 @@ hash = "b72f2ae563d83b1ae054df7527c8f3a532c68c057e67a53b51e76def36d9334b"
 
 [[files]]
 file = "configureddefaults/config/everycomp-registry.toml"
-hash = "479a6864b561561e34e31343cf68089718737d5c67fc01e492cf1bac9a7da357"
+hash = "b89e8b8a25c8c47ec1de62964f8ce20a16b0903f0302f83c1aa1868faadc2ed3"
 
 [[files]]
 file = "configureddefaults/config/fastbench.cfg"
