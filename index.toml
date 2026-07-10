@@ -16022,7 +16022,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "e5ee95ff4a77fa54a47c2853ca67a0531cc437954c08992c27ac1e3d98afda9c"
+hash = "7ac5510efa47632b0f603b15bb36b2ac6a9c45a9c4dc282a2dc4dc06936d8894"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
