@@ -16154,7 +16154,7 @@ hash = "dd4461f1439a519410dbd800bfd6d2425285e2f7c161a2b7159845619bc1e22a"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "3f1b312d602e3317e8ca3fdb23db6622d6c3e93eaf387f4c4761439cb7535cd6"
+hash = "573d117ccc586251c7f91061550ed43cc6df7e1e35b929db7c24b223b52ff068"
 
 [[files]]
 file = "config/the_vault/trinket_combinations.json"
@@ -17594,7 +17594,7 @@ hash = "2d7ce69c83d36f018bbca03a33ceba9f7d66d3a7ba5b61634e3ecbdf761321a0"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/parcool-server.toml"
-hash = "c08e5c4a66a43d4bcbdfd092d0b5c30286f9fd816c07a22d4cf63c08c671a872"
+hash = "f39d6472f4b12572c8ac7e79e1d11cbd1e44083a864edac5b891fc86f003c47c"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/pickupnotifier/pickupnotifier-server.toml"
@@ -17718,7 +17718,7 @@ hash = "a3fb9d003a209c6e3d78ad05098aed5faef3b9eab9501d4a38d5e95a5d49420c"
 
 [[files]]
 file = "defaultconfigs/parcool-server.toml"
-hash = "c08e5c4a66a43d4bcbdfd092d0b5c30286f9fd816c07a22d4cf63c08c671a872"
+hash = "f39d6472f4b12572c8ac7e79e1d11cbd1e44083a864edac5b891fc86f003c47c"
 
 [[files]]
 file = "defaultconfigs/pickupnotifier/pickupnotifier-server.toml"
