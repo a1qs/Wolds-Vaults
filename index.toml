@@ -15950,7 +15950,7 @@ hash = "f53a79705991b052ad33a4943e9295f9d5747ad55f548c36f0282301c94ef9db"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "e647e3a2326fcf775c3e7f79c66cbe217ad30f323668c0119b09b5139ee86ca6"
+hash = "ef6c388a0514472754d726a78f832c61651ca20ed9b32c93f888912c6be04d33"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"

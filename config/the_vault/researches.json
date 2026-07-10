@@ -19,6 +19,23 @@
     },
     {
       "modIds": [
+        "scannable"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Scanner",
+      "cost": 12,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "torchmaster"
       ],
       "restrictions": {
