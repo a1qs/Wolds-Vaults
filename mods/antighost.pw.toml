@@ -1,6 +1,6 @@
 name = "AntiGhost"
 filename = "antighost-1.18.1-forge39.0.9-1.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

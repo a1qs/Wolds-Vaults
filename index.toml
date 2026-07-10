@@ -21507,7 +21507,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "041db6e8aeecd7f0fddc0afc694be30004f7e816839ac434048a2062a1849ca1"
+hash = "7bd6307c97b7f9e3c97bdc7099f296995cdf25624cf7b4acd4c6503d4a576a16"
 metafile = true
 
 [[files]]
@@ -21607,7 +21607,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "de65c3aa66caaca5435742457fc017d9d2714f4afb4e5fb0033b680d4e60f207"
+hash = "7c698b3723eb130f8f2de339a2e973a41c8eede3044377dad38a2cfd0130a451"
 metafile = true
 
 [[files]]
@@ -21767,7 +21767,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "43cfbb6b5a3738bc10edb0d68a7c84849d93ca37282b92509b43ce14da50dc03"
+hash = "0d385695f9ad7da19910401823bd52ec1d22c2286373f4b728332e528e267b09"
 metafile = true
 
 [[files]]
@@ -21812,7 +21812,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "53b3837ad681552346b76191578046b485665bf40dbd2241e47cbef71ce2e051"
+hash = "1cfab57867fcadf52da34b363e20709f1fc26a1fa5c16464f210e3afcafd3eb5"
 metafile = true
 
 [[files]]
@@ -21827,7 +21827,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
-hash = "faa423dd02699c74e40c0ac171883895027656dccfb1a132b369d27892988d76"
+hash = "9f655ef60e30429273df5560df29c3727357a863a521a03d8eaad70d7af349ea"
 metafile = true
 
 [[files]]
@@ -21842,7 +21842,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "0b02fde8ddcea4f9bf79565211b8302c18229aaa863414a15a0fb82742dd4a8c"
+hash = "b2fee8335b766b7e168cbbf5ef71d07735f6013b8958106b6fabc786579b1cb2"
 metafile = true
 
 [[files]]
@@ -21972,7 +21972,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "d414f9b45f2c12f5618da995d2c3e51964131baada4ed142483c0612f52b3934"
+hash = "3538726d42eb224563c2b4b58c7d5d67b252db20a05f8299a06735630fba1707"
 metafile = true
 
 [[files]]
@@ -22167,7 +22167,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "80ebf49d29a321fbc0c78c54d98cb65a7bcd9b74f109254e759a603a56aa2fe5"
+hash = "12e97456e6589a060e60a6939dbb7ae2712ad1492846e5200fd4a8129b5c82bb"
 metafile = true
 
 [[files]]
@@ -22297,7 +22297,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "7a68bc864f07c61321b6b48b52023ef73b21bc6bed2940f974f7df02f80621f3"
+hash = "2e9ee45f89e4ed741e2fd1404bd27db0595202dc83b09bb39cfe7d0096b4fa3a"
 metafile = true
 
 [[files]]
@@ -22352,7 +22352,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
-hash = "f32ec1c570121b8819ebccd88bc21c80ea5b6d5273876f2e7f41ca3737ceb6bf"
+hash = "58f41374a8e4e1bb34309b0eec6f526a8e72405a6e197bdcdf30ac48d5dcb3c1"
 metafile = true
 
 [[files]]
