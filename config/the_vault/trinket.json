@@ -432,7 +432,7 @@
       }
     },
     "the_vault:running_shoes": {
-      "weight": 10,
+      "weight": 0,
       "name": "Running Shoes",
       "effectText": "Parkour uses no energy",
       "color": 3304444,
