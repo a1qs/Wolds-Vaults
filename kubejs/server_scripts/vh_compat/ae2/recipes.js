@@ -112,6 +112,18 @@ onEvent("recipes", event => {
         'minecraft:diamond_block'
     )
 
+    event.shaped(Item.of('ae2:creative_energy_cell'),
+        [
+            'QRQ',
+            'RDR',
+            'QRQ'
+        ], {
+            Q: 'minecraft:quartz_block',
+            R: 'minecraft:redstone_block',
+            D: 'minecraft:diamond_block'
+
+        }).id('ae2:creative_energy_cell')
+
 
 
 
