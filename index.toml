@@ -21386,7 +21386,7 @@ hash = "c995a7de71c427ffc362e75bdd3136726e89d1094775ad3650b0d5791ec85be4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "d2e456333e36a1b1e9777ee9639121e451581462cec30599fb16195d4542a2e5"
+hash = "cfc9b867f793ec09d7627fc41b67f4a42b33b64de46409ffdd40ba1080fa5c8c"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
