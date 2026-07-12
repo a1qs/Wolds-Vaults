@@ -1,0 +1,17 @@
+{
+  "unsup_manifest": "root-1",
+  "name": "evil transgender vaults",
+  "versions": {
+    "current": { "name": "1.0.0", "code": 1 },
+    "history": [
+      { "name": "1.0.0", "code": 1 }
+    ]
+  },
+  "flavor_groups": [
+    {
+      "id": "observable",
+      "name": "Observable",
+      "choices": ["observable_off", "observable_on"]
+    }
+  ]
+}
