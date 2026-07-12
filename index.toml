@@ -21461,10 +21461,6 @@ file = "kubejs/startup_scripts/wold_stuff.js"
 hash = "67e55abff725d12dd2331bc863d896a5f8bab24bfac5cff292fe5bc8bc832636"
 
 [[files]]
-file = "manifest.json"
-hash = "00a8fc614cc422039e90c929e5c7bd94aea6597458c1b9edd7340424feabf0f0"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "91dd190167e05be95ef648fba16048a7c253544ab394a1cb70669a567c6e63a8"
 metafile = true
