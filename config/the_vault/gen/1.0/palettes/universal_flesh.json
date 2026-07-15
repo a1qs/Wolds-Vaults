@@ -46,8 +46,8 @@
             "type": "weighted_target",
             "target": "minecraft:coarse_dirt",
             "output": {
-                "everycomp:ap/botania/livingwood_boards": 1,
-                "botania:stripped_livingwood": 1
+                "architects_palette:crimson_boards": 1,
+                "minecraft:stripped_crimson_hyphae": 1
             }
         },
         {

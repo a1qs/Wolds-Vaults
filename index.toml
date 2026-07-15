@@ -2002,7 +2002,7 @@ hash = "af5da210a960f4d7d685857384b8c73c03b785844c2ab6de6c4afc016ef9a687"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/arena/fairy.json"
-hash = "854abad05d1b40f860bbc4df295569d491b751b724a3b95cdd8165613e093dd8"
+hash = "e4d7601aece74e6f76992b8939dfef92fd6eb4246a02009db10e94f7828b5119"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/arena/soul_flame.json"
@@ -2158,7 +2158,7 @@ hash = "31ab70d8d12df45cbb215c163f29a8d50e8a2721451507a9f72f07e814f06924"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_flesh.json"
-hash = "dc6b210f868ccf3c94209abbf16b86e61a094f38a3c434d73d140120befb5210"
+hash = "b25be4f626b6e62015b841344e093fcd875d143365817cdffccabee774c77bbb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_flooded.json"
@@ -4370,7 +4370,7 @@ hash = "fc3f5450877dc67abf20ba65f8419287b80b68de436bc976ae057f7dc9b294e4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_flesh.json"
-hash = "3b26ee21a65004dcd6a580cc5c472968bec9b316fe80c5152c2e9a939467ac56"
+hash = "8f7ae5c6ce4a439db551defa7e2d39682f946f33309efa34747b0cb76b8d76a5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_flooded.json"
@@ -4526,11 +4526,11 @@ hash = "4672e241444c8c311e424a6bf72d485b9b75ce3f280679798c3334c57e2e364a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tenos.json"
-hash = "75195fc31ab17ca9622a3a17a5e1baf2658c79f4a4605b7adf3b5656c2a50804"
+hash = "d9e256ba999e7db84a286b0272ff1797b9a566c13ca0f68997302d2af252bc76"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tenos_normal.json"
-hash = "da0ef857acc0c910192b036b96345bf005a37ff701db32a078e4f7fa7c566b0d"
+hash = "a69dd8ea84556486a45cf4251c8dd036002bbbf210e3cab91b4e45a91cbd00be"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_thanksgiving.json"
@@ -16422,7 +16422,7 @@ hash = "99e04878d61cf5ff64b7b40664e0d312296f6d4b91a9ba2b661a81049e8ba310"
 
 [[files]]
 file = "config/the_vault/void_crucible/dungeon_rooms.json"
-hash = "d695a9ef283a87fefcb9b73b0482b4815b6d3c81e76df49d02efb3709447eb57"
+hash = "3e9f4599247042d9de92db4d355a8cdff9c967be5094327249e7f9ffa07dfb89"
 
 [[files]]
 file = "config/the_vault/void_crucible/etching_vendor1.json"

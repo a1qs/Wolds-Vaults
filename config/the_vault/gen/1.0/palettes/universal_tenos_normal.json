@@ -51,9 +51,7 @@
       "type": "weighted_target",
       "target": "minecraft:coarse_dirt",
       "output": {
-        "botania:stripped_dreamwood": 1,
-        "everycomp:q/botania/vertical_dreamwood_planks": 1,
-        "everycomp:ap/botania/dreamwood_boards": 1
+        "the_vault:chromatic_planks": 1
       }
     },
     {
