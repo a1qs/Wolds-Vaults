@@ -67,18 +67,6 @@
         "amount": 1
       },
       "sell": {
-        "id": "botania:overgrowth_seed",
-        "amount": 1
-      },
-	  "max_trades": 1,
-	  "times_traded": 0
-    },
-	{
-      "buy": {
-        "id": "the_vault:bit_5000",
-        "amount": 1
-      },
-      "sell": {
         "id": "minecraft:dragon_head",
         "amount": 1
       },

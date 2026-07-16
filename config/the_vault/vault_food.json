@@ -27,14 +27,6 @@
           "ambient": false,
           "showParticles": false,
           "showIcon": true
-        },
-        {
-          "effectId": "botania:feather_feet",
-          "amplifier": 1,
-          "duration": 6000,
-          "ambient": false,
-          "showParticles": false,
-          "showIcon": true
         }
       ]
     },

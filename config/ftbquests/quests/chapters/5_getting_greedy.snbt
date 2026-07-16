@@ -481,7 +481,7 @@
 		}
 		{
 			title: "The Greed Tree"
-			icon: "botania:gaia_head"
+			icon: "minecraft:wither_skeleton_skull"
 			x: -4.5d
 			y: -2.5d
 			shape: "rsquare"

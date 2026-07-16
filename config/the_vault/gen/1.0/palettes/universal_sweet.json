@@ -64,7 +64,6 @@
             "type": "weighted_target",
             "target": "minecraft:cobblestone_slab",
             "output": {
-                "botania:red_quartz_slab": 1,
                 "minecraft:smooth_quartz_slab": 1
             }
         },
@@ -307,35 +306,35 @@
             "type": "weighted_target",
             "target": "minecraft:stone_bricks",
             "output": {
-                "botania:red_quartz": 1
+                "minecraft:quartz_block": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:stone_brick_stairs",
             "output": {
-                "botania:red_quartz_stairs": 1
+                "minecraft:quartz_stairs": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "create:andesite_pillar",
             "output": {
-                "botania:red_quartz_pillar": 1
+                "minecraft:quartz_pillar": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:chiseled_stone_bricks",
             "output": {
-                "botania:chiseled_red_quartz": 1
+                "minecraft:chiseled_quartz_block": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:stone_brick_slab",
             "output": {
-                "botania:red_quartz_slab": 1
+                "minecraft:quartz_slab": 1
             }
         },
         {
@@ -384,7 +383,7 @@
             "type": "weighted_target",
             "target": "minecraft:mossy_cobblestone",
             "output": {
-                "botania:chiseled_red_quartz": 1
+                "minecraft:quartz_slab": 1
             }
         },
         {
@@ -503,21 +502,21 @@
             "type": "weighted_target",
             "target": "quark:azalea_log",
             "output": {
-                "botania:red_quartz_pillar": 1
+                "minecraft:quartz_pillar": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "quark:azalea_planks",
             "output": {
-                "botania:chiseled_red_quartz": 1
+                "minecraft:chiseled_quartz_block": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "quark:azalea_planks_stairs",
             "output": {
-                "botania:red_quartz_stairs": 1
+                "minecraft:quartz_stairs": 1
             }
         },
         {

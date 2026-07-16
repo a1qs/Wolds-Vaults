@@ -77,15 +77,13 @@
       "type": "weighted_target",
       "target": "minecraft:spruce_slab",
       "output": {
-        "botania:stripped_dreamwood_slab": 1,
-        "botania:dreamwood_planks_slab": 1
+        "the_vault:chromatic_slab": 1
       }
     },
     {
       "type": "weighted_target",
       "target": "minecraft:purple_wool",
       "output": {
-        "everycomp:q/botania/dreamwood_bookshelf": 2,
         "the_vault:tenos_bookshelf": 1,
         "the_vault:tenos_bookshelf_empty": 1
       }
@@ -226,7 +224,6 @@
       "target": "minecraft:fern",
       "output": {
         "minecraft:air": 16,
-        "botania:cyan_shiny_flower": 8,
         "everycomp:tw/the_vault/chromatic_table": 4,
         "minecraft:lectern[has_book=true,facing=south]{Book:{id:\"minecraft:writable_book\",Count:1b}}": 1,
         "minecraft:lectern[has_book=true,facing=north]{Book:{id:\"minecraft:writable_book\",Count:1b}}": 1,

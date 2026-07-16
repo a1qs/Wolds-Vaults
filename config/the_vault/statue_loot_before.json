@@ -225,18 +225,6 @@
     },
     {
       "value": {
-        "ITEM": "botania:metamorphic_taiga_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "ITEM": "botania:metamorphic_mesa_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
         "ITEM": "engineersdecor:rebar_concrete"
       },
       "weight": 4
@@ -670,18 +658,6 @@
     },
     {
       "value": {
-        "ITEM": "botania:metamorphic_taiga_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "ITEM": "botania:metamorphic_mesa_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
         "ITEM": "engineersdecor:rebar_concrete"
       },
       "weight": 4
@@ -1097,18 +1073,6 @@
     },
     {
       "value": {
-        "ITEM": "botania:metamorphic_taiga_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "ITEM": "botania:metamorphic_mesa_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
         "ITEM": "engineersdecor:rebar_concrete"
       },
       "weight": 4
@@ -1495,18 +1459,6 @@
     {
       "value": {
         "ITEM": "enviromats:travertine"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "ITEM": "botania:metamorphic_taiga_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "ITEM": "botania:metamorphic_mesa_stone"
       },
       "weight": 4
     },
@@ -1970,18 +1922,6 @@
     {
       "value": {
         "ITEM": "enviromats:travertine"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "ITEM": "botania:metamorphic_taiga_stone"
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "ITEM": "botania:metamorphic_mesa_stone"
       },
       "weight": 4
     },

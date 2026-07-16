@@ -143,24 +143,6 @@
       ],
       "weight": 1
     },
-    "Botania": {
-      "entries": [
-        {"value": {"id": "botania:blacker_lotus", "amountMin": 1, "amountMax": 1}, "weight": 140},
-        {"value": {"id": "botania:gourmaryllis", "amountMin": 1, "amountMax": 1}, "weight": 80},
-        {"value": {"id": "botania:rosa_arcana", "amountMin": 1, "amountMax": 1}, "weight": 80},
-        {"value": {"id": "botania:overgrowth_seed", "amountMin": 1, "amountMax": 1}, "weight": 70},
-        {"value": {"id": "botania:munchdew", "amountMin": 1, "amountMax": 1}, "weight": 60},
-        {"value": {"id": "botania:entropinnyum", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "botania:kekimurus", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "botania:agricarnation", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "botania:marimorphosis", "amountMin": 1, "amountMax": 1}, "weight": 40},
-        {"value": {"id": "botania:bellethorn", "amountMin": 1, "amountMax": 1}, "weight": 30},
-        {"value": {"id": "botania:exoflame", "amountMin": 1, "amountMax": 1}, "weight": 20},
-        {"value": {"id": "botania:orechid", "amountMin": 1, "amountMax": 1}, "weight": 5},
-        {"value": {"id": "botania:loonium", "amountMin": 1, "amountMax": 1}, "weight": 5}
-      ],
-      "weight": 1
-    },
     "Easy Villagers": {
       "entries": [
         {"value": {"id": "easy_villagers:trader", "amountMin": 1, "amountMax": 1}, "weight": 100},

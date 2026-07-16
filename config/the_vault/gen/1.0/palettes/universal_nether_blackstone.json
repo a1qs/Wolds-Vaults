@@ -236,14 +236,14 @@
             "type": "weighted_target",
             "target": "minecraft:oak_log",
             "output": {
-                "botania:livingwood_log": 1
+                "minecraft:dark_oak_log": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:oak_wood",
             "output": {
-                "botania:livingwood": 1
+                "minecraft:dark_oak_wood": 1
             }
         },
         {
@@ -258,44 +258,42 @@
             "type": "weighted_target",
             "target": "minecraft:oak_planks",
             "output": {
-                "botania:livingwood_planks": 1
+                "minecraft:dark_oak_planks": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:oak_fence",
             "output": {
-                "botania:livingwood_fence": 1
+                "minecraft:dark_oak_fence": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:oak_slab",
             "output": {
-                "botania:livingwood_planks_slab": 1
+                "minecraft:dark_oak_slab": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:oak_trapdoor",
             "output": {
-                "everycomp:mct/botania/livingwood_barn_trapdoor": 1,
-                "everycomp:mct/botania/livingwood_cottage_trapdoor": 3,
-                "everycomp:mct/botania/livingwood_classic_trapdoor": 1
+                "minecraft:dark_oak_trapdoor": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:oak_stairs",
             "output": {
-                "botania:livingwood_planks_stairs": 1
+                "minecraft:dark_oak_stairs": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:oak_fence_gate",
             "output": {
-                "botania:livingwood_fence_gate": 1
+                "minecraft:dark_oak_fence_gate": 1
             }
         },
         {

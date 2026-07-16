@@ -26,7 +26,6 @@
       "target": "minecraft:gray_concrete",
       "output": {
         "auxiliaryblocks:yellow_pastel": 25,
-        "botania:chiseled_sunny_quartz": 40,
         "auxiliaryblocks:smooth_yellow_pastel": 25,
         "architects_palette:polished_glowstone": 5,
         "architects_palette:runic_glowstone": 5
@@ -499,21 +498,21 @@
       "type": "weighted_target",
       "target": "ecologics:azalea_log",
       "output": {
-        "botania:stripped_dreamwood_log": 1
+        "the_vault:stripped_chromatic_log": 1
       }
     },
     {
       "type": "weighted_target",
       "target": "ecologics:azalea_fence",
       "output": {
-        "botania:dreamwood_fence": 1
+        "luphieclutteredmod:luphie_glow_wood_set_fence": 1
       }
     },
     {
       "type": "weighted_target",
       "target": "create:cut_crimsite_wall",
       "output": {
-        "botania:stripped_dreamwood_wall": 1
+        "auxiliaryblocks:auora_icing_wall": 1
       }
     },
     {

@@ -405,7 +405,7 @@
             "type": "weighted_target",
             "target": "minecraft:mossy_stone_bricks",
             "output": {
-                "botania:mossy_livingrock_bricks": 1
+                "regions_unexplored:mossy_stone": 1
             }
         },
         {

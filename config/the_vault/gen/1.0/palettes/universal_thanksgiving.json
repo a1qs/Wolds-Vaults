@@ -44,7 +44,6 @@
             "type": "weighted_target",
             "target": "minecraft:grass_block",
             "output": {
-                "botania:golden_grass": 4,
                 "minecraft:rooted_dirt": 2
             }
         },

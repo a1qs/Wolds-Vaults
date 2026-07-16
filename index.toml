@@ -94,7 +94,7 @@ hash = "439f2d1fb2fbd378868ced5ad764b2959db973ad3a74efafe87aed8eb8e1563d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/5_getting_greedy.snbt"
-hash = "3523ac49b00b636c629c3db780068bfb2076d9fabdceb8b8d68e45511dd0e177"
+hash = "ac7c3ab7ba5c586c8e924a8c6462ea8b202d5122c243c86c52194abc534dd14c"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -186,7 +186,7 @@ hash = "275cce92574601ecbaff7da3170c9952c9c7a99bffdf1a0a4a34e84857a98924"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "c85b37b00e8fc49c09da171c0e6f6671704a493494f81c4d7fabec373fb13222"
+hash = "2256ded57d647159ad17ea58a230965a3ca8a32cbd0fa0c646741a25a536a9a7"
 
 [[files]]
 file = "config/scaling-bingo-seals-common.toml"
@@ -478,7 +478,7 @@ hash = "3bd174f5e7239ef7c2dc03527bf7c57666a43d55e8bb24acb2961993359b1321"
 
 [[files]]
 file = "config/the_vault/consumables.json"
-hash = "a91412a243c8d3485f6c4c585691ae1d5590567c8960cb6ef3fd622201eff3ef"
+hash = "d281130ace4754d14e95a5feedfdbfca0e02164e47c1107b435872353d5f1ac2"
 
 [[files]]
 file = "config/the_vault/corrupted_objective.json"
@@ -4290,7 +4290,7 @@ hash = "c95a18ace3c20f9793d98524709b2efa35432196db96fdd680baf2f82dd49a13"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_autumn_cherry_grove.json"
-hash = "54f429e1ed505b2cc42b461df77f4488033ff8055f2232df22012f26cbbc3ad9"
+hash = "3d058a5d46c506c4a03cb7e98bd600055b9d35b48332fb2a7303037add610900"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_barnyard.json"
@@ -4362,7 +4362,7 @@ hash = "10696f2ebd9e49dc9077ff3a3e018638d6f6198adba6d401aa999a1c4f2fee0e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_fairy_ring.json"
-hash = "ea008e28f5917e3cabfad7506c0b0b1057b50d431a32721b910f7481300b4f2e"
+hash = "9697d03e9026f13fb6f34b5c891ea172fce664e46821482a3239e61c447e351e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_festive.json"
@@ -4438,7 +4438,7 @@ hash = "bef4bab6e67cb03cb50d1176749a6ebadf3ab375b89393417c9b5cf4bc97a2f4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_nether_blackstone.json"
-hash = "4e57cb7ecbdfa15dbf29ce6d2aca2080202274e4b637e038902d25acc6ef91df"
+hash = "b28bd538a8a19e9aa90a67d478d2e0d764b52f4601e201d7633236bfa5c32960"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_nether_crimson.json"
@@ -4518,7 +4518,7 @@ hash = "b888815f1fec3e4602a3fc22ce9a75995f2b41c448e45197f699138618944e89"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_sweet.json"
-hash = "279dbeffa7ceec3439277102fd95b16ca17a0e1031de72eec04f210cd41b033c"
+hash = "32c6e35e3a5722cd337c0efa793256d60c8a367c6a584b695bb4d556f8d2ad4c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_temple.json"
@@ -4526,15 +4526,15 @@ hash = "4672e241444c8c311e424a6bf72d485b9b75ce3f280679798c3334c57e2e364a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tenos.json"
-hash = "d9e256ba999e7db84a286b0272ff1797b9a566c13ca0f68997302d2af252bc76"
+hash = "6aa1ed18f1bab430af0e418b73e5dc56473a61796f4896ff1ed4bcd8a56ab590"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tenos_normal.json"
-hash = "a69dd8ea84556486a45cf4251c8dd036002bbbf210e3cab91b4e45a91cbd00be"
+hash = "ac38f59f1516ea7dc9fb3a5e7bd4e1589d11940f2d3b51f453f84aaa7d8e38ce"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_thanksgiving.json"
-hash = "8f3f2ab0a945f15420ad9d7fbe9f33fa58bcd59f4abe84ce5d4011838e10c143"
+hash = "da811d0c9ce79c407aacb2b6f32f86e26f96da6527c6ddd2952eee35dd604947"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tropical.json"
@@ -4562,7 +4562,7 @@ hash = "897a430414f95a3c23e92f82683db10d58d56043d94a7875234ff85a30cee38a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_wendarr_normal.json"
-hash = "f615b0988ecc2852985a96d3ada5bc5e63e1bb451714af5d8141cda036c8aa60"
+hash = "8646ce970188017cbcf90c10b84e30b312f19af301be542c1116fe49b9e4fa0e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_white.json"
@@ -15758,7 +15758,7 @@ hash = "4f22c2cede3b974b3d846f946cd0292060332ce30ddb3e596fe9d7e7da210070"
 
 [[files]]
 file = "config/the_vault/mod_box.json"
-hash = "2ac681f4634d32ff5cf1b7ec17e93ab7dd22a9a015f2a9d5d0647da35db3a882"
+hash = "0a38bbc60e009acf6d200fb09a7d5508db1366f5b05c80116f6c25eca6b6b2ff"
 
 [[files]]
 file = "config/the_vault/modifier_groups.json"
@@ -16050,7 +16050,7 @@ hash = "ff2217f1062d36d2704cce2d514cee04147fb590120af318f36ab8de1c53045f"
 
 [[files]]
 file = "config/the_vault/statue_loot_before.json"
-hash = "fd754692b3fe500f3100b768659ea009f330a9c9ebd023715c29e52072e0b646"
+hash = "4f17b5146276ae80fc792b09dfbb56fcf9a841e581830e8f0a7d8574f5c84137"
 
 [[files]]
 file = "config/the_vault/statue_recycling.json"
@@ -16270,7 +16270,7 @@ hash = "7504013de25eab649bee5bd8c4bb8acca38043e8af2efdb136e14731e35831fd"
 
 [[files]]
 file = "config/the_vault/vault_food.json"
-hash = "d70dd6569c33508c190aac3a28620ca2a92551e0e0dc6fd3316b898f85d941b3"
+hash = "ad090c9f0db0f882875b80090f4f8a069dbb4b24e70716d8515614f1b0a340d3"
 
 [[files]]
 file = "config/the_vault/vault_gear_base.json"
@@ -16278,7 +16278,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "27f0c01341ec16c9684698c457c7e627737ff827b2d43c343cd71a7274c014c6"
+hash = "f015924df866e3c8ac7dc0b93e79477cdec6f044d8f1928c29ce4584a587166d"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -16378,7 +16378,7 @@ hash = "5f3a79d88aac0bfa3487ddf2b03b960df387f5d51139ea68a60dafc5cd5112e9"
 
 [[files]]
 file = "config/the_vault/vault_vending.json"
-hash = "da68c37a1a0db5ebf623700919a9e01f9a9369b188401187013c4d64f5375800"
+hash = "bf3c4de7fbda38f5779374b143776982232825dd55bb1867d826635849585454"
 
 [[files]]
 file = "config/the_vault/vaultar_box.json"
@@ -16586,7 +16586,7 @@ hash = "6314593a2b9ee4bac451b08f922768f825d371135d770ff56f2de194042fbb3e"
 
 [[files]]
 file = "config/world-gen.json"
-hash = "22e8988531f95a0328676f03a8f501b414d9e818e7abdd8e0793d0a8335b4435"
+hash = "5e9f18e923c39eae3e29a76e34a00dcfa2c2582700bc11f4d960eae130249ab8"
 
 [[files]]
 file = "configureddefaults/README.md"
