@@ -21309,10 +21309,6 @@ file = "kubejs/server_scripts/vh_compat/boosters/recipes.js"
 hash = "65065cba5f86b2f0af9ec6f9a9b031a85bdfba9f2a02c11a7e892a1cb328407e"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/botania/tags.js"
-hash = "98ca78e2435f2b1f30fa3a786f322e55d1d4442d5594993a161085366aa87d3c"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/botanypots/recipes.js"
 hash = "dd69e73a453b7b742ad342af3e3276a4ae8f19d09b69cf14176a7b8681445507"
 
