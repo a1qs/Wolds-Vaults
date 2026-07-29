@@ -22176,11 +22176,6 @@ hash = "e8c28c3e8e12c1b3dd8efd2469911f5ce00e816c04c67c48e14aa8811860268e"
 metafile = true
 
 [[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "97a49f726c048630fe506588223fb7b110106f20ad1e2fa303dc170ebf97f185"
-metafile = true
-
-[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "a9ddf2249cc45e583cf174792021315e9bb29b3dcbc52601db2683441230e219"
 metafile = true
