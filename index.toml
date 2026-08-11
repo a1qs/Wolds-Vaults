@@ -16094,7 +16094,7 @@ hash = "312dbe81af007dec68645d6856cd16a5f3a7b9d883bd5a879c1280f0816dfa33"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "aae4392aedcb067d343144d36dfc759c5c151edc0624d4189590510857089492"
+hash = "8a1bb7a21bfab5e5b22c43ed799f202e15c5d3537e394f4c03a5a5d353d43d36"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -22579,7 +22579,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod-0.33.1-slim.jar"
-hash = "5c5fff1752c6a7c3636295e4b131ec31a8bc94307e5d730ef8b40c268b548e84"
+hash = "0cf0a9773e2d8edca1c85284606344ada912986b935bba543b9f5c9aaff2d4a9"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
