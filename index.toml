@@ -16050,7 +16050,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "e96e9427a92311b3908bf1c42bc3248b7a03c6a59265fe64e528be3cd6f5d550"
+hash = "ad9daf5c8e943762d957853727440bad4c3415b8c639aed988de2ef0f5e35668"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -16346,7 +16346,7 @@ hash = "6af9ecb6e78eea51a1fc75f80e5763e33178c706add6a9ed9b2d3547a7ec67d6"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
-hash = "353c63abda29b9e4c9e0cd45b4a250f4441d0552f984766a7bbbe27d47518a60"
+hash = "eae0cd3a7b5c0df23b1fc490c551b20a29279bdc8f2de1a73f60d784448b3ffe"
 
 [[files]]
 file = "config/the_vault/vault_mobs_loot.json"
