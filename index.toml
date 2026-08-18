@@ -16282,7 +16282,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "5967ad0c34324650520ef8e3454eff4d255c03d9c8b7194f9c82f19769ffca21"
+hash = "a5250f4b5453effd6c645cb961fac239c5bdd8d87350bdab4f4f76828125f1be"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
