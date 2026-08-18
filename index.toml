@@ -22041,11 +22041,6 @@ hash = "e2758cded910a465433337daa2963d106081b815b5d7bab55dd13f63b380f210"
 metafile = true
 
 [[files]]
-file = "mods/jer-loot-table-sync.pw.toml"
-hash = "f910af893aa0bc197f1b9a9299700739fe3206ac827670ffe2b94e12b9bcf334"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-vh.pw.toml"
 hash = "86f9b1b38b9da72cbacdecca70160a24e14a49bcb7d2cfebc47f16b48db19712"
 metafile = true
