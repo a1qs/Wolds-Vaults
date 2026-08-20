@@ -4,10 +4,10 @@
 	useEnergy = true
 	#Amount of energy that can be stored in a scanner.
 	#Range: > 0
-	energyCapacityScanner = 5000
+	energyCapacityScanner = 500000
 	#Amount of energy used by the range module per scan.
 	#Range: > 0
-	energyCostModuleRange = 100
+	energyCostModuleRange = 10
 	#Amount of energy used by the animal module per scan.
 	#Range: > 0
 	energyCostModuleAnimal = 25

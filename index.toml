@@ -17454,7 +17454,7 @@ hash = "2fc565c38fcd39bcd281bb9a961aa7085ae2e7df631d876d7b24cadcb58fef7c"
 
 [[files]]
 file = "configureddefaults/config/scannable-common.toml"
-hash = "184a6afca2a3b298f96ae07da142ba856e77797b142af588bc621314fe2804f3"
+hash = "fbd75ee822e9323e8718e8ce336c82635b30e505392bf003383123b76ea3f62f"
 
 [[files]]
 file = "configureddefaults/config/sebastrnlib-client.toml"
