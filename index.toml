@@ -690,11 +690,11 @@ hash = "69a234b6327e41880d3ef505c8011b72565a6bca8114cc31c71bf0d9876ca0f4"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
-hash = "01978cb4e6f512362ab4af98d1b0b67cecd5956b26c625e32360d077e1e3050f"
+hash = "43b5cee428edc3173e3ee63422b728741df9e21aad5d6ac025f288a1b1adaa22"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots_mythic.json"
-hash = "f9574b63a4ebf939fe8939896ea4b0297a48b4f9938ae8d292f64c265c64b5d0"
+hash = "1980792c116392608f39c7f1992a8d43b2f66052ab34caa81b4530e509bd96f5"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/bottle.json"
@@ -4466,7 +4466,7 @@ hash = "d083e4aad60a695437cdb8f25bc27147ca87f07cedb268a608f14ce67fe93060"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_lost_depths.json"
-hash = "bbd9ffe1657e22bde277e400237ecd09109eeb58aecbf88728d03ce11cace8cb"
+hash = "9717dd731b90a95eefc11986213dd44e5d79f43d6b19bdd9ff0aec062114955f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_lush_cave.json"
@@ -16334,7 +16334,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "fc76e35eee900ec3bf54c122a7dd07ded9ca188e75dfaa094a2d846033eb1f1f"
+hash = "9c3e4ab7cce51e2748d93729537040a6cccd131dffb24459929323a413ef6190"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -16486,7 +16486,7 @@ hash = "3e9f4599247042d9de92db4d355a8cdff9c967be5094327249e7f9ffa07dfb89"
 
 [[files]]
 file = "config/the_vault/void_crucible/etching_vendor1.json"
-hash = "b73e1c8731a29114dca7e851cee2382b2198040281f25b1a23c07ea434c32b65"
+hash = "8942a83ea768fbe5264d4aa9c0e8c28b8716bc8caf0f17d1c559f7eeb0553db2"
 
 [[files]]
 file = "config/the_vault/void_crucible/factory.json"
@@ -16586,7 +16586,7 @@ hash = "802b8f8f469fffa6b02e1c85182edea26505febf7b35359ec6e7045cc5259363"
 
 [[files]]
 file = "config/the_vault/void_crucible/vendoors.json"
-hash = "5fad36b9e52dcdfc0a8ba29f4bc9c737a01756eeef6853692b9102db159d9c8e"
+hash = "ed986647a7a9a511c30e0cc8b7a49bcb44c1d49da3cd5842da29c3c6eae9e9fc"
 
 [[files]]
 file = "config/the_vault/void_crucible/village.json"
@@ -16642,7 +16642,7 @@ hash = "6314593a2b9ee4bac451b08f922768f825d371135d770ff56f2de194042fbb3e"
 
 [[files]]
 file = "config/world-gen.json"
-hash = "5e9f18e923c39eae3e29a76e34a00dcfa2c2582700bc11f4d960eae130249ab8"
+hash = "5405b3e39b994efda9284005e1f2fca7baa3c5716d7d0de06ded67babbac4ddc"
 
 [[files]]
 file = "configureddefaults/README.md"
