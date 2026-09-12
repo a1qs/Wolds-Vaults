@@ -35,7 +35,6 @@
             "target": "minecraft:coarse_dirt",
             "output": {
                 "the_vault:vault_bedrock": 1,
-                "occultism:otherstone": 3,
                 "minecraft:purple_concrete": 6
             }
         },

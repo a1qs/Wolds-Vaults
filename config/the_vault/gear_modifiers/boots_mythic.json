@@ -154,32 +154,6 @@
             }
           }
         ]
-      },
-      {
-        "attribute": "the_vault:effect",
-        "group": "BaseBonusPool",
-        "identifier": "the_vault:potion_effect_multijump",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "effectKey": "occultism:double_jump",
-              "amplifier": 2
-            }
-          },
-          {
-            "minLevel": 1,
-            "maxLevel": -1,
-            "weight": 40,
-            "value": {
-              "effectKey": "occultism:double_jump",
-              "amplifier": 3
-            }
-          }
-        ]
       }
     ],
     "PREFIX": [
