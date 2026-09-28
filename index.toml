@@ -4142,7 +4142,7 @@ hash = "4a7ae8e0cf9eb051e437aca32e904714b4b6a2a0b66055575f3413fc735a4190"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/modded_ore_placeholder.json"
-hash = "6fe092c39e8f1cb29890fc680b38b36467f090248964b0f1945530124feb33fc"
+hash = "ebe9c6d0ff5e327fe4169f6e798287995b65650b456549a897a62129000e1ad4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/nether/base.json"
@@ -15454,7 +15454,7 @@ hash = "dd3218db25bdc799cf4f43601c1d5ff3b2f2aabd96862b847de7f271f459e094"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "20fd09cfbdd08c85cbf2cb83649832c9b98e8cf47c53e3c9b163eca83e9a8425"
+hash = "b6511868f5c9dadab162a681fb86c8a2f304d3ac8f7331e9cdace4f5c819de67"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -22686,7 +22686,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod-0.34.2-slim.jar"
-hash = "755abac37c6a84d3a08da195e31229f41286b58a7d8494eb6006121029f7fb5a"
+hash = "080f98e937fbb5286189289766a94a9c7b09798ce151956160670cf85a21db16"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"

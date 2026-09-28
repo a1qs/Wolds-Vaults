@@ -21,16 +21,6 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_autumn_cherry_grove.json"
     },
     {
-      "id": "the_vault:universal_plastic",
-      "name": "Universal Plastic",
-      "1.0": "config/the_vault/gen/1.0/palettes/universal_plastic.json"
-    },
-    {
-      "id": "the_vault:universal_plastic_playtime",
-      "name": "Universal Plastic Playtime",
-      "1.0": "config/the_vault/gen/1.0/palettes/universal_plastic_playtime.json"
-    },
-    {
       "id": "the_vault:universal_cave",
       "name": "Universal Cave",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_cave.json"
