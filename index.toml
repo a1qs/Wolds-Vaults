@@ -21651,6 +21651,11 @@ hash = "aa98811cba07f89561a47955a38c829d35b35913f68c32d4a17059a1f9ae4cf5"
 metafile = true
 
 [[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "65890e656beff8a6ff806c528e1de27c0fae2af2e6975a44df1183cfef45ea16"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "80e804198046d50bc7e0e3fef865a11fc35debbbaee423d4a04ee8c8831cc163"
 metafile = true
