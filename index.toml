@@ -21701,6 +21701,11 @@ hash = "02522c34924c5361af95b66ab6e77b7b5ccb58db1da775666ff8476885af8fba"
 metafile = true
 
 [[files]]
+file = "mods/black-market-tweaks.pw.toml"
+hash = "fedc66fd10d971c69058859936e6c43273b4dda0e89d1698a0dada8d3b261ef0"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "d191dcd873c0d8173c7b5afed72104a0584c1d37d858d4e5e2abc42b32189c9b"
 metafile = true
